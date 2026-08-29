@@ -1,0 +1,851 @@
+Course_ID,Course_Name,Category,Subcategory,Language,Instructor,Duration_Hours,Views,Ratings,Number_of_Reviews,Skills,Skill_Count,Subtitles,Course_Level,Course_Price,Enrollment,Course_Date,Course_Year,Course_Month,Views_Outlier,Duration_Outlier
+CRS10362,Advanced Personal Finance Masterclass,Personal Development,Personal Finance,Hindi,Carlos Zhang,3.7,1626,3.8,94,"SQL, Kubernetes",2,No,Intermediate,99.99,262,2024-05-10,2024,5,False,False
+CRS10423,UX/UI Design: Zero to Hero,Design,Ux/Ui Design,Mandarin,Aisha Garcia,15.2,720,4.0,19,"Unreal Engine, Photoshop",2,Yes,All Levels,99.99,164,2024-02-17,2024,2,False,True
+CRS10068,Practical 3D & Animation Projects,Design,3D & Animation,Japanese,Ahmed Zhang,11.6,10336,4.2,160,Video Editing,1,No,Beginner,12.99,1535,2025-06-15,2025,6,False,False
+CRS10780,Project Management: Zero to Hero,Business,Project Management,Spanish,Sofia Chen,4.8,6011,4.1,144,Piano,1,No,Intermediate,0.0,522,2025-11-26,2025,11,False,False
+CRS10395,Complete Entrepreneurship Bootcamp,Business,Entrepreneurship,Hindi,Thomas Fernandez,7.2,1640,4.7,48,"After Effects, Financial Modeling, Data Visualization, Cybersecurity Basics, HTML/CSS",5,No,Intermediate,9.99,315,2023-04-01,2023,4,False,False
+CRS10606,Practical Cloud Computing Projects,It & Software,Cloud Computing,French,Michael Weber,4.9,1279,4.3,31,"Photoshop, After Effects, Negotiation, Google Ads",4,No,Advanced,49.99,233,2024-06-12,2024,6,False,False
+CRS10847,Personal Finance for Beginners,Personal Development,Personal Finance,Hindi,Anastasia Chen,6.4,9105,4.7,537,"Git, Statistics",2,Yes,Beginner,99.99,2250,2024-01-02,2024,1,False,False
+CRS10605,Game Development Crash Course,Development,Game Development,English,Yusuf Novak,4.6,606,4.2,6,JavaScript,1,Yes,Advanced,79.99,106,2023-08-17,2023,8,False,False
+CRS10024,Instruments for Beginners,Music,Instruments,Hindi,Neha Ali,4.5,1953,4.3,33,"Public Speaking, Agile, HTML/CSS, Video Editing, Git",5,No,All Levels,9.99,288,2025-08-30,2025,8,False,False
+CRS10813,Photography Basics for Beginners,Photography & Video,Photography Basics,French,Hiro Singh,7.3,6632,4.6,320,"Power BI, AWS, Unity, Public Speaking, C++",5,Yes,Advanced,59.99,482,2023-03-30,2023,3,False,False
+CRS10077,Complete Project Management Bootcamp,Business,Project Management,Mandarin,Priya Diaz,11.6,3902,4.8,119,Financial Modeling,1,No,Advanced,12.99,408,2023-08-01,2023,8,False,False
+CRS10450,Mastering Video Editing in 2025,Photography & Video,Video Editing,German,Sara Khan,2.0,2342,3.9,109,"Power BI, Node.js, Accounting",3,Yes,Intermediate,99.99,447,2025-05-06,2025,5,False,False
+CRS10045,Mastering Network & Security in 2025,It & Software,Network & Security,Hindi,Liam Rossi,6.1,5614,3.9,272,Negotiation,1,Yes,All Levels,24.99,523,2025-09-26,2025,9,False,False
+CRS10209,The Ultimate Network & Security Course,It & Software,Network & Security,English,Sofia Johnson,11.3,4834,4.3,176,"Music Theory, Accounting",2,No,All Levels,0.0,1147,2023-03-23,2023,3,False,False
+CRS10670,Practical Video Editing Projects,Photography & Video,Video Editing,Arabic,Ahmed Nguyen,14.5,3300,3.8,67,"Music Theory, Kubernetes",2,Yes,Intermediate,79.99,348,2024-02-03,2024,2,False,True
+CRS10482,The Ultimate Videography Course,Photography & Video,Videography,Spanish,Emily Rossi,3.4,1926,4.1,105,Video Editing,1,No,Intermediate,0.0,175,2025-02-21,2025,2,False,False
+CRS10310,Practical Programming Languages Projects,Development,Programming Languages,Spanish,Kenji Garcia,3.3,8977,4.0,485,"Node.js, Python, Tableau, Statistics",4,No,Advanced,59.99,1891,2023-03-08,2023,3,False,False
+CRS10216,Complete Project Management Bootcamp,Business,Project Management,Mandarin,Yusuf Rossi,13.1,1254,4.7,0,"Unity, After Effects, Guitar, Git",4,No,Advanced,99.99,204,2025-03-24,2025,3,False,False
+CRS10255,Advanced Business Strategy Masterclass,Business,Business Strategy,Portuguese,Aarav Kim,17.3,984,4.2,27,"Statistics, Video Editing",2,No,Beginner,24.99,130,2025-09-19,2025,9,False,True
+CRS10445,Advanced Project Management Masterclass,Business,Project Management,English,Noah Kim,4.7,5182,3.9,143,"Python, Photoshop, Copywriting, Excel",4,No,Advanced,99.99,903,2025-12-29,2025,12,False,False
+CRS10073,Videography Crash Course,Photography & Video,Videography,Spanish,Neha Petrov,16.7,1240,4.2,34,"Accounting, Piano, JavaScript, Music Theory",4,Yes,Advanced,0.0,206,2023-11-25,2023,11,False,True
+CRS10291,Mastering Music Production in 2025,Music,Music Production,Japanese,Aarav Kim,7.3,2342,5.0,74,"Music Theory, Excel, JavaScript",3,No,Advanced,34.99,458,2024-07-12,2024,7,False,False
+CRS10526,Instruments for Beginners,Music,Instruments,Spanish,Anastasia Sharma,4.7,3362,3.8,138,"React, Tableau",2,Yes,Beginner,59.99,352,2023-07-18,2023,7,False,False
+CRS10087,Social Media Marketing Crash Course,Marketing,Social Media Marketing,English,Michael Costa,5.6,6925,3.9,132,"Photoshop, Deep Learning, Copywriting, Scrum",4,Yes,Beginner,9.99,824,2025-06-19,2025,6,False,False
+CRS10067,Practical Sales Projects,Business,Sales,Arabic,Thomas Kim,2.4,941,4.0,13,HTML/CSS,1,No,All Levels,49.99,193,2023-03-26,2023,3,False,False
+CRS10434,Practical Instruments Projects,Music,Instruments,Mandarin,Neha Johnson,4.2,4937,3.7,122,"JavaScript, Statistics, Google Ads, Unreal Engine",4,Yes,Intermediate,59.99,952,2025-10-30,2025,10,False,False
+CRS10719,Practical Video Editing Projects,Photography & Video,Video Editing,Portuguese,Lucia Kim,13.0,7505,4.1,251,"Statistics, Unity, Piano, Unreal Engine",4,No,Intermediate,49.99,1577,2024-11-21,2024,11,False,False
+CRS10584,Mastering Web Development in 2025,Development,Web Development,Arabic,Maria Ito,11.1,8641,4.4,122,Public Speaking,1,Yes,Advanced,0.0,1111,2023-11-22,2023,11,False,False
+CRS10449,Design Tools: Zero to Hero,Design,Design Tools,Hindi,Rahul Kumar,4.6,5357,4.1,316,"Google Ads, Piano, SEO, Unreal Engine, JavaScript",5,No,Intermediate,24.99,340,2025-03-08,2025,3,False,False
+CRS10843,Practical Music Theory Projects,Music,Music Theory,Portuguese,Yusuf Chen,8.3,2236,3.9,56,"Financial Modeling, Azure, Photoshop, Node.js, Guitar",5,No,Beginner,0.0,153,2024-02-18,2024,2,False,False
+CRS10528,Practical Design Tools Projects,Design,Design Tools,German,Rahul Kumar,5.5,1999,4.5,86,"JavaScript, Scrum, Data Visualization, Git",4,Yes,Advanced,49.99,410,2023-09-04,2023,9,False,False
+CRS10320,Productivity Crash Course,Personal Development,Productivity,Hindi,Olga Garcia,9.2,732,3.5,15,"Docker, Azure",2,No,Advanced,59.99,41,2025-10-01,2025,10,False,False
+CRS10329,Photography Basics for Beginners,Photography & Video,Photography Basics,Mandarin,Emily Ali,3.5,8584,5.0,468,"Google Ads, Piano, Excel",3,Yes,All Levels,0.0,747,2025-02-27,2025,2,False,False
+CRS10175,Advanced Music Production Masterclass,Music,Music Production,Mandarin,Anastasia Smith,4.6,4711,4.4,71,"Negotiation, Figma",2,Yes,All Levels,99.99,1118,2025-01-04,2025,1,False,False
+CRS10071,Personal Finance for Beginners,Personal Development,Personal Finance,French,Wei Johnson,6.6,3263,4.5,117,"Guitar, Music Theory, Excel, Negotiation, HTML/CSS",5,Yes,All Levels,9.99,573,2023-11-29,2023,11,False,False
+CRS10219,Mastering Digital Marketing in 2025,Marketing,Digital Marketing,Arabic,Carlos Singh,5.0,1385,3.7,41,"Excel, Unreal Engine",2,No,Intermediate,79.99,261,2023-12-14,2023,12,False,False
+CRS10245,Digital Marketing for Beginners,Marketing,Digital Marketing,Japanese,Isabella Brown,8.5,7095,5.0,397,"3D Modeling, Node.js",2,No,All Levels,0.0,1059,2025-01-03,2025,1,False,False
+CRS10707,Videography Crash Course,Photography & Video,Videography,French,Anastasia Silva,5.4,2106,3.9,103,"Node.js, Scrum",2,No,Intermediate,0.0,156,2025-10-30,2025,10,False,False
+CRS10282,Mastering Mobile Development in 2025,Development,Mobile Development,Arabic,Kenji Petrov,2.2,22591,4.4,769,"Copywriting, 3D Modeling, Git",3,No,Advanced,0.0,4031,2023-01-17,2023,1,True,False
+CRS10260,Practical Instruments Projects,Music,Instruments,Portuguese,Grace Kumar,2.5,409,4.4,23,Data Visualization,1,No,Beginner,19.99,84,2025-04-25,2025,4,False,False
+CRS10483,Mastering Social Media Marketing in 2025,Marketing,Social Media Marketing,Arabic,Yusuf Patel,2.6,3327,4.3,165,"AWS, Video Editing",2,No,Advanced,49.99,212,2023-09-26,2023,9,False,False
+CRS10805,Mastering Leadership in 2025,Personal Development,Leadership,Japanese,Thomas Kim,4.0,7201,3.8,254,"React, C++, 3D Modeling, HTML/CSS",4,No,Beginner,59.99,1480,2023-10-29,2023,10,False,False
+CRS10747,Advanced Project Management Masterclass,Business,Project Management,Spanish,Fatima Diaz,4.2,26984,4.4,924,"Unreal Engine, Figma, Google Ads, Excel",4,No,Advanced,99.99,1810,2023-11-30,2023,11,True,False
+CRS10798,Database Design: Zero to Hero,Development,Database Design,Hindi,Olga Reddy,4.1,4871,4.1,0,"Power BI, Music Theory",2,No,Advanced,34.99,551,2025-03-25,2025,3,False,False
+CRS10704,The Ultimate Game Development Course,Development,Game Development,Hindi,Ahmed Kumar,4.2,11703,4.3,314,"Piano, Guitar, C++",3,Yes,Advanced,34.99,2522,2023-12-23,2023,12,False,False
+CRS10478,Advanced IT Certifications Masterclass,It & Software,It Certifications,Arabic,David Ali,7.3,75489,4.5,1680,"React, C++, Power BI",3,No,Beginner,79.99,4646,2023-12-22,2023,12,True,False
+CRS10815,Mastering Music Theory in 2025,Music,Music Theory,Hindi,Liam Novak,5.8,2501,4.3,61,"Guitar, Negotiation, Networking, Unreal Engine, Agile",5,Yes,All Levels,12.99,397,2026-01-09,2026,1,False,False
+CRS10276,Personal Finance: Zero to Hero,Personal Development,Personal Finance,German,Emily Sharma,8.7,4895,4.1,161,Kubernetes,1,No,Advanced,19.99,253,2023-10-17,2023,10,False,False
+CRS10446,Leadership: Zero to Hero,Personal Development,Leadership,English,Wei Kim,3.0,1611,4.9,21,"Unreal Engine, Piano",2,Yes,Advanced,19.99,333,2023-09-21,2023,9,False,False
+CRS10452,Instruments Crash Course,Music,Instruments,Japanese,Wei Kumar,3.9,3032,4.3,121,"React, Deep Learning, Python, HTML/CSS, Docker",5,No,Beginner,24.99,198,2025-12-30,2025,12,False,False
+CRS10210,Social Media Marketing Crash Course,Marketing,Social Media Marketing,Mandarin,Michael Johnson,8.6,4234,4.1,73,"Music Theory, Deep Learning",2,No,Advanced,24.99,1047,2025-09-14,2025,9,False,False
+CRS10399,Practical Cybersecurity Projects,It & Software,Cybersecurity,French,Lucia Reddy,5.8,3917,5.0,100,"Docker, Google Ads",2,Yes,Advanced,9.99,802,2024-11-26,2024,11,False,False
+CRS10451,SEO Crash Course,Marketing,Seo,Japanese,Hiro Patel,1.8,1664,4.0,56,"Data Visualization, Public Speaking, Machine Learning",3,No,Beginner,12.99,172,2023-07-11,2023,7,False,False
+CRS10421,Network & Security for Beginners,It & Software,Network & Security,English,Ahmed Chen,1.6,13963,4.0,780,"Excel, Music Theory, Data Visualization",3,No,Advanced,0.0,982,2024-04-14,2024,4,False,False
+CRS10632,Practical Business Strategy Projects,Business,Business Strategy,French,Neha Khan,4.3,3253,3.9,58,Deep Learning,1,Yes,Beginner,12.99,640,2024-04-08,2024,4,False,False
+CRS10844,Videography: Zero to Hero,Photography & Video,Videography,Portuguese,Maria Garcia,4.1,2481,3.9,123,"Machine Learning, SQL, C++, 3D Modeling, AWS",5,No,Advanced,99.99,194,2023-02-19,2023,2,False,False
+CRS10040,The Ultimate Business Strategy Course,Business,Business Strategy,Mandarin,Wanjiru Garcia,6.0,1258,4.6,56,"Deep Learning, Piano, Excel",3,No,Advanced,19.99,153,2024-10-24,2024,10,False,False
+CRS10140,Design Tools Crash Course,Design,Design Tools,Hindi,Noah Sharma,6.4,3286,3.8,77,"Statistics, 3D Modeling",2,No,Intermediate,49.99,176,2023-05-30,2023,5,False,False
+CRS10312,Music Theory for Beginners,Music,Music Theory,French,Noah Singh,3.1,3867,3.8,41,"Financial Modeling, Agile, Networking",3,No,Beginner,49.99,626,2025-12-25,2025,12,False,False
+CRS10111,Practical Content Marketing Projects,Marketing,Content Marketing,Japanese,Aisha Mueller,11.3,4722,5.0,102,"JavaScript, Cybersecurity Basics, Public Speaking, Kubernetes",4,No,All Levels,0.0,1085,2024-03-29,2024,3,False,False
+CRS10410,The Ultimate Instruments Course,Music,Instruments,Japanese,Wanjiru Silva,8.0,1958,4.2,98,"Guitar, Data Visualization",2,No,Beginner,34.99,277,2024-02-27,2024,2,False,False
+CRS10031,The Ultimate Business Strategy Course,Business,Business Strategy,Arabic,Olga Garcia,7.7,6136,4.5,87,"HTML/CSS, Guitar, Cybersecurity Basics",3,No,Advanced,24.99,505,2024-05-17,2024,5,False,False
+CRS10333,Cybersecurity: Zero to Hero,It & Software,Cybersecurity,Hindi,Noah Reddy,20.3,9179,4.8,501,"Networking, Video Editing, After Effects",3,No,Beginner,0.0,1272,2025-05-31,2025,5,False,True
+CRS10212,Photography Basics for Beginners,Photography & Video,Photography Basics,English,Fatima Khan,16.0,2588,3.9,113,"C++, Power BI, AWS, After Effects, Azure",5,No,All Levels,79.99,631,2023-02-08,2023,2,False,True
+CRS10465,Practical Finance Projects,Business,Finance,Japanese,Daniel Brown,10.2,59609,4.6,2582,"Python, AWS",2,No,Beginner,59.99,12367,2025-07-21,2025,7,True,False
+CRS10358,Practical Design Tools Projects,Design,Design Tools,Mandarin,Rahul Petrov,5.5,2678,3.6,147,"HTML/CSS, Azure, Git",3,No,Beginner,24.99,196,2025-11-17,2025,11,False,False
+CRS10717,Cloud Computing Crash Course,It & Software,Cloud Computing,Portuguese,Thomas Mueller,10.0,1093,4.3,55,Public Speaking,1,No,Beginner,12.99,138,2025-02-04,2025,2,False,False
+CRS10500,The Ultimate Web Development Course,Development,Web Development,Portuguese,Elena Petrov,8.0,1984,3.7,85,"React, Docker, Unreal Engine",3,Yes,Beginner,59.99,422,2025-11-14,2025,11,False,False
+CRS10765,Design Tools for Beginners,Design,Design Tools,English,Elena Singh,6.4,1201,4.9,68,"Financial Modeling, Java, Deep Learning",3,No,All Levels,79.99,126,2024-08-12,2024,8,False,False
+CRS10300,IT Certifications for Beginners,It & Software,It Certifications,Hindi,Grace Diaz,7.4,11212,4.5,157,"Excel, Photoshop, Java, Python, Azure",5,No,Advanced,0.0,1588,2025-07-23,2025,7,False,False
+CRS10097,Web Development Crash Course,Development,Web Development,Portuguese,Emily Singh,5.8,57568,4.2,1392,"Data Visualization, Cybersecurity Basics",2,No,Intermediate,19.99,7058,2024-10-19,2024,10,True,False
+CRS10193,3D & Animation Crash Course,Design,3D & Animation,Portuguese,Ahmed Khan,3.6,4296,4.0,195,"Copywriting, Piano, Public Speaking, Node.js, Kubernetes",5,Yes,Advanced,99.99,963,2024-12-08,2024,12,False,False
+CRS10553,Mastering Photography Basics in 2025,Photography & Video,Photography Basics,Hindi,Hiro Silva,7.0,853,4.3,29,"Photoshop, Google Ads, React, Negotiation, Unity",5,No,Beginner,0.0,84,2023-06-01,2023,6,False,False
+CRS10356,The Ultimate Digital Marketing Course,Marketing,Digital Marketing,English,Ahmed Rossi,2.7,2411,5.0,41,"Java, Kubernetes, Power BI, Google Ads, Public Speaking",5,No,Beginner,59.99,354,2025-02-20,2025,2,False,False
+CRS10637,The Ultimate UX/UI Design Course,Design,Ux/Ui Design,Spanish,Michael Diaz,6.5,3609,4.5,43,"Guitar, HTML/CSS",2,No,Intermediate,19.99,473,2023-04-11,2023,4,False,False
+CRS10576,Advanced Music Theory Masterclass,Music,Music Theory,Hindi,Olga Diaz,5.0,597,5.0,28,"Scrum, Financial Modeling, Git",3,Yes,Intermediate,34.99,93,2025-02-05,2025,2,False,False
+CRS10266,Complete Instruments Bootcamp,Music,Instruments,French,Liam Petrov,10.7,5324,4.5,154,"Power BI, Azure",2,Yes,Advanced,0.0,485,2023-10-25,2023,10,False,False
+CRS10619,Practical SEO Projects,Marketing,Seo,German,Hiro Chen,10.3,14872,4.3,691,"C++, Unity, Copywriting, 3D Modeling",4,Yes,Beginner,49.99,2585,2024-05-17,2024,5,False,False
+CRS10653,Cloud Computing for Beginners,It & Software,Cloud Computing,Spanish,Aarav Diaz,4.8,4136,4.5,154,"Machine Learning, JavaScript, Deep Learning",3,No,All Levels,34.99,599,2025-02-19,2025,2,False,False
+CRS10696,Advanced Photography Basics Masterclass,Photography & Video,Photography Basics,Arabic,Isabella Johnson,14.3,327,4.4,13,"Figma, Unity",2,No,Advanced,0.0,81,2025-01-23,2025,1,False,True
+CRS10588,Mastering Programming Languages in 2025,Development,Programming Languages,Portuguese,Yusuf Fernandez,5.6,9483,4.2,272,"Photoshop, JavaScript, Statistics, Java",4,Yes,Intermediate,34.99,1517,2024-10-31,2024,10,False,False
+CRS10345,Productivity for Beginners,Personal Development,Productivity,Arabic,Lucia Brown,1.4,2786,4.3,39,"Machine Learning, Photoshop, Copywriting",3,Yes,Intermediate,49.99,336,2024-10-11,2024,10,False,False
+CRS10353,The Ultimate Music Production Course,Music,Music Production,Mandarin,Elena Reddy,10.6,700,4.1,22,"AWS, Public Speaking, Networking, C++",4,No,All Levels,0.0,57,2024-01-22,2024,1,False,False
+CRS10773,Productivity Crash Course,Personal Development,Productivity,Arabic,Hiro Patel,6.2,8600,4.3,393,"Cybersecurity Basics, Photoshop, Guitar",3,Yes,Intermediate,34.99,1427,2023-02-03,2023,2,False,False
+CRS10328,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,Spanish,Isabella Sharma,8.9,679,4.7,8,"Video Editing, Cybersecurity Basics",2,No,Intermediate,49.99,156,2023-08-08,2023,8,False,False
+CRS10752,Mastering UX/UI Design in 2025,Design,Ux/Ui Design,Portuguese,Wanjiru Chen,3.9,2835,4.4,165,"Music Theory, Unity, HTML/CSS, Docker",4,No,Beginner,49.99,691,2026-01-25,2026,1,False,False
+CRS10782,Mastering Project Management in 2025,Business,Project Management,Arabic,Anastasia Reddy,15.0,6840,4.4,216,"Negotiation, SQL, Excel",3,No,Beginner,99.99,1074,2023-02-19,2023,2,False,True
+CRS10474,Mastering Cybersecurity in 2025,It & Software,Cybersecurity,Mandarin,Neha Kumar,5.9,6342,5.0,124,"SEO, C++, Machine Learning, Public Speaking",4,No,Intermediate,34.99,1406,2024-12-23,2024,12,False,False
+CRS10339,Advanced Sales Masterclass,Business,Sales,Mandarin,David Fernandez,3.9,3150,4.0,157,"Scrum, Piano, Azure, SQL, Node.js",5,Yes,Intermediate,79.99,517,2025-10-19,2025,10,False,False
+CRS10121,Complete Cybersecurity Bootcamp,It & Software,Cybersecurity,Mandarin,Neha Rossi,14.7,1761,4.2,104,"Java, Copywriting, Public Speaking, Unreal Engine, Docker",5,No,Intermediate,34.99,383,2024-10-15,2024,10,False,True
+CRS10064,Complete Business Strategy Bootcamp,Business,Business Strategy,Portuguese,Thomas Weber,2.8,4367,3.9,56,Photoshop,1,No,All Levels,59.99,698,2023-06-11,2023,6,False,False
+CRS10661,Web Development Crash Course,Development,Web Development,French,Emily Kim,16.0,32544,4.8,1243,"Azure, Statistics, Figma",3,No,All Levels,0.0,3327,2023-11-16,2023,11,True,True
+CRS10784,Advanced SEO Masterclass,Marketing,Seo,Spanish,Elena Singh,0.8,8673,4.4,207,"Music Theory, Tableau, C++, Azure",4,No,Advanced,59.99,1136,2023-03-28,2023,3,False,False
+CRS10579,Game Development: Zero to Hero,Development,Game Development,Japanese,Michael Petrov,5.7,21532,4.6,565,"AWS, Unity, Accounting",3,No,All Levels,34.99,1245,2023-05-06,2023,5,True,False
+CRS10066,Practical Network & Security Projects,It & Software,Network & Security,Arabic,Hiro Ito,11.6,3115,4.4,44,"Node.js, Public Speaking, C++",3,No,All Levels,49.99,770,2024-09-12,2024,9,False,False
+CRS10501,Mastering Game Development in 2025,Development,Game Development,French,Liam Mueller,8.1,2617,4.5,37,"Piano, Google Ads, Scrum",3,Yes,All Levels,34.99,496,2025-11-15,2025,11,False,False
+CRS10169,Advanced Game Development Masterclass,Development,Game Development,German,Wanjiru Weber,3.5,11926,5.0,278,"Java, Copywriting",2,No,All Levels,24.99,2692,2024-07-05,2024,7,False,False
+CRS10384,Personal Finance Crash Course,Personal Development,Personal Finance,Hindi,Olga Diaz,7.9,4956,4.1,116,"Piano, Unity, JavaScript",3,No,Intermediate,19.99,740,2025-04-13,2025,4,False,False
+CRS10079,Advanced Game Development Masterclass,Development,Game Development,Hindi,Olga Brown,2.1,12300,3.9,504,"Negotiation, Azure, Networking, Accounting",4,No,Advanced,0.0,1498,2025-05-19,2025,5,False,False
+CRS10137,Design Tools: Zero to Hero,Design,Design Tools,Hindi,John Khan,1.9,407,5.0,10,"Python, Negotiation, React, Git",4,Yes,All Levels,0.0,97,2024-04-13,2024,4,False,False
+CRS10558,Sales: Zero to Hero,Business,Sales,French,David Garcia,1.8,12100,4.3,328,"Tableau, Public Speaking, Excel, Git, JavaScript",5,No,Advanced,12.99,2371,2023-03-14,2023,3,False,False
+CRS10548,Personal Finance: Zero to Hero,Personal Development,Personal Finance,Mandarin,Wei Sharma,2.8,2832,4.4,114,"Data Visualization, Accounting, Cybersecurity Basics",3,No,Advanced,79.99,525,2023-03-05,2023,3,False,False
+CRS10634,UX/UI Design Crash Course,Design,Ux/Ui Design,Portuguese,Grace Nguyen,9.4,10381,4.4,309,"Deep Learning, Agile, Kubernetes, Scrum, HTML/CSS",5,Yes,All Levels,0.0,1134,2024-07-26,2024,7,False,False
+CRS10261,Mastering Graphic Design in 2025,Design,Graphic Design,Arabic,Grace Weber,6.5,2066,5.0,46,"Git, Deep Learning",2,No,All Levels,24.99,450,2025-03-18,2025,3,False,False
+CRS10785,Complete Instruments Bootcamp,Music,Instruments,English,Hiro Patel,8.1,2726,4.0,38,Accounting,1,Yes,Advanced,59.99,220,2023-11-04,2023,11,False,False
+CRS10589,Videography Crash Course,Photography & Video,Videography,Japanese,Sara Chen,5.8,1554,4.1,33,"Azure, Photoshop, Accounting, Negotiation, Video Editing",5,No,All Levels,24.99,331,2024-04-16,2024,4,False,False
+CRS10757,Mobile Development: Zero to Hero,Development,Mobile Development,German,Emily Reddy,5.9,2501,4.4,110,"Scrum, Video Editing, React, Cybersecurity Basics, HTML/CSS",5,Yes,Beginner,24.99,591,2023-07-08,2023,7,False,False
+CRS10532,Complete Music Production Bootcamp,Music,Music Production,Spanish,Kenji Khan,12.7,1786,4.4,69,"Docker, After Effects",2,No,Advanced,12.99,264,2024-02-17,2024,2,False,False
+CRS10755,Programming Languages for Beginners,Development,Programming Languages,Japanese,Aisha Reddy,2.9,7100,4.6,263,"Piano, Negotiation, Azure, Guitar",4,Yes,Beginner,99.99,705,2025-05-29,2025,5,False,False
+CRS10763,Complete Business Strategy Bootcamp,Business,Business Strategy,German,Olga Johnson,12.2,18724,4.2,1016,Java,1,Yes,Beginner,0.0,1260,2025-09-03,2025,9,False,False
+CRS10050,The Ultimate Sales Course,Business,Sales,Mandarin,Neha Costa,11.1,45700,4.7,1415,"SEO, AWS, After Effects, Cybersecurity Basics, Google Ads",5,Yes,Advanced,0.0,4548,2025-08-17,2025,8,True,False
+CRS10138,Social Media Marketing Crash Course,Marketing,Social Media Marketing,Spanish,Sara Khan,4.2,7178,4.7,358,"AWS, Agile, Financial Modeling, Kubernetes, Node.js",5,No,All Levels,79.99,969,2025-06-25,2025,6,False,False
+CRS10199,The Ultimate Web Development Course,Development,Web Development,Arabic,Priya Singh,6.6,8739,4.6,411,Statistics,1,Yes,Advanced,0.0,1180,2025-11-24,2025,11,False,False
+CRS10636,Advanced Cybersecurity Masterclass,It & Software,Cybersecurity,Arabic,John Novak,6.4,63637,4.1,3273,"Docker, C++, Figma, SQL, Financial Modeling",5,No,Intermediate,79.99,13153,2025-12-22,2025,12,True,False
+CRS10232,Practical 3D & Animation Projects,Design,3D & Animation,Spanish,Aarav Smith,3.9,5469,5.0,100,"Cybersecurity Basics, Scrum, Guitar",3,No,All Levels,9.99,1079,2026-01-09,2026,1,False,False
+CRS10677,Content Marketing Crash Course,Marketing,Content Marketing,Portuguese,Sara Johnson,2.5,6811,4.0,287,"Python, 3D Modeling, SQL, Copywriting, Statistics",5,Yes,All Levels,34.99,1355,2025-03-06,2025,3,False,False
+CRS10448,Photography Basics for Beginners,Photography & Video,Photography Basics,Hindi,Sara Costa,5.3,10300,4.9,205,Accounting,1,No,Advanced,9.99,1378,2024-04-07,2024,4,False,False
+CRS10552,The Ultimate SEO Course,Marketing,Seo,Portuguese,Olga Novak,2.7,9360,4.2,122,"Azure, Scrum",2,Yes,Beginner,34.99,640,2024-06-23,2024,6,False,False
+CRS10382,Complete Network & Security Bootcamp,It & Software,Network & Security,Japanese,John Zhang,10.8,188,4.4,7,"C++, Azure, After Effects",3,No,Intermediate,19.99,32,2025-04-14,2025,4,False,False
+CRS10034,Social Media Marketing: Zero to Hero,Marketing,Social Media Marketing,French,Carlos Fernandez,3.3,13352,4.5,572,"Music Theory, Unreal Engine, Google Ads, JavaScript, Docker",5,Yes,Advanced,9.99,2185,2024-09-11,2024,9,False,False
+CRS10032,Music Theory Crash Course,Music,Music Theory,Portuguese,Fatima Kumar,10.9,3332,4.0,0,"SEO, Unreal Engine, Piano",3,Yes,Intermediate,0.0,273,2024-05-09,2024,5,False,False
+CRS10519,Leadership: Zero to Hero,Personal Development,Leadership,French,Kenji Diaz,6.7,6433,4.2,156,"Agile, Music Theory, Azure, After Effects, Financial Modeling",5,No,All Levels,79.99,1354,2025-05-04,2025,5,False,False
+CRS10666,Mastering Video Editing in 2025,Photography & Video,Video Editing,German,Sofia Garcia,5.6,8660,4.3,171,"SQL, Agile, Tableau, Photoshop",4,No,Advanced,59.99,472,2023-11-26,2023,11,False,False
+CRS10417,Complete Photography Basics Bootcamp,Photography & Video,Photography Basics,Portuguese,Sara Singh,2.7,5868,4.2,86,AWS,1,Yes,Beginner,34.99,796,2025-11-15,2025,11,False,False
+CRS10315,Practical Social Media Marketing Projects,Marketing,Social Media Marketing,Portuguese,Daniel Smith,7.1,448,4.1,15,"HTML/CSS, AWS",2,Yes,Advanced,9.99,96,2023-12-26,2023,12,False,False
+CRS10681,Design Tools for Beginners,Design,Design Tools,Arabic,Fatima Kumar,8.8,2504,4.1,111,Agile,1,Yes,Beginner,0.0,598,2023-12-27,2023,12,False,False
+CRS10488,Practical Instruments Projects,Music,Instruments,Hindi,Isabella Khan,9.1,203,4.4,2,"Public Speaking, 3D Modeling",2,Yes,All Levels,0.0,25,2025-01-10,2025,1,False,False
+CRS10627,Advanced Personal Finance Masterclass,Personal Development,Personal Finance,Japanese,Aarav Sharma,5.0,18517,4.4,1082,Financial Modeling,1,No,Advanced,0.0,2325,2025-06-08,2025,6,False,False
+CRS10110,Web Development for Beginners,Development,Web Development,Japanese,Wanjiru Rossi,5.8,3935,4.2,113,"Docker, React",2,Yes,All Levels,12.99,560,2024-02-23,2024,2,False,False
+CRS10078,Practical Network & Security Projects,It & Software,Network & Security,Spanish,John Weber,5.9,5508,4.2,90,"Docker, Excel, Public Speaking",3,No,All Levels,59.99,1326,2025-08-27,2025,8,False,False
+CRS10306,Leadership: Zero to Hero,Personal Development,Leadership,French,Wanjiru Fernandez,6.9,1407,4.8,81,"Unity, Networking, Power BI, Git",4,Yes,All Levels,9.99,127,2025-03-04,2025,3,False,False
+CRS10083,Advanced Instruments Masterclass,Music,Instruments,Arabic,Wanjiru Johnson,4.8,656,3.5,36,"Machine Learning, Public Speaking, Financial Modeling, Tableau",4,No,Advanced,19.99,78,2023-11-19,2023,11,False,False
+CRS10297,Project Management for Beginners,Business,Project Management,English,Yusuf Reddy,4.1,10604,3.8,211,"Negotiation, Copywriting, Deep Learning",3,Yes,Beginner,24.99,1729,2025-12-30,2025,12,False,False
+CRS10799,Practical Photography Basics Projects,Photography & Video,Photography Basics,Hindi,Emily Garcia,1.6,2699,3.8,104,"Financial Modeling, Power BI, Git",3,No,Intermediate,34.99,665,2023-08-11,2023,8,False,False
+CRS10197,Complete Business Strategy Bootcamp,Business,Business Strategy,Mandarin,Wei Garcia,4.3,29602,4.5,634,"Scrum, C++, Excel",3,Yes,Advanced,79.99,7378,2023-04-15,2023,4,True,False
+CRS10685,Mastering Photography Basics in 2025,Photography & Video,Photography Basics,Portuguese,Wanjiru Diaz,10.0,7878,4.5,145,"Azure, C++, Unity, Kubernetes",4,Yes,All Levels,49.99,478,2023-11-03,2023,11,False,False
+CRS10317,Advanced Content Marketing Masterclass,Marketing,Content Marketing,Spanish,Anastasia Ali,4.6,17652,4.9,487,"Excel, Java, Piano, React",4,Yes,All Levels,79.99,3853,2024-03-27,2024,3,False,False
+CRS10502,3D & Animation Crash Course,Design,3D & Animation,Hindi,Daniel Ito,3.2,464,4.2,17,"Git, Agile, Unreal Engine, SEO",4,No,Beginner,79.99,26,2025-02-23,2025,2,False,False
+CRS10006,Business Strategy Crash Course,Business,Business Strategy,Arabic,Isabella Sharma,7.2,2286,4.2,101,"SEO, Negotiation, React, Google Ads, Git",5,Yes,Beginner,19.99,315,2025-10-22,2025,10,False,False
+CRS10055,Mastering Entrepreneurship in 2025,Business,Entrepreneurship,English,Neha Patel,6.2,9169,4.1,341,"Power BI, Java, Data Visualization",3,No,Beginner,49.99,2184,2025-07-07,2025,7,False,False
+CRS10432,Practical Content Marketing Projects,Marketing,Content Marketing,Portuguese,David Nguyen,8.0,2398,4.9,94,"Photoshop, Accounting, Deep Learning",3,No,Beginner,24.99,436,2024-11-07,2024,11,False,False
+CRS10299,Music Production: Zero to Hero,Music,Music Production,Japanese,Grace Costa,4.9,3010,4.8,108,Excel,1,Yes,Advanced,0.0,219,2025-04-10,2025,4,False,False
+CRS10570,IT Certifications: Zero to Hero,It & Software,It Certifications,Spanish,Priya Silva,6.0,1814,4.2,73,"Networking, Java, Piano, Data Visualization, Deep Learning",5,Yes,Beginner,34.99,431,2024-08-25,2024,8,False,False
+CRS10098,Project Management for Beginners,Business,Project Management,Japanese,Wanjiru Smith,9.5,36158,4.3,790,"Excel, Deep Learning",2,No,Intermediate,19.99,2543,2023-03-18,2023,3,True,False
+CRS10559,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,Arabic,Anastasia Kumar,7.8,5013,5.0,275,Music Theory,1,Yes,Intermediate,0.0,651,2025-06-08,2025,6,False,False
+CRS10830,Practical Project Management Projects,Business,Project Management,Japanese,Daniel Kumar,10.7,7511,4.9,145,"Video Editing, Music Theory",2,No,Advanced,34.99,658,2023-11-30,2023,11,False,False
+CRS10513,UX/UI Design Crash Course,Design,Ux/Ui Design,Japanese,David Smith,5.8,12241,4.8,290,Statistics,1,Yes,All Levels,12.99,994,2024-08-25,2024,8,False,False
+CRS10711,Practical Leadership Projects,Personal Development,Leadership,English,Daniel Weber,2.5,553,4.5,10,"JavaScript, Python, Java, Unity",4,Yes,Beginner,59.99,61,2025-06-29,2025,6,False,False
+CRS10026,Mobile Development Crash Course,Development,Mobile Development,Mandarin,Rahul Weber,5.8,1894,4.1,22,"Statistics, Cybersecurity Basics, Python, Financial Modeling, Copywriting",5,No,All Levels,59.99,318,2026-01-23,2026,1,False,False
+CRS10085,Practical Business Strategy Projects,Business,Business Strategy,Japanese,Daniel Khan,7.0,679,4.3,22,React,1,No,Advanced,9.99,167,2023-11-28,2023,11,False,False
+CRS10011,Content Marketing for Beginners,Marketing,Content Marketing,Hindi,Wanjiru Costa,3.9,9068,4.5,421,"Python, Machine Learning, Photoshop, AWS, Data Visualization",5,No,Intermediate,34.99,1852,2023-05-01,2023,5,False,False
+CRS10771,Advanced Data Science Masterclass,It & Software,Data Science,Portuguese,Yusuf Zhang,2.0,7337,3.9,317,"Deep Learning, SQL, Tableau",3,No,Beginner,12.99,982,2024-08-02,2024,8,False,False
+CRS10361,Mastering Cloud Computing in 2025,It & Software,Cloud Computing,Hindi,Elena Mueller,1.6,10553,4.5,337,"SQL, Python, Deep Learning, React, AWS",5,Yes,All Levels,34.99,1165,2025-09-23,2025,9,False,False
+CRS10631,Practical Entrepreneurship Projects,Business,Entrepreneurship,Arabic,Wanjiru Costa,7.3,5112,5.0,199,Copywriting,1,No,Advanced,9.99,666,2024-10-23,2024,10,False,False
+CRS10366,The Ultimate Video Editing Course,Photography & Video,Video Editing,Arabic,Wanjiru Garcia,6.7,9963,4.3,164,Cybersecurity Basics,1,Yes,Intermediate,9.99,2073,2025-10-04,2025,10,False,False
+CRS10119,Mastering Digital Marketing in 2025,Marketing,Digital Marketing,Hindi,Isabella Costa,20.0,5219,4.6,233,Financial Modeling,1,No,Advanced,34.99,1223,2023-01-26,2023,1,False,True
+CRS10267,SEO: Zero to Hero,Marketing,Seo,English,Fatima Singh,11.4,19945,4.5,841,"3D Modeling, Piano, Azure, Scrum, Unity",5,No,Beginner,0.0,3112,2024-09-04,2024,9,True,False
+CRS10292,Practical Content Marketing Projects,Marketing,Content Marketing,French,Rahul Reddy,4.1,7749,4.5,332,"Public Speaking, Piano",2,No,Beginner,0.0,1870,2023-01-25,2023,1,False,False
+CRS10030,Content Marketing Crash Course,Marketing,Content Marketing,French,Emily Weber,19.2,6158,4.6,165,"React, 3D Modeling, Excel, Financial Modeling, Guitar",5,No,Advanced,0.0,737,2025-11-02,2025,11,False,True
+CRS10228,Programming Languages: Zero to Hero,Development,Programming Languages,Spanish,Grace Diaz,2.1,9145,4.9,343,"Accounting, Piano, After Effects",3,Yes,All Levels,0.0,536,2024-12-20,2024,12,False,False
+CRS10389,Advanced Graphic Design Masterclass,Design,Graphic Design,Portuguese,Neha Weber,1.2,3471,4.5,150,"Excel, SEO, Networking",3,No,Intermediate,0.0,844,2024-02-06,2024,2,False,False
+CRS10441,Mastering Music Production in 2025,Music,Music Production,French,Anastasia Diaz,7.6,2550,5.0,135,"JavaScript, C++, Statistics, Git, AWS",5,No,Beginner,24.99,218,2025-08-28,2025,8,False,False
+CRS10604,Practical Cloud Computing Projects,It & Software,Cloud Computing,Hindi,Sara Singh,8.5,2060,4.8,69,"Statistics, Tableau, Data Visualization, After Effects",4,No,Beginner,79.99,485,2025-12-29,2025,12,False,False
+CRS10343,Career Development Crash Course,Personal Development,Career Development,French,Carlos Khan,5.3,1892,4.4,43,"Agile, Data Visualization, After Effects",3,Yes,Beginner,49.99,117,2025-12-28,2025,12,False,False
+CRS10082,Practical Career Development Projects,Personal Development,Career Development,Hindi,Noah Nguyen,8.2,14506,4.1,155,"React, SQL",2,Yes,All Levels,59.99,1742,2025-03-03,2025,3,False,False
+CRS10324,The Ultimate Project Management Course,Business,Project Management,Hindi,Maria Reddy,4.3,4006,4.2,211,"JavaScript, Kubernetes",2,Yes,Intermediate,12.99,434,2025-12-12,2025,12,False,False
+CRS10751,Mastering Data Science in 2025,It & Software,Data Science,French,Grace Mueller,5.2,56913,3.7,2193,"Excel, Python, Node.js, Accounting",4,Yes,Advanced,24.99,6629,2023-01-06,2023,1,True,False
+CRS10543,Photography Basics Crash Course,Photography & Video,Photography Basics,Japanese,Priya Costa,1.5,20120,3.7,251,"Negotiation, After Effects, Unity, Kubernetes, SQL",5,Yes,All Levels,34.99,3921,2023-04-27,2023,4,True,False
+CRS10248,Complete Data Science Bootcamp,It & Software,Data Science,Arabic,Wei Mueller,10.2,8817,5.0,425,"After Effects, Copywriting",2,Yes,All Levels,79.99,749,2024-03-21,2024,3,False,False
+CRS10761,Advanced Entrepreneurship Masterclass,Business,Entrepreneurship,Spanish,Thomas Brown,4.2,2710,4.3,71,"Tableau, Music Theory, Accounting, Networking",4,Yes,Advanced,34.99,389,2023-02-16,2023,2,False,False
+CRS10332,Advanced Video Editing Masterclass,Photography & Video,Video Editing,Spanish,Emily Zhang,9.7,5237,4.6,165,"SQL, JavaScript",2,Yes,Beginner,49.99,593,2023-02-24,2023,2,False,False
+CRS10678,The Ultimate Video Editing Course,Photography & Video,Video Editing,Japanese,Neha Silva,1.9,600,4.0,11,"After Effects, Piano, Docker",3,No,Advanced,0.0,114,2025-07-10,2025,7,False,False
+CRS10522,The Ultimate Programming Languages Course,Development,Programming Languages,French,Michael Brown,5.3,1025,3.6,51,After Effects,1,No,Advanced,9.99,118,2025-06-11,2025,6,False,False
+CRS10742,Complete UX/UI Design Bootcamp,Design,Ux/Ui Design,Mandarin,David Novak,7.1,4967,3.8,215,"Power BI, Unity, Copywriting, After Effects",4,Yes,Intermediate,59.99,867,2024-04-02,2024,4,False,False
+CRS10364,Advanced Video Editing Masterclass,Photography & Video,Video Editing,English,Grace Novak,5.0,10131,5.0,415,"Figma, Power BI, Music Theory, SQL",4,No,Advanced,24.99,914,2023-05-11,2023,5,False,False
+CRS10694,The Ultimate Graphic Design Course,Design,Graphic Design,Portuguese,David Reddy,5.9,12029,5.0,369,Music Theory,1,No,All Levels,9.99,1617,2026-01-27,2026,1,False,False
+CRS10368,The Ultimate Music Production Course,Music,Music Production,Portuguese,Daniel Costa,2.8,343,4.8,8,"Unreal Engine, JavaScript, Power BI, Agile, Scrum",5,No,Beginner,0.0,31,2023-07-28,2023,7,False,False
+CRS10468,Advanced Business Strategy Masterclass,Business,Business Strategy,Japanese,Sofia Rossi,1.9,4359,4.0,245,"C++, Agile, Figma, Git",4,No,All Levels,0.0,309,2025-10-12,2025,10,False,False
+CRS10440,Data Science Crash Course,It & Software,Data Science,Portuguese,Grace Nguyen,4.3,985,4.2,44,"Google Ads, Docker, Piano, Deep Learning, JavaScript",5,Yes,Beginner,19.99,210,2025-07-26,2025,7,False,False
+CRS10394,Game Development Crash Course,Development,Game Development,Mandarin,Sofia Petrov,7.6,11778,3.9,475,"Statistics, Scrum, Git, HTML/CSS",4,No,Advanced,99.99,1284,2023-02-23,2023,2,False,False
+CRS10211,Advanced Graphic Design Masterclass,Design,Graphic Design,French,Maria Petrov,5.9,11025,4.4,360,"Data Visualization, Negotiation",2,Yes,All Levels,99.99,1688,2025-09-07,2025,9,False,False
+CRS10801,Complete Network & Security Bootcamp,It & Software,Network & Security,French,Elena Chen,4.5,6416,4.0,334,"Agile, SQL, Unreal Engine",3,No,Advanced,79.99,359,2023-05-13,2023,5,False,False
+CRS10718,Practical UX/UI Design Projects,Design,Ux/Ui Design,Japanese,Michael Reddy,3.0,2047,4.0,51,"Google Ads, Networking, Tableau, Git, Unreal Engine",5,Yes,Beginner,59.99,365,2023-06-23,2023,6,False,False
+CRS10008,Practical Cloud Computing Projects,It & Software,Cloud Computing,Japanese,Carlos Costa,5.8,1213,4.4,0,"Deep Learning, Accounting, Agile",3,No,All Levels,0.0,248,2024-05-22,2024,5,False,False
+CRS10714,Productivity Crash Course,Personal Development,Productivity,Arabic,Isabella Weber,5.5,2112,4.3,40,"Financial Modeling, Cybersecurity Basics, Deep Learning",3,No,Intermediate,9.99,271,2023-09-05,2023,9,False,False
+CRS10156,The Ultimate Productivity Course,Personal Development,Productivity,Spanish,Carlos Kumar,12.1,3996,4.6,163,Machine Learning,1,Yes,Intermediate,0.0,385,2025-12-14,2025,12,False,False
+CRS10327,Project Management for Beginners,Business,Project Management,French,Aarav Johnson,4.7,3461,4.2,36,"Unity, Financial Modeling, AWS",3,No,Intermediate,59.99,497,2023-05-20,2023,5,False,False
+CRS10102,Practical Instruments Projects,Music,Instruments,Portuguese,Isabella Kumar,2.0,4389,4.1,137,"Photoshop, Unreal Engine",2,Yes,Beginner,59.99,665,2025-07-03,2025,7,False,False
+CRS10376,Practical Video Editing Projects,Photography & Video,Video Editing,Mandarin,Yusuf Kumar,8.5,11160,4.6,583,"C++, Video Editing",2,Yes,All Levels,9.99,1927,2025-11-17,2025,11,False,False
+CRS10668,Complete Finance Bootcamp,Business,Finance,Japanese,Lucia Ito,7.2,1094,4.4,25,"Statistics, Agile, Photoshop, Networking, HTML/CSS",5,Yes,All Levels,49.99,98,2023-11-10,2023,11,False,False
+CRS10458,Game Development Crash Course,Development,Game Development,English,Aisha Kim,7.3,5489,4.2,80,"HTML/CSS, C++",2,Yes,Intermediate,12.99,1096,2024-07-29,2024,7,False,False
+CRS10596,Advanced Design Tools Masterclass,Design,Design Tools,Hindi,Elena Brown,10.7,1078,4.7,15,"Python, Data Visualization, Kubernetes",3,Yes,All Levels,99.99,267,2023-09-23,2023,9,False,False
+CRS10295,Practical Social Media Marketing Projects,Marketing,Social Media Marketing,Hindi,Lucia Fernandez,12.8,321,4.7,8,"JavaScript, C++, Guitar, Git",4,Yes,Beginner,49.99,73,2024-06-14,2024,6,False,False
+CRS10003,Leadership: Zero to Hero,Personal Development,Leadership,English,Daniel Kim,4.4,5846,4.1,211,Statistics,1,Yes,Advanced,9.99,797,2025-01-28,2025,1,False,False
+CRS10214,Photography Basics: Zero to Hero,Photography & Video,Photography Basics,Spanish,Elena Petrov,9.2,5206,4.3,212,"React, Machine Learning, Cybersecurity Basics, Java, Unreal Engine",5,No,Beginner,99.99,1165,2025-06-02,2025,6,False,False
+CRS10582,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,English,Aisha Garcia,4.4,24696,4.7,1096,"Figma, Docker, SEO, Azure",4,No,Advanced,49.99,1829,2024-06-25,2024,6,True,False
+CRS10816,The Ultimate IT Certifications Course,It & Software,It Certifications,Mandarin,Rahul Reddy,3.6,15619,4.6,283,"Unity, Guitar, Node.js, Git",4,No,Beginner,49.99,1106,2025-09-06,2025,9,False,False
+CRS10236,Advanced Data Science Masterclass,It & Software,Data Science,German,Anastasia Sharma,7.9,31400,3.9,870,"Kubernetes, Negotiation, Data Visualization, Copywriting",4,No,All Levels,24.99,2004,2025-08-07,2025,8,True,False
+CRS10159,Practical Graphic Design Projects,Design,Graphic Design,Spanish,Sofia Nguyen,6.9,22868,4.1,501,Node.js,1,Yes,Advanced,49.99,1648,2023-01-24,2023,1,True,False
+CRS10496,Mastering Career Development in 2025,Personal Development,Career Development,Mandarin,Carlos Petrov,14.2,2532,4.0,55,"Git, Java, Node.js, Statistics, Azure",5,No,Advanced,59.99,235,2023-11-21,2023,11,False,True
+CRS10809,Advanced Digital Marketing Masterclass,Marketing,Digital Marketing,Hindi,David Smith,8.4,1300,4.5,30,"Docker, Unity, Agile, Data Visualization, Node.js",5,Yes,Advanced,12.99,188,2024-07-27,2024,7,False,False
+CRS10550,Videography: Zero to Hero,Photography & Video,Videography,Japanese,Elena Kumar,7.8,7910,4.9,470,"SEO, Docker, 3D Modeling",3,Yes,Intermediate,24.99,888,2024-05-12,2024,5,False,False
+CRS10463,Database Design for Beginners,Development,Database Design,French,Lucia Zhang,7.6,9468,3.7,386,"Copywriting, Cybersecurity Basics, Docker",3,No,Intermediate,0.0,1880,2023-09-19,2023,9,False,False
+CRS10281,Practical Instruments Projects,Music,Instruments,Portuguese,Thomas Ali,1.5,507,3.6,22,Unreal Engine,1,Yes,All Levels,24.99,25,2025-10-09,2025,10,False,False
+CRS10710,Content Marketing Crash Course,Marketing,Content Marketing,Japanese,Olga Weber,6.1,3862,4.4,93,"SQL, Statistics, Excel, Networking",4,No,Beginner,49.99,416,2024-05-31,2024,5,False,False
+CRS10819,Advanced Database Design Masterclass,Development,Database Design,French,Elena Costa,6.3,10724,4.1,501,AWS,1,Yes,Beginner,24.99,1126,2023-03-11,2023,3,False,False
+CRS10381,Mastering Web Development in 2025,Development,Web Development,English,Sofia Weber,8.2,1441,3.6,61,Guitar,1,No,All Levels,79.99,107,2023-04-03,2023,4,False,False
+CRS10334,Practical Video Editing Projects,Photography & Video,Video Editing,English,Sara Reddy,13.0,12819,3.9,456,"Git, Java, Copywriting, Statistics",4,No,Beginner,79.99,908,2025-10-01,2025,10,False,False
+CRS10644,Sales Crash Course,Business,Sales,English,Wanjiru Mueller,15.0,5168,4.9,110,"Photoshop, SEO, Agile",3,No,Advanced,49.99,947,2024-06-22,2024,6,False,True
+CRS10213,Instruments for Beginners,Music,Instruments,Mandarin,Neha Ito,8.2,1215,5.0,64,"After Effects, AWS, Negotiation, Scrum, Unreal Engine",5,No,Intermediate,34.99,103,2025-02-28,2025,2,False,False
+CRS10833,Graphic Design for Beginners,Design,Graphic Design,Spanish,Thomas Zhang,10.7,30770,3.9,849,Kubernetes,1,Yes,Advanced,49.99,2314,2023-03-11,2023,3,True,False
+CRS10080,Advanced IT Certifications Masterclass,It & Software,It Certifications,Portuguese,Sara Kim,7.0,2296,4.3,120,"AWS, Agile, Financial Modeling, Excel",4,Yes,Advanced,24.99,368,2025-06-09,2025,6,False,False
+CRS10149,SEO Crash Course,Marketing,Seo,Portuguese,Sofia Johnson,4.6,9170,3.7,257,"JavaScript, C++, AWS, Agile, Scrum",5,Yes,Beginner,59.99,626,2025-01-03,2025,1,False,False
+CRS10621,Mobile Development: Zero to Hero,Development,Mobile Development,Mandarin,Neha Kumar,5.7,1912,4.0,24,Video Editing,1,No,All Levels,24.99,135,2025-10-29,2025,10,False,False
+CRS10240,Network & Security for Beginners,It & Software,Network & Security,Portuguese,Neha Diaz,6.4,1104,4.3,30,"Docker, SQL, Statistics, Financial Modeling",4,Yes,Advanced,0.0,202,2025-09-20,2025,9,False,False
+CRS10560,Data Science Crash Course,It & Software,Data Science,German,Michael Ito,8.9,4570,4.3,177,"Azure, Copywriting, Figma, Google Ads, Networking",5,No,All Levels,79.99,652,2025-01-01,2025,1,False,False
+CRS10498,Advanced Design Tools Masterclass,Design,Design Tools,English,Michael Sharma,3.4,21401,4.7,0,React,1,No,Beginner,0.0,4033,2023-10-18,2023,10,True,False
+CRS10335,Advanced Programming Languages Masterclass,Development,Programming Languages,Arabic,Kenji Petrov,8.8,61359,4.2,3529,"Public Speaking, Power BI, SQL",3,No,Intermediate,24.99,10439,2024-12-15,2024,12,True,False
+CRS10573,Advanced Videography Masterclass,Photography & Video,Videography,Portuguese,Kenji Mueller,13.7,1175,4.2,22,"Tableau, Unity",2,Yes,Intermediate,19.99,95,2024-01-01,2024,1,False,False
+CRS10820,Mastering SEO in 2025,Marketing,Seo,German,David Chen,7.0,1718,3.9,97,Machine Learning,1,Yes,All Levels,99.99,94,2026-01-22,2026,1,False,False
+CRS10134,Leadership Crash Course,Personal Development,Leadership,Arabic,Michael Silva,4.7,11523,4.0,631,Deep Learning,1,No,Advanced,24.99,606,2025-07-20,2025,7,False,False
+CRS10832,The Ultimate Video Editing Course,Photography & Video,Video Editing,German,Aisha Petrov,4.1,547,4.6,6,"Negotiation, SQL, Java, Python",4,No,Beginner,9.99,107,2024-09-20,2024,9,False,False
+CRS10166,Business Strategy for Beginners,Business,Business Strategy,Hindi,Liam Rossi,4.1,2889,4.3,108,Machine Learning,1,No,All Levels,59.99,194,2024-10-29,2024,10,False,False
+CRS10529,Mastering Game Development in 2025,Development,Game Development,Arabic,Ahmed Mueller,13.2,8687,3.5,451,"Video Editing, Kubernetes, Financial Modeling, Music Theory, Statistics",5,No,Intermediate,99.99,2153,2023-11-07,2023,11,False,False
+CRS10056,Advanced Database Design Masterclass,Development,Database Design,Arabic,Aarav Smith,16.1,7673,4.1,104,"JavaScript, Networking, Agile, Tableau",4,No,Advanced,79.99,873,2023-10-31,2023,10,False,True
+CRS10487,IT Certifications Crash Course,It & Software,It Certifications,Hindi,Sara Johnson,4.9,20405,4.1,1124,"Scrum, JavaScript, Machine Learning, Azure, Deep Learning",5,No,Intermediate,34.99,1850,2024-11-04,2024,11,True,False
+CRS10652,Network & Security for Beginners,It & Software,Network & Security,Arabic,David Patel,4.8,28157,4.3,725,"C++, Guitar, Unity, Public Speaking",4,Yes,Beginner,24.99,3621,2023-09-03,2023,9,True,False
+CRS10531,Complete Entrepreneurship Bootcamp,Business,Entrepreneurship,Spanish,Grace Singh,5.6,12605,4.2,0,"JavaScript, Azure",2,No,All Levels,34.99,1457,2023-05-12,2023,5,False,False
+CRS10378,IT Certifications Crash Course,It & Software,It Certifications,English,Aisha Kim,2.1,651,4.4,9,"Python, React, Piano, Financial Modeling",4,Yes,Beginner,34.99,97,2025-09-12,2025,9,False,False
+CRS10443,Practical Graphic Design Projects,Design,Graphic Design,German,Emily Ito,4.4,1557,4.5,77,"Copywriting, 3D Modeling, Java, JavaScript",4,Yes,Intermediate,34.99,155,2023-02-10,2023,2,False,False
+CRS10205,The Ultimate Design Tools Course,Design,Design Tools,Portuguese,Emily Kim,6.9,968,4.8,47,"Networking, Agile, Negotiation",3,No,Advanced,79.99,73,2023-11-09,2023,11,False,False
+CRS10595,Videography: Zero to Hero,Photography & Video,Videography,Portuguese,Anastasia Kim,9.7,5321,4.1,94,"Machine Learning, Git, React",3,No,Advanced,19.99,1051,2025-11-18,2025,11,False,False
+CRS10429,The Ultimate Entrepreneurship Course,Business,Entrepreneurship,Spanish,Lucia Chen,3.9,4595,4.0,115,"Networking, Python",2,Yes,All Levels,59.99,441,2025-05-03,2025,5,False,False
+CRS10745,Entrepreneurship: Zero to Hero,Business,Entrepreneurship,Hindi,Aarav Khan,3.6,503,4.6,28,C++,1,No,Beginner,49.99,117,2023-12-30,2023,12,False,False
+CRS10479,Advanced Music Theory Masterclass,Music,Music Theory,Japanese,Olga Garcia,2.5,1297,4.3,49,"Java, Kubernetes, Deep Learning, HTML/CSS",4,No,All Levels,9.99,172,2023-06-08,2023,6,False,False
+CRS10435,Practical Instruments Projects,Music,Instruments,Hindi,Isabella Patel,4.7,3179,3.4,180,JavaScript,1,No,Beginner,9.99,685,2024-10-30,2024,10,False,False
+CRS10061,Advanced Cybersecurity Masterclass,It & Software,Cybersecurity,Portuguese,Rahul Petrov,11.3,5353,4.2,56,"HTML/CSS, Power BI",2,Yes,Advanced,49.99,1236,2025-05-18,2025,5,False,False
+CRS10200,Advanced Instruments Masterclass,Music,Instruments,French,Emily Garcia,2.7,500,3.7,22,"Python, Node.js, Tableau, Kubernetes, Git",5,Yes,Intermediate,59.99,71,2025-06-10,2025,6,False,False
+CRS10793,Music Theory: Zero to Hero,Music,Music Theory,Japanese,Sofia Ito,1.8,6441,4.0,226,"Kubernetes, Java, Deep Learning, Public Speaking",4,No,Beginner,34.99,658,2023-03-13,2023,3,False,False
+CRS10617,Advanced Network & Security Masterclass,It & Software,Network & Security,English,Carlos Fernandez,11.2,7586,4.0,330,"SQL, Public Speaking, Git",3,No,Advanced,59.99,1414,2024-02-13,2024,2,False,False
+CRS10431,Advanced Data Science Masterclass,It & Software,Data Science,Hindi,Liam Johnson,1.9,2482,4.6,47,"Networking, JavaScript, Python, Power BI",4,Yes,Beginner,99.99,308,2023-03-27,2023,3,False,False
+CRS10251,Video Editing: Zero to Hero,Photography & Video,Video Editing,Mandarin,Daniel Weber,4.0,797,4.5,32,"Docker, Networking, Deep Learning, 3D Modeling, Piano",5,No,Intermediate,12.99,143,2023-05-27,2023,5,False,False
+CRS10405,Entrepreneurship: Zero to Hero,Business,Entrepreneurship,Portuguese,David Fernandez,5.9,5704,4.2,121,"Docker, Unreal Engine, Java",3,No,Advanced,0.0,508,2024-09-05,2024,9,False,False
+CRS10351,Videography for Beginners,Photography & Video,Videography,Mandarin,Anastasia Petrov,3.8,13961,4.2,713,Power BI,1,Yes,Intermediate,24.99,3092,2024-12-26,2024,12,False,False
+CRS10418,UX/UI Design Crash Course,Design,Ux/Ui Design,Mandarin,Emily Nguyen,8.5,40525,4.2,645,"Python, Statistics, Kubernetes",3,No,Beginner,99.99,4367,2024-07-24,2024,7,True,False
+CRS10583,Mastering Personal Finance in 2025,Personal Development,Personal Finance,English,Rahul Brown,2.6,6041,3.4,108,"Financial Modeling, Google Ads, Kubernetes, Negotiation",4,No,Advanced,0.0,508,2025-11-17,2025,11,False,False
+CRS10571,Mastering Leadership in 2025,Personal Development,Leadership,German,Carlos Petrov,4.1,4119,3.4,212,"After Effects, Cybersecurity Basics, Scrum, Kubernetes, Negotiation",5,No,Intermediate,9.99,877,2025-12-09,2025,12,False,False
+CRS10425,Practical Music Production Projects,Music,Music Production,German,Elena Kumar,2.4,2382,4.1,125,"Docker, C++, Python, Video Editing",4,Yes,Advanced,49.99,217,2025-04-08,2025,4,False,False
+CRS10293,Advanced Leadership Masterclass,Personal Development,Leadership,German,Elena Johnson,4.2,2883,4.2,66,"Unreal Engine, Node.js",2,Yes,Beginner,0.0,286,2023-09-24,2023,9,False,False
+CRS10457,Practical Cloud Computing Projects,It & Software,Cloud Computing,German,Isabella Kumar,7.9,4885,4.1,213,"Deep Learning, Video Editing, Statistics",3,Yes,Beginner,0.0,1198,2023-09-16,2023,9,False,False
+CRS10781,Graphic Design: Zero to Hero,Design,Graphic Design,French,John Rossi,4.4,5975,3.8,67,"Negotiation, Piano, Java",3,No,Beginner,34.99,1235,2025-10-01,2025,10,False,False
+CRS10091,Mastering Digital Marketing in 2025,Marketing,Digital Marketing,Hindi,Neha Rossi,10.8,4089,4.2,205,"Docker, Unreal Engine",2,No,Beginner,0.0,816,2023-03-21,2023,3,False,False
+CRS10814,Practical Mobile Development Projects,Development,Mobile Development,French,Thomas Zhang,8.0,7600,4.8,323,"Scrum, Networking",2,Yes,Intermediate,9.99,1081,2023-06-03,2023,6,False,False
+CRS10182,Content Marketing: Zero to Hero,Marketing,Content Marketing,Japanese,Olga Zhang,5.1,6815,4.3,193,"React, JavaScript, Networking",3,Yes,Intermediate,19.99,1518,2025-12-07,2025,12,False,False
+CRS10775,Instruments: Zero to Hero,Music,Instruments,Portuguese,Elena Zhang,4.3,2259,4.8,30,"Guitar, Node.js, Photoshop, Excel, Cybersecurity Basics",5,Yes,Intermediate,99.99,361,2023-01-14,2023,1,False,False
+CRS10070,Advanced Cybersecurity Masterclass,It & Software,Cybersecurity,Mandarin,Aisha Costa,8.8,11175,4.1,236,"Music Theory, Machine Learning",2,No,All Levels,59.99,2711,2025-01-11,2025,1,False,False
+CRS10132,Practical Productivity Projects,Personal Development,Productivity,Hindi,Sofia Fernandez,8.6,929,4.2,17,"HTML/CSS, Node.js, Git",3,Yes,Intermediate,12.99,167,2024-02-28,2024,2,False,False
+CRS10508,UX/UI Design: Zero to Hero,Design,Ux/Ui Design,French,Neha Nguyen,7.2,13360,4.7,525,Power BI,1,Yes,Beginner,0.0,2220,2023-04-09,2023,4,False,False
+CRS10758,Digital Marketing: Zero to Hero,Marketing,Digital Marketing,Hindi,Fatima Novak,3.1,5806,4.1,313,"Node.js, Financial Modeling, SQL, Negotiation",4,Yes,All Levels,0.0,1043,2025-11-15,2025,11,False,False
+CRS10136,Practical Web Development Projects,Development,Web Development,English,Ahmed Ali,4.3,17861,4.8,418,"Java, Copywriting",2,Yes,Advanced,0.0,3122,2025-01-08,2025,1,False,False
+CRS10165,Practical Videography Projects,Photography & Video,Videography,French,John Brown,4.7,16557,5.0,241,"3D Modeling, Music Theory, HTML/CSS, C++, React",5,No,All Levels,9.99,3733,2023-12-09,2023,12,False,False
+CRS10029,Mobile Development for Beginners,Development,Mobile Development,English,Sofia Khan,9.0,1454,4.8,32,"Scrum, After Effects",2,No,Intermediate,79.99,99,2023-08-23,2023,8,False,False
+CRS10466,Finance for Beginners,Business,Finance,English,Aisha Smith,5.0,1015,4.6,45,"Java, SEO, Power BI",3,No,Intermediate,12.99,137,2025-12-30,2025,12,False,False
+CRS10194,The Ultimate IT Certifications Course,It & Software,It Certifications,Hindi,Isabella Kumar,9.3,10520,4.3,535,"Guitar, Google Ads, Git, Python",4,No,Beginner,34.99,1477,2023-10-25,2023,10,False,False
+CRS10287,Advanced Project Management Masterclass,Business,Project Management,English,Isabella Reddy,5.4,1434,5.0,59,"3D Modeling, Negotiation, Data Visualization, Financial Modeling",4,No,Advanced,19.99,297,2023-12-10,2023,12,False,False
+CRS10827,The Ultimate Database Design Course,Development,Database Design,Arabic,Aisha Mueller,1.9,484,4.7,10,"React, Video Editing, 3D Modeling, Tableau, Cybersecurity Basics",5,No,Intermediate,0.0,64,2024-02-12,2024,2,False,False
+CRS10360,Practical Photography Basics Projects,Photography & Video,Photography Basics,German,Rahul Johnson,5.5,4938,4.5,87,"Azure, Deep Learning, Excel, Machine Learning",4,No,Advanced,24.99,793,2025-07-20,2025,7,False,False
+CRS10141,Web Development Crash Course,Development,Web Development,Japanese,Olga Weber,6.2,6987,3.9,165,"HTML/CSS, C++, SEO, Machine Learning, Copywriting",5,Yes,Intermediate,9.99,1123,2026-01-03,2026,1,False,False
+CRS10174,Advanced Career Development Masterclass,Personal Development,Career Development,Hindi,David Mueller,8.2,34767,4.4,1288,"Copywriting, Docker, C++",3,No,Intermediate,0.0,8434,2025-04-07,2025,4,True,False
+CRS10007,The Ultimate UX/UI Design Course,Design,Ux/Ui Design,Spanish,Daniel Novak,5.8,1257,4.2,54,"SQL, React, Accounting, Copywriting",4,Yes,Intermediate,79.99,141,2023-06-11,2023,6,False,False
+CRS10822,Practical Music Theory Projects,Music,Music Theory,Mandarin,Wanjiru Petrov,11.4,2103,4.6,25,"C++, Java, Public Speaking, Music Theory",4,No,All Levels,0.0,257,2025-12-25,2025,12,False,False
+CRS10352,The Ultimate Videography Course,Photography & Video,Videography,Spanish,Isabella Smith,5.4,7362,4.2,294,"Networking, Negotiation, Scrum, Java, Machine Learning",5,Yes,All Levels,9.99,1407,2024-06-17,2024,6,False,False
+CRS10074,Photography Basics for Beginners,Photography & Video,Photography Basics,Arabic,Lucia Sharma,2.5,4400,5.0,111,"Photoshop, Statistics, Machine Learning",3,No,Beginner,24.99,935,2023-07-22,2023,7,False,False
+CRS10599,Mastering IT Certifications in 2025,It & Software,It Certifications,Portuguese,Olga Reddy,6.5,8352,4.9,90,"Networking, Photoshop, Statistics, Guitar, Java",5,No,Beginner,0.0,1784,2025-03-21,2025,3,False,False
+CRS10307,The Ultimate Social Media Marketing Course,Marketing,Social Media Marketing,Spanish,Liam Khan,4.2,12719,4.0,494,"AWS, Negotiation, Figma, Google Ads",4,No,Intermediate,79.99,2250,2024-04-15,2024,4,False,False
+CRS10800,IT Certifications for Beginners,It & Software,It Certifications,Japanese,Aisha Chen,1.5,18726,4.7,0,"Piano, Python, Music Theory",3,No,Intermediate,24.99,1268,2024-09-03,2024,9,False,False
+CRS10146,Practical Photography Basics Projects,Photography & Video,Photography Basics,German,Aisha Rossi,7.6,3698,4.5,0,"Docker, Google Ads, 3D Modeling",3,No,Intermediate,49.99,552,2025-01-24,2025,1,False,False
+CRS10235,Advanced 3D & Animation Masterclass,Design,3D & Animation,Japanese,Olga Fernandez,2.0,1662,5.0,52,"React, Node.js, Scrum",3,No,Advanced,79.99,321,2025-10-04,2025,10,False,False
+CRS10221,Mastering Game Development in 2025,Development,Game Development,Mandarin,Isabella Johnson,4.1,2642,5.0,76,Video Editing,1,No,Advanced,49.99,588,2025-02-11,2025,2,False,False
+CRS10413,Practical Finance Projects,Business,Finance,Mandarin,Isabella Zhang,2.1,7359,4.0,302,Video Editing,1,No,Advanced,34.99,1812,2025-07-12,2025,7,False,False
+CRS10802,Mastering Music Production in 2025,Music,Music Production,Mandarin,Yusuf Ito,8.4,471,4.2,7,"3D Modeling, Statistics, Google Ads, Piano, Unreal Engine",5,No,All Levels,0.0,113,2025-12-05,2025,12,False,False
+CRS10133,Advanced Cybersecurity Masterclass,It & Software,Cybersecurity,German,Wanjiru Novak,5.4,4015,4.2,185,Java,1,No,All Levels,0.0,887,2024-07-21,2024,7,False,False
+CRS10430,Cloud Computing for Beginners,It & Software,Cloud Computing,Arabic,Ahmed Ito,3.1,11044,3.8,520,Azure,1,No,Intermediate,19.99,2426,2025-04-17,2025,4,False,False
+CRS10303,Mastering Music Theory in 2025,Music,Music Theory,French,Noah Ali,6.0,1186,4.0,21,"Excel, Unreal Engine, Azure, Networking, HTML/CSS",5,No,Advanced,24.99,137,2025-05-07,2025,5,False,False
+CRS10486,The Ultimate Network & Security Course,It & Software,Network & Security,Japanese,David Nguyen,10.3,2628,4.4,142,"After Effects, Excel, HTML/CSS, Power BI",4,Yes,Intermediate,59.99,376,2023-01-17,2023,1,False,False
+CRS10042,Digital Marketing Crash Course,Marketing,Digital Marketing,Hindi,Ahmed Zhang,7.7,320541,4.8,15959,"Video Editing, SEO, Data Visualization",3,Yes,All Levels,12.99,73083,2025-07-24,2025,7,True,False
+CRS10534,Practical Data Science Projects,It & Software,Data Science,Mandarin,Wanjiru Johnson,6.6,1564,3.9,29,"Copywriting, JavaScript, React, Networking, Figma",5,Yes,Advanced,0.0,336,2024-04-03,2024,4,False,False
+CRS10109,Practical Social Media Marketing Projects,Marketing,Social Media Marketing,English,Olga Costa,6.2,7141,4.1,308,"Kubernetes, Negotiation, Machine Learning",3,No,Advanced,0.0,1104,2026-01-01,2026,1,False,False
+CRS10397,The Ultimate Graphic Design Course,Design,Graphic Design,French,Yusuf Weber,6.0,1300,3.7,14,"Unity, 3D Modeling, Negotiation",3,No,All Levels,24.99,100,2023-11-29,2023,11,False,False
+CRS10057,Content Marketing Crash Course,Marketing,Content Marketing,Hindi,Emily Diaz,4.1,11781,4.7,634,"Git, Agile",2,No,All Levels,24.99,2321,2025-07-17,2025,7,False,False
+CRS10301,Business Strategy for Beginners,Business,Business Strategy,Hindi,Olga Rossi,14.2,7154,4.7,236,"Public Speaking, React, 3D Modeling, Guitar",4,Yes,Intermediate,0.0,946,2023-12-22,2023,12,False,True
+CRS10831,Complete Video Editing Bootcamp,Photography & Video,Video Editing,Portuguese,Rahul Novak,10.5,4182,4.3,213,"Agile, SEO, Copywriting, AWS, Java",5,No,Advanced,59.99,482,2024-11-21,2024,11,False,False
+CRS10469,Practical Cloud Computing Projects,It & Software,Cloud Computing,Spanish,Aarav Kim,4.4,25600,4.0,461,"Unreal Engine, Docker, Tableau, C++",4,Yes,Intermediate,49.99,1640,2025-04-04,2025,4,True,False
+CRS10025,Music Theory for Beginners,Music,Music Theory,German,Yusuf Kim,10.5,5500,4.0,229,"Machine Learning, Java, C++, Figma, Statistics",5,Yes,Intermediate,0.0,975,2025-04-29,2025,4,False,False
+CRS10676,Career Development: Zero to Hero,Personal Development,Career Development,Portuguese,Neha Kumar,6.5,1088,4.2,47,"AWS, Accounting, After Effects, Docker",4,No,Beginner,49.99,213,2024-10-14,2024,10,False,False
+CRS10594,Database Design Crash Course,Development,Database Design,French,Wei Chen,3.5,1870,4.0,0,"Financial Modeling, Scrum, HTML/CSS",3,Yes,All Levels,0.0,183,2023-06-06,2023,6,False,False
+CRS10409,Mastering Digital Marketing in 2025,Marketing,Digital Marketing,Hindi,Fatima Smith,3.5,46085,4.3,1018,Azure,1,Yes,All Levels,19.99,6918,2024-02-26,2024,2,True,False
+CRS10052,Practical Graphic Design Projects,Design,Graphic Design,German,Emily Khan,14.6,3047,3.8,91,"React, JavaScript, Photoshop, Guitar",4,Yes,All Levels,24.99,527,2026-01-11,2026,1,False,True
+CRS10383,Content Marketing: Zero to Hero,Marketing,Content Marketing,Portuguese,Liam Brown,6.5,2694,4.6,135,Docker,1,Yes,Intermediate,49.99,432,2025-11-07,2025,11,False,False
+CRS10796,Advanced Digital Marketing Masterclass,Marketing,Digital Marketing,French,David Sharma,6.5,4183,3.9,0,"Docker, AWS, Kubernetes, Unreal Engine",4,No,Intermediate,0.0,934,2024-05-06,2024,5,False,False
+CRS10692,Practical Sales Projects,Business,Sales,German,Aisha Garcia,4.9,912,3.8,24,React,1,Yes,Advanced,59.99,140,2025-09-04,2025,9,False,False
+CRS10265,Advanced Video Editing Masterclass,Photography & Video,Video Editing,Arabic,Emily Khan,11.3,37206,4.5,695,"Python, Scrum, Networking",3,Yes,Beginner,79.99,2592,2025-10-07,2025,10,True,False
+CRS10674,Mastering Project Management in 2025,Business,Project Management,Spanish,Isabella Petrov,7.4,42196,4.3,926,"SEO, Photoshop, React, C++",4,No,Beginner,0.0,8507,2023-10-05,2023,10,True,False
+CRS10598,Practical Instruments Projects,Music,Instruments,Arabic,Sara Brown,1.8,5287,3.5,277,"Machine Learning, Node.js, Networking, Piano, Financial Modeling",5,Yes,Advanced,24.99,477,2024-08-20,2024,8,False,False
+CRS10520,Practical Business Strategy Projects,Business,Business Strategy,Portuguese,Grace Singh,6.7,10912,4.8,143,"Google Ads, HTML/CSS, Piano, AWS, Copywriting",5,No,Beginner,19.99,1277,2023-02-01,2023,2,False,False
+CRS10690,The Ultimate Graphic Design Course,Design,Graphic Design,Portuguese,Grace Costa,8.1,12986,4.9,305,"Networking, Public Speaking, Unreal Engine",3,No,Intermediate,99.99,1295,2024-01-21,2024,1,False,False
+CRS10019,The Ultimate Videography Course,Photography & Video,Videography,English,Fatima Ito,6.2,8758,4.2,135,Unreal Engine,1,No,Advanced,34.99,837,2025-11-13,2025,11,False,False
+CRS10654,Leadership Crash Course,Personal Development,Leadership,German,Fatima Mueller,10.0,2631,4.2,72,Negotiation,1,No,Beginner,59.99,543,2024-06-11,2024,6,False,False
+CRS10437,Digital Marketing: Zero to Hero,Marketing,Digital Marketing,Hindi,Anastasia Zhang,8.3,7357,4.1,200,"Statistics, 3D Modeling, Python",3,Yes,Intermediate,34.99,861,2025-05-17,2025,5,False,False
+CRS10084,Mastering Finance in 2025,Business,Finance,French,Aarav Nguyen,12.4,4802,4.7,275,"Java, HTML/CSS, Machine Learning, Tableau, Copywriting",5,No,All Levels,59.99,381,2025-04-21,2025,4,False,False
+CRS10062,The Ultimate Graphic Design Course,Design,Graphic Design,Mandarin,Noah Singh,9.1,5747,4.2,330,"Power BI, Python, Kubernetes, Copywriting, Java",5,No,Advanced,24.99,946,2023-09-03,2023,9,False,False
+CRS10273,The Ultimate Sales Course,Business,Sales,English,Grace Patel,5.4,5401,3.8,319,"Kubernetes, Music Theory, Copywriting",3,Yes,Advanced,0.0,1282,2024-02-18,2024,2,False,False
+CRS10286,Complete Productivity Bootcamp,Personal Development,Productivity,Arabic,Emily Ito,2.9,2601,4.0,54,"Music Theory, SEO",2,No,Beginner,59.99,441,2023-07-01,2023,7,False,False
+CRS10823,Complete 3D & Animation Bootcamp,Design,3D & Animation,German,Sara Nguyen,7.8,10548,4.3,352,"Negotiation, Scrum, 3D Modeling, Excel, SQL",5,Yes,Intermediate,19.99,2486,2026-01-14,2026,1,False,False
+CRS10549,Complete IT Certifications Bootcamp,It & Software,It Certifications,Hindi,Neha Rossi,9.2,3169,4.4,75,"Unity, Financial Modeling, Kubernetes, Statistics, Excel",5,Yes,Intermediate,34.99,336,2023-06-10,2023,6,False,False
+CRS10183,Practical Data Science Projects,It & Software,Data Science,French,Grace Rossi,5.1,7626,4.5,370,React,1,Yes,All Levels,9.99,1669,2023-07-04,2023,7,False,False
+CRS10363,Advanced Graphic Design Masterclass,Design,Graphic Design,Arabic,Aarav Zhang,3.5,1236,4.4,39,"Networking, Cybersecurity Basics, SQL, Agile",4,No,Intermediate,19.99,216,2025-03-13,2025,3,False,False
+CRS10539,Complete Project Management Bootcamp,Business,Project Management,French,Daniel Costa,2.8,1579,4.0,34,Photoshop,1,No,Beginner,0.0,365,2023-09-17,2023,9,False,False
+CRS10224,Leadership: Zero to Hero,Personal Development,Leadership,Hindi,Sara Singh,8.7,140320,4.2,2114,Cybersecurity Basics,1,No,Advanced,49.99,20651,2024-07-16,2024,7,True,False
+CRS10484,Photography Basics Crash Course,Photography & Video,Photography Basics,French,Wei Ito,19.8,888,3.9,9,C++,1,No,Advanced,59.99,172,2023-06-28,2023,6,False,True
+CRS10612,Music Production: Zero to Hero,Music,Music Production,Japanese,Priya Rossi,2.7,3114,4.6,47,"React, Agile, Machine Learning, Cybersecurity Basics",4,Yes,Intermediate,79.99,406,2025-09-24,2025,9,False,False
+CRS10369,Mastering 3D & Animation in 2025,Design,3D & Animation,German,Daniel Novak,4.1,18249,5.0,972,"Accounting, Negotiation",2,No,Beginner,12.99,4491,2025-06-18,2025,6,False,False
+CRS10766,Complete Content Marketing Bootcamp,Marketing,Content Marketing,Hindi,Carlos Chen,11.0,1487,4.6,19,"Unity, React",2,No,Intermediate,9.99,189,2023-03-24,2023,3,False,False
+CRS10507,Complete Personal Finance Bootcamp,Personal Development,Personal Finance,Mandarin,Grace Diaz,4.1,6381,4.8,307,"HTML/CSS, JavaScript, SQL",3,Yes,Beginner,9.99,368,2023-08-04,2023,8,False,False
+CRS10533,Complete Graphic Design Bootcamp,Design,Graphic Design,Hindi,Hiro Sharma,2.7,5570,3.7,159,"Tableau, Negotiation, Azure, Music Theory, Networking",5,Yes,Intermediate,79.99,1015,2025-08-28,2025,8,False,False
+CRS10177,Complete Business Strategy Bootcamp,Business,Business Strategy,Hindi,Carlos Novak,6.4,2393,4.5,114,"Copywriting, Data Visualization, Power BI, C++, Java",5,No,Advanced,34.99,131,2025-07-26,2025,7,False,False
+CRS10585,The Ultimate Finance Course,Business,Finance,German,Daniel Sharma,10.0,27344,4.2,1460,"3D Modeling, Git, Deep Learning, Cybersecurity Basics, Photoshop",5,Yes,Advanced,79.99,6433,2024-11-22,2024,11,True,False
+CRS10641,Advanced Network & Security Masterclass,It & Software,Network & Security,French,John Chen,7.3,8286,4.8,312,"Photoshop, Networking, Git",3,No,Beginner,19.99,1783,2024-07-18,2024,7,False,False
+CRS10164,Practical Content Marketing Projects,Marketing,Content Marketing,German,Rahul Smith,11.9,2500,4.4,52,Machine Learning,1,Yes,All Levels,79.99,233,2024-04-10,2024,4,False,False
+CRS10249,Network & Security: Zero to Hero,It & Software,Network & Security,Hindi,John Reddy,5.8,1620,4.2,45,"Git, Data Visualization, React",3,Yes,Intermediate,99.99,103,2023-01-24,2023,1,False,False
+CRS10697,The Ultimate SEO Course,Marketing,Seo,Japanese,Thomas Fernandez,8.9,4046,4.4,40,"Public Speaking, After Effects",2,No,Advanced,49.99,942,2023-03-01,2023,3,False,False
+CRS10767,Mastering Business Strategy in 2025,Business,Business Strategy,French,Rahul Sharma,8.9,19564,4.7,1150,Data Visualization,1,Yes,Intermediate,49.99,2454,2023-10-23,2023,10,False,False
+CRS10075,Mastering Music Theory in 2025,Music,Music Theory,Arabic,Aarav Johnson,3.4,4147,4.6,128,"Piano, Unreal Engine",2,No,Beginner,19.99,980,2024-05-01,2024,5,False,False
+CRS10114,Digital Marketing Crash Course,Marketing,Digital Marketing,Spanish,Noah Khan,6.4,6080,3.9,286,"Financial Modeling, SEO, Deep Learning",3,Yes,All Levels,49.99,344,2024-05-13,2024,5,False,False
+CRS10555,Advanced Finance Masterclass,Business,Finance,Arabic,Aisha Rossi,3.3,30254,4.2,1347,"Excel, Kubernetes",2,No,Advanced,79.99,3156,2024-10-05,2024,10,True,False
+CRS10623,Cybersecurity: Zero to Hero,It & Software,Cybersecurity,Spanish,David Ali,5.8,2735,4.0,111,"SQL, Deep Learning, 3D Modeling, Google Ads",4,Yes,All Levels,0.0,627,2023-01-18,2023,1,False,False
+CRS10105,Music Production Crash Course,Music,Music Production,Hindi,Sara Costa,4.6,7303,4.1,166,Azure,1,No,All Levels,59.99,1360,2023-09-18,2023,9,False,False
+CRS10115,Entrepreneurship: Zero to Hero,Business,Entrepreneurship,Mandarin,Isabella Kumar,3.6,149920,4.4,4063,Networking,1,Yes,Advanced,79.99,32120,2023-07-15,2023,7,True,False
+CRS10347,Mastering Network & Security in 2025,It & Software,Network & Security,English,Michael Kim,1.9,14925,4.4,689,"Photoshop, Music Theory",2,Yes,Intermediate,79.99,1106,2025-04-20,2025,4,False,False
+CRS10093,Advanced Business Strategy Masterclass,Business,Business Strategy,English,Liam Diaz,4.9,8345,4.4,296,"Figma, Power BI, Unity, Cybersecurity Basics, AWS",5,No,All Levels,9.99,1305,2024-05-11,2024,5,False,False
+CRS10821,Programming Languages: Zero to Hero,Development,Programming Languages,Portuguese,Sofia Costa,10.2,15891,4.8,260,"Guitar, Azure",2,Yes,All Levels,19.99,2860,2025-02-18,2025,2,False,False
+CRS10090,Complete Music Production Bootcamp,Music,Music Production,Hindi,Hiro Mueller,15.2,2509,4.5,35,"Excel, Deep Learning, Power BI",3,No,Intermediate,24.99,563,2024-08-14,2024,8,False,True
+CRS10337,Complete Video Editing Bootcamp,Photography & Video,Video Editing,Arabic,David Brown,5.3,1881,4.0,110,Networking,1,Yes,Intermediate,24.99,218,2025-10-14,2025,10,False,False
+CRS10491,Mastering Productivity in 2025,Personal Development,Productivity,Arabic,Grace Rossi,5.0,6591,3.8,225,"After Effects, Music Theory, Python, Agile",4,No,Intermediate,99.99,336,2025-07-09,2025,7,False,False
+CRS10797,Advanced Entrepreneurship Masterclass,Business,Entrepreneurship,English,Wanjiru Chen,8.7,3211,3.5,116,"Excel, Accounting, Node.js, SQL",4,No,Advanced,12.99,602,2025-10-05,2025,10,False,False
+CRS10808,Complete Photography Basics Bootcamp,Photography & Video,Photography Basics,Hindi,Daniel Brown,3.4,1567,4.7,50,"HTML/CSS, Negotiation",2,No,Beginner,0.0,306,2023-05-16,2023,5,False,False
+CRS10530,Mastering Music Theory in 2025,Music,Music Theory,German,Sara Kim,5.0,6117,5.0,211,"Statistics, Cybersecurity Basics, Unreal Engine, Azure",4,No,Advanced,9.99,896,2024-10-25,2024,10,False,False
+CRS10535,Mastering Productivity in 2025,Personal Development,Productivity,German,Wanjiru Novak,3.8,1000,4.4,27,"HTML/CSS, Power BI, Guitar, React",4,No,Advanced,99.99,199,2023-03-03,2023,3,False,False
+CRS10095,Advanced Career Development Masterclass,Personal Development,Career Development,Arabic,Liam Costa,3.4,1580,3.9,25,"Google Ads, Kubernetes, Networking",3,Yes,Advanced,59.99,360,2024-07-14,2024,7,False,False
+CRS10012,Advanced Content Marketing Masterclass,Marketing,Content Marketing,Mandarin,Anastasia Costa,9.3,1838,4.2,97,"Google Ads, Kubernetes",2,No,Beginner,24.99,321,2023-04-28,2023,4,False,False
+CRS10406,Complete Video Editing Bootcamp,Photography & Video,Video Editing,Arabic,Daniel Khan,4.0,12358,4.5,480,"Cybersecurity Basics, Figma",2,No,All Levels,49.99,981,2024-11-28,2024,11,False,False
+CRS10044,UX/UI Design Crash Course,Design,Ux/Ui Design,French,Olga Smith,17.5,515,4.1,6,"Statistics, C++, Networking, Excel",4,Yes,Advanced,0.0,110,2025-06-20,2025,6,False,True
+CRS10043,Advanced Data Science Masterclass,It & Software,Data Science,Mandarin,Thomas Sharma,9.8,2235,4.2,86,"Unity, Networking, C++, Agile, Guitar",5,No,Advanced,59.99,127,2026-01-17,2026,1,False,False
+CRS10330,Instruments Crash Course,Music,Instruments,German,Olga Fernandez,5.5,2005,4.3,119,"Accounting, Azure, Python, Networking",4,Yes,All Levels,49.99,443,2025-12-06,2025,12,False,False
+CRS10168,Practical Music Theory Projects,Music,Music Theory,English,Wei Petrov,4.3,3088,2.9,0,Deep Learning,1,No,Advanced,12.99,663,2023-04-11,2023,4,False,False
+CRS10759,Music Theory: Zero to Hero,Music,Music Theory,French,Lucia Reddy,12.0,848,4.3,21,"Public Speaking, Accounting, Docker, Excel",4,Yes,Intermediate,0.0,76,2024-12-28,2024,12,False,False
+CRS10524,Complete Video Editing Bootcamp,Photography & Video,Video Editing,Japanese,John Reddy,4.5,3684,4.1,99,"Unity, Video Editing",2,No,Advanced,0.0,821,2025-03-15,2025,3,False,False
+CRS10660,Advanced Web Development Masterclass,Development,Web Development,Mandarin,Thomas Singh,2.9,29250,5.0,528,"Azure, Video Editing, Accounting, Excel, Kubernetes",5,Yes,Intermediate,12.99,4222,2024-10-17,2024,10,True,False
+CRS10536,Mastering Productivity in 2025,Personal Development,Productivity,French,Anastasia Rossi,3.8,2498,4.5,46,Photoshop,1,No,Beginner,24.99,461,2023-05-25,2023,5,False,False
+CRS10179,Complete Photography Basics Bootcamp,Photography & Video,Photography Basics,Japanese,Aarav Rossi,4.6,4896,4.1,218,Python,1,No,Intermediate,12.99,460,2024-12-06,2024,12,False,False
+CRS10569,Advanced Photography Basics Masterclass,Photography & Video,Photography Basics,French,Neha Kumar,1.1,1463,4.4,55,"Public Speaking, Scrum",2,Yes,Beginner,0.0,282,2025-05-21,2025,5,False,False
+CRS10774,Design Tools Crash Course,Design,Design Tools,Hindi,John Zhang,7.2,5669,3.4,330,"Java, Figma, Kubernetes, Accounting",4,Yes,Advanced,0.0,1073,2025-04-17,2025,4,False,False
+CRS10178,The Ultimate Business Strategy Course,Business,Business Strategy,Spanish,Aarav Ali,12.8,4117,3.6,246,"3D Modeling, AWS",2,No,Beginner,9.99,556,2025-06-07,2025,6,False,False
+CRS10750,Music Production Crash Course,Music,Music Production,Portuguese,Thomas Rossi,3.2,3004,4.8,69,"3D Modeling, Azure, Python",3,Yes,Intermediate,19.99,403,2025-05-01,2025,5,False,False
+CRS10716,Mastering Game Development in 2025,Development,Game Development,Portuguese,Wanjiru Kumar,4.2,20672,4.5,278,"Cybersecurity Basics, Kubernetes, JavaScript, Azure",4,No,Beginner,9.99,2417,2023-09-18,2023,9,True,False
+CRS10600,Cloud Computing Crash Course,It & Software,Cloud Computing,Japanese,Daniel Fernandez,6.9,1835,4.0,88,"Accounting, Node.js, JavaScript",3,Yes,Advanced,59.99,184,2026-01-01,2026,1,False,False
+CRS10258,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,Japanese,Olga Reddy,5.8,7610,3.5,397,"Public Speaking, Tableau",2,No,Beginner,9.99,529,2024-10-12,2024,10,False,False
+CRS10412,Advanced Music Production Masterclass,Music,Music Production,Mandarin,Neha Garcia,2.7,1505,4.5,87,"Git, Scrum, Statistics, Azure, 3D Modeling",5,Yes,Beginner,12.99,134,2023-11-20,2023,11,False,False
+CRS10336,Photography Basics Crash Course,Photography & Video,Photography Basics,Portuguese,Olga Nguyen,6.0,19474,4.2,547,"Copywriting, Unity",2,Yes,Beginner,19.99,2813,2023-08-23,2023,8,False,False
+CRS10538,Complete Videography Bootcamp,Photography & Video,Videography,Japanese,Kenji Reddy,7.8,11663,4.2,321,"Piano, Java, React, Agile",4,No,Advanced,24.99,801,2024-02-01,2024,2,False,False
+CRS10016,Web Development Crash Course,Development,Web Development,German,Daniel Khan,5.6,6231,3.5,345,"Piano, Git, Python, React",4,Yes,Intermediate,59.99,622,2023-03-15,2023,3,False,False
+CRS10004,Mastering Project Management in 2025,Business,Project Management,Japanese,Fatima Ali,3.3,1452,4.4,35,"Figma, Public Speaking, Power BI, Excel, Deep Learning",5,Yes,Intermediate,79.99,178,2024-10-06,2024,10,False,False
+CRS10657,Business Strategy for Beginners,Business,Business Strategy,Spanish,Lucia Rossi,7.4,7467,4.4,126,"Statistics, Agile, React, Piano, Tableau",5,Yes,Advanced,9.99,994,2024-05-05,2024,5,False,False
+CRS10257,Advanced Database Design Masterclass,Development,Database Design,French,Sara Khan,5.3,3089,4.5,113,"Node.js, Figma, Data Visualization, Photoshop, 3D Modeling",5,Yes,Advanced,79.99,287,2024-11-05,2024,11,False,False
+CRS10426,Practical Personal Finance Projects,Personal Development,Personal Finance,German,Rahul Johnson,3.1,183,4.4,9,Statistics,1,No,Intermediate,12.99,39,2025-06-12,2025,6,False,False
+CRS10791,Complete SEO Bootcamp,Marketing,Seo,French,Maria Patel,6.8,4671,4.8,86,"SEO, Negotiation",2,Yes,Intermediate,49.99,592,2023-05-07,2023,5,False,False
+CRS10223,Digital Marketing Crash Course,Marketing,Digital Marketing,Portuguese,Grace Rossi,2.2,21214,4.5,1074,"Azure, Docker, Networking",3,Yes,Intermediate,12.99,4107,2024-06-27,2024,6,True,False
+CRS10514,Music Theory Crash Course,Music,Music Theory,Hindi,Michael Patel,10.9,15408,4.1,668,Excel,1,No,Intermediate,0.0,3350,2025-12-25,2025,12,False,False
+CRS10427,The Ultimate Personal Finance Course,Personal Development,Personal Finance,English,Lucia Silva,11.0,990,3.9,53,Accounting,1,No,Beginner,99.99,156,2023-10-30,2023,10,False,False
+CRS10433,Data Science: Zero to Hero,It & Software,Data Science,Japanese,Maria Ali,6.1,2150,4.5,84,"Video Editing, Data Visualization, Docker, Python",4,No,Advanced,0.0,516,2025-01-07,2025,1,False,False
+CRS10325,Complete Finance Bootcamp,Business,Finance,Arabic,Wei Ali,7.3,9976,4.5,108,"Azure, Copywriting, SQL",3,Yes,Beginner,12.99,2419,2023-09-21,2023,9,False,False
+CRS10517,Design Tools: Zero to Hero,Design,Design Tools,English,Rahul Singh,4.9,27750,4.9,769,"Video Editing, AWS, C++, JavaScript, Copywriting",5,No,Advanced,49.99,1676,2025-10-01,2025,10,True,False
+CRS10010,Practical Instruments Projects,Music,Instruments,Mandarin,Sara Silva,2.2,3523,3.6,60,JavaScript,1,Yes,Advanced,0.0,741,2024-05-24,2024,5,False,False
+CRS10250,Cybersecurity for Beginners,It & Software,Cybersecurity,Spanish,Ahmed Reddy,6.0,9367,3.6,330,"Git, Google Ads",2,No,Intermediate,9.99,1291,2024-11-19,2024,11,False,False
+CRS10023,Design Tools: Zero to Hero,Design,Design Tools,Arabic,Michael Ito,1.7,3908,4.3,137,"Deep Learning, Photoshop, C++, Python",4,No,Beginner,34.99,235,2024-03-24,2024,3,False,False
+CRS10357,Entrepreneurship for Beginners,Business,Entrepreneurship,Spanish,Kenji Kim,4.5,8072,4.3,235,"React, Copywriting",2,No,All Levels,19.99,466,2023-09-26,2023,9,False,False
+CRS10222,Practical Music Theory Projects,Music,Music Theory,English,Liam Johnson,1.1,30007,3.8,898,"Figma, Public Speaking",2,No,Advanced,59.99,4982,2026-01-02,2026,1,True,False
+CRS10586,Graphic Design Crash Course,Design,Graphic Design,Mandarin,Rahul Brown,4.3,492,4.8,5,"Copywriting, Unreal Engine",2,No,Intermediate,79.99,81,2023-10-13,2023,10,False,False
+CRS10746,Complete Productivity Bootcamp,Personal Development,Productivity,Spanish,David Zhang,1.5,3321,4.3,89,HTML/CSS,1,Yes,Intermediate,9.99,777,2025-03-11,2025,3,False,False
+CRS10515,Video Editing Crash Course,Photography & Video,Video Editing,Hindi,Grace Fernandez,14.3,16678,4.6,865,"Unreal Engine, Google Ads, Python",3,Yes,All Levels,19.99,3511,2024-05-03,2024,5,False,True
+CRS10341,Cybersecurity for Beginners,It & Software,Cybersecurity,Mandarin,Carlos Sharma,5.2,17085,4.3,592,"Networking, Piano, Git, Excel",4,Yes,Advanced,9.99,3253,2023-03-01,2023,3,False,False
+CRS10724,Web Development: Zero to Hero,Development,Web Development,German,Wei Zhang,18.2,1684,3.7,80,"Excel, 3D Modeling",2,Yes,Beginner,24.99,198,2024-07-21,2024,7,False,True
+CRS10204,Leadership Crash Course,Personal Development,Leadership,Japanese,Sofia Petrov,8.8,140,3.8,4,"3D Modeling, Power BI",2,Yes,All Levels,99.99,34,2026-01-30,2026,1,False,False
+CRS10238,Design Tools Crash Course,Design,Design Tools,German,Fatima Diaz,1.6,6072,4.6,282,"Music Theory, React, After Effects, Cybersecurity Basics, Node.js",5,Yes,Advanced,0.0,868,2024-03-22,2024,3,False,False
+CRS10094,Practical Graphic Design Projects,Design,Graphic Design,Portuguese,Olga Weber,5.4,1406,4.0,40,"Cybersecurity Basics, Power BI, Java, Music Theory, Kubernetes",5,No,All Levels,59.99,75,2025-02-10,2025,2,False,False
+CRS10611,Mastering 3D & Animation in 2025,Design,3D & Animation,French,Fatima Smith,5.1,4232,4.8,160,"Machine Learning, Docker, Tableau",3,No,Intermediate,59.99,501,2024-09-12,2024,9,False,False
+CRS10546,Complete Design Tools Bootcamp,Design,Design Tools,Hindi,John Ali,4.5,3317,4.6,44,"After Effects, Networking, Java",3,Yes,Intermediate,9.99,178,2023-04-12,2023,4,False,False
+CRS10285,Video Editing Crash Course,Photography & Video,Video Editing,Spanish,Olga Costa,11.4,6492,4.7,320,"Azure, Git",2,No,All Levels,12.99,996,2025-10-24,2025,10,False,False
+CRS10185,The Ultimate Digital Marketing Course,Marketing,Digital Marketing,Portuguese,Kenji Ali,7.6,2198,5.0,44,"Data Visualization, AWS, React, Java",4,Yes,Beginner,9.99,326,2023-08-01,2023,8,False,False
+CRS10826,The Ultimate UX/UI Design Course,Design,Ux/Ui Design,Japanese,Sara Nguyen,11.1,5915,4.0,70,"JavaScript, Piano, Deep Learning, Accounting, SQL",5,No,All Levels,59.99,1002,2024-06-22,2024,6,False,False
+CRS10454,Graphic Design Crash Course,Design,Graphic Design,French,Lucia Diaz,11.0,9823,3.8,445,"HTML/CSS, Networking, Power BI, Financial Modeling",4,Yes,All Levels,24.99,1689,2024-09-03,2024,9,False,False
+CRS10154,Graphic Design Crash Course,Design,Graphic Design,Portuguese,Neha Kumar,9.5,2280,3.7,0,"Statistics, SEO, Azure",3,Yes,Intermediate,0.0,149,2024-07-29,2024,7,False,False
+CRS10076,Instruments: Zero to Hero,Music,Instruments,Arabic,Aarav Diaz,12.3,8835,4.1,524,"Google Ads, Git",2,Yes,Advanced,12.99,707,2025-05-03,2025,5,False,False
+CRS10689,Practical Design Tools Projects,Design,Design Tools,English,Kenji Reddy,10.9,12875,4.4,201,"Networking, Scrum, Unreal Engine, SEO, Tableau",5,No,Intermediate,19.99,1693,2023-10-21,2023,10,False,False
+CRS10537,Practical Project Management Projects,Business,Project Management,Spanish,Emily Smith,7.5,6900,4.2,155,"Git, Cybersecurity Basics, Copywriting",3,No,Intermediate,0.0,712,2023-04-24,2023,4,False,False
+CRS10278,Mastering Music Theory in 2025,Music,Music Theory,Hindi,Lucia Weber,13.4,3726,4.1,183,"Cybersecurity Basics, Figma, C++, HTML/CSS",4,Yes,Advanced,34.99,599,2024-01-11,2024,1,False,False
+CRS10069,Advanced Career Development Masterclass,Personal Development,Career Development,Mandarin,David Singh,5.8,2343,4.8,91,"Tableau, Negotiation, JavaScript",3,No,All Levels,19.99,568,2024-05-31,2024,5,False,False
+CRS10189,Web Development Crash Course,Development,Web Development,Mandarin,Thomas Johnson,4.2,5611,3.8,229,"Video Editing, Piano, Kubernetes",3,Yes,All Levels,24.99,1068,2025-01-14,2025,1,False,False
+CRS10272,Advanced Database Design Masterclass,Development,Database Design,Portuguese,Aarav Fernandez,5.3,7687,4.8,356,"Tableau, C++, SEO",3,Yes,Advanced,34.99,1578,2025-12-30,2025,12,False,False
+CRS10695,Sales for Beginners,Business,Sales,French,Priya Diaz,4.0,8402,3.9,276,Excel,1,Yes,Intermediate,9.99,851,2023-10-09,2023,10,False,False
+CRS10542,Complete Instruments Bootcamp,Music,Instruments,Arabic,Liam Mueller,3.0,4222,5.0,52,Power BI,1,Yes,All Levels,49.99,240,2023-02-08,2023,2,False,False
+CRS10237,Advanced Data Science Masterclass,It & Software,Data Science,Mandarin,Fatima Fernandez,3.8,6765,4.3,365,"Python, React, Photoshop, Statistics",4,No,All Levels,12.99,1218,2023-03-10,2023,3,False,False
+CRS10089,Mastering Photography Basics in 2025,Photography & Video,Photography Basics,Portuguese,Anastasia Rossi,4.4,2682,3.9,54,"Scrum, Networking, Copywriting, SQL, Machine Learning",5,No,All Levels,12.99,329,2024-03-16,2024,3,False,False
+CRS10737,Advanced Photography Basics Masterclass,Photography & Video,Photography Basics,Portuguese,Isabella Kumar,12.4,5451,4.5,104,"Tableau, Financial Modeling, Negotiation, Docker",4,Yes,Intermediate,0.0,741,2023-07-27,2023,7,False,False
+CRS10118,IT Certifications Crash Course,It & Software,It Certifications,Hindi,Aisha Patel,1.9,27119,4.4,1100,"Statistics, Node.js",2,Yes,All Levels,24.99,1454,2025-01-08,2025,1,True,False
+CRS10126,Music Production: Zero to Hero,Music,Music Production,German,Aarav Rossi,14.4,8336,3.9,483,"Photoshop, Music Theory",2,Yes,Intermediate,24.99,664,2025-05-23,2025,5,False,True
+CRS10712,Complete Videography Bootcamp,Photography & Video,Videography,German,Yusuf Novak,3.5,6203,4.6,0,"AWS, Excel, Google Ads",3,No,All Levels,0.0,503,2023-11-14,2023,11,False,False
+CRS10290,Practical Photography Basics Projects,Photography & Video,Photography Basics,Spanish,Priya Diaz,4.5,522,4.2,26,AWS,1,No,All Levels,19.99,73,2025-09-02,2025,9,False,False
+CRS10239,Cybersecurity: Zero to Hero,It & Software,Cybersecurity,Mandarin,Aarav Smith,15.1,9667,4.3,181,"C++, Accounting, Machine Learning, Photoshop, AWS",5,No,Advanced,99.99,1817,2023-05-03,2023,5,False,True
+CRS10001,Advanced Entrepreneurship Masterclass,Business,Entrepreneurship,French,Sara Chen,7.6,3801,3.9,67,"Excel, SQL, Machine Learning, Kubernetes",4,Yes,Beginner,59.99,234,2024-02-12,2024,2,False,False
+CRS10848,Mastering Digital Marketing in 2025,Marketing,Digital Marketing,German,Aisha Sharma,10.8,10472,4.0,160,"Java, Negotiation, Python, 3D Modeling, Public Speaking",5,No,Intermediate,79.99,2158,2024-08-10,2024,8,False,False
+CRS10756,Mastering Web Development in 2025,Development,Web Development,German,Sara Mueller,9.5,3568,3.9,38,"AWS, Accounting",2,No,Advanced,19.99,866,2026-01-15,2026,1,False,False
+CRS10396,Mastering Career Development in 2025,Personal Development,Career Development,Spanish,Elena Rossi,2.5,2242,4.5,63,"Unity, C++, Power BI, Photoshop, Video Editing",5,No,Beginner,34.99,138,2024-12-05,2024,12,False,False
+CRS10706,Mastering IT Certifications in 2025,It & Software,It Certifications,French,Kenji Johnson,2.6,533,4.3,8,"Guitar, Excel, Music Theory, JavaScript, 3D Modeling",5,Yes,Intermediate,12.99,128,2024-11-16,2024,11,False,False
+CRS10127,Network & Security Crash Course,It & Software,Network & Security,English,Hiro Fernandez,7.7,88703,4.3,1184,Kubernetes,1,Yes,Beginner,79.99,17739,2023-07-28,2023,7,True,False
+CRS10279,Complete Music Production Bootcamp,Music,Music Production,Hindi,Maria Kumar,3.0,1018,4.6,58,"Unreal Engine, 3D Modeling, Java",3,No,All Levels,0.0,125,2024-10-29,2024,10,False,False
+CRS10672,Mastering Videography in 2025,Photography & Video,Videography,German,Sara Ito,10.7,38037,3.7,1641,"Docker, C++, Data Visualization, Public Speaking, Scrum",5,Yes,Intermediate,49.99,7067,2024-10-09,2024,10,True,False
+CRS10117,The Ultimate Project Management Course,Business,Project Management,English,Thomas Johnson,4.2,7000,5.0,157,"Deep Learning, Public Speaking, SQL, Node.js, SEO",5,No,All Levels,49.99,830,2024-04-12,2024,4,False,False
+CRS10229,The Ultimate Cybersecurity Course,It & Software,Cybersecurity,Portuguese,Grace Reddy,5.6,5984,4.5,304,"HTML/CSS, Google Ads, Scrum, Node.js",4,No,Intermediate,99.99,1357,2024-11-21,2024,11,False,False
+CRS10607,Advanced IT Certifications Masterclass,It & Software,It Certifications,English,Rahul Nguyen,6.5,14677,4.0,212,"3D Modeling, Node.js",2,Yes,All Levels,99.99,2497,2024-08-26,2024,8,False,False
+CRS10639,Photography Basics Crash Course,Photography & Video,Photography Basics,Mandarin,Sofia Nguyen,3.9,1937,3.8,24,"Java, Deep Learning, React",3,Yes,Intermediate,12.99,329,2025-06-27,2025,6,False,False
+CRS10480,Mastering Video Editing in 2025,Photography & Video,Video Editing,English,Michael Silva,7.4,23632,4.5,1065,Accounting,1,No,Advanced,0.0,1993,2024-05-05,2024,5,True,False
+CRS10495,Music Production Crash Course,Music,Music Production,English,Neha Patel,6.6,2977,4.7,123,"Copywriting, Data Visualization, Photoshop",3,Yes,All Levels,0.0,242,2023-02-01,2023,2,False,False
+CRS10275,Advanced Entrepreneurship Masterclass,Business,Entrepreneurship,English,Elena Johnson,2.3,5768,5.0,143,Music Theory,1,No,Advanced,0.0,940,2024-10-01,2024,10,False,False
+CRS10319,Advanced Productivity Masterclass,Personal Development,Productivity,Portuguese,Ahmed Costa,3.6,4396,4.2,93,"Data Visualization, Agile, Google Ads, AWS",4,No,All Levels,34.99,955,2023-10-13,2023,10,False,False
+CRS10591,The Ultimate Mobile Development Course,Development,Mobile Development,Spanish,Kenji Singh,0.9,3730,4.6,67,"Git, Power BI, Copywriting, After Effects",4,No,Beginner,79.99,613,2025-07-11,2025,7,False,False
+CRS10145,Mastering Personal Finance in 2025,Personal Development,Personal Finance,Spanish,Wanjiru Smith,8.0,1100,4.7,42,"Figma, Public Speaking, Photoshop, Data Visualization",4,No,Advanced,19.99,159,2023-06-09,2023,6,False,False
+CRS10618,Digital Marketing: Zero to Hero,Marketing,Digital Marketing,French,Anastasia Ito,2.1,6715,3.9,110,Statistics,1,Yes,All Levels,12.99,1112,2024-07-27,2024,7,False,False
+CRS10545,Advanced SEO Masterclass,Marketing,Seo,German,Neha Reddy,4.5,18446,4.4,402,"Public Speaking, After Effects, Azure, Agile, Scrum",5,Yes,Beginner,49.99,3421,2023-03-17,2023,3,False,False
+CRS10789,Mastering Videography in 2025,Photography & Video,Videography,Portuguese,Wanjiru Novak,7.0,414,3.8,24,"Machine Learning, Scrum, Excel",3,No,Advanced,99.99,91,2025-03-09,2025,3,False,False
+CRS10626,Photography Basics for Beginners,Photography & Video,Photography Basics,Mandarin,Emily Johnson,8.9,975,4.8,42,"Music Theory, React, AWS, Kubernetes, Networking",5,Yes,Advanced,24.99,125,2025-04-30,2025,4,False,False
+CRS10370,Mastering Career Development in 2025,Personal Development,Career Development,Hindi,Maria Diaz,5.0,5710,4.6,220,"Data Visualization, Figma, Java, Git, Scrum",5,No,Advanced,0.0,1377,2025-06-25,2025,6,False,False
+CRS10269,Practical Leadership Projects,Personal Development,Leadership,Japanese,Grace Kumar,14.1,2154,4.0,121,"Google Ads, Docker",2,Yes,Beginner,49.99,204,2023-08-30,2023,8,False,False
+CRS10667,Entrepreneurship Crash Course,Business,Entrepreneurship,Japanese,Elena Chen,6.6,14429,4.8,454,"Excel, C++, JavaScript",3,Yes,Beginner,34.99,2885,2023-01-08,2023,1,False,False
+CRS10308,Practical Design Tools Projects,Design,Design Tools,German,Anastasia Patel,4.5,16467,3.8,737,"Unity, C++",2,No,Beginner,34.99,3435,2023-04-01,2023,4,False,False
+CRS10424,Personal Finance Crash Course,Personal Development,Personal Finance,Spanish,Olga Novak,9.6,2614,4.7,128,"Cybersecurity Basics, SQL",2,No,All Levels,0.0,379,2024-09-06,2024,9,False,False
+CRS10311,The Ultimate Graphic Design Course,Design,Graphic Design,English,Lucia Singh,5.8,3686,4.5,218,"Accounting, Scrum, HTML/CSS, Excel",4,No,Intermediate,99.99,676,2023-05-18,2023,5,False,False
+CRS10355,Mastering Graphic Design in 2025,Design,Graphic Design,Mandarin,Sofia Reddy,5.3,631,4.0,27,"SQL, Google Ads, React",3,No,Beginner,24.99,107,2023-11-11,2023,11,False,False
+CRS10047,Mastering Cloud Computing in 2025,It & Software,Cloud Computing,Hindi,Kenji Petrov,1.6,6421,4.1,89,"C++, Figma, Scrum, Node.js, After Effects",5,No,Beginner,49.99,353,2024-08-12,2024,8,False,False
+CRS10350,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,French,Olga Khan,9.7,6437,5.0,153,"HTML/CSS, Agile",2,No,Advanced,79.99,716,2025-07-27,2025,7,False,False
+CRS10372,The Ultimate SEO Course,Marketing,Seo,English,Hiro Novak,5.2,8889,3.1,367,"Agile, Kubernetes, Guitar, HTML/CSS",4,No,All Levels,24.99,2091,2025-04-08,2025,4,False,False
+CRS10794,Music Production Crash Course,Music,Music Production,Hindi,Noah Silva,3.8,2892,5.0,93,"Python, Azure, Kubernetes, SQL, Unity",5,Yes,All Levels,0.0,703,2026-01-30,2026,1,False,False
+CRS10262,Mobile Development Crash Course,Development,Mobile Development,English,Noah Reddy,16.4,2893,4.4,117,"Agile, Deep Learning, Copywriting",3,No,Advanced,49.99,183,2023-12-07,2023,12,False,True
+CRS10196,The Ultimate Video Editing Course,Photography & Video,Video Editing,Japanese,Carlos Petrov,4.0,1772,3.9,87,"Figma, Node.js, Accounting, Unity",4,No,Intermediate,12.99,322,2024-08-25,2024,8,False,False
+CRS10788,UX/UI Design Crash Course,Design,Ux/Ui Design,French,John Brown,6.0,7436,4.2,331,C++,1,Yes,Advanced,9.99,1462,2025-12-04,2025,12,False,False
+CRS10108,Advanced Design Tools Masterclass,Design,Design Tools,German,Michael Singh,6.1,3390,4.3,168,"Statistics, Music Theory, Public Speaking",3,Yes,All Levels,9.99,306,2024-09-06,2024,9,False,False
+CRS10060,Advanced Database Design Masterclass,Development,Database Design,English,Lucia Rossi,10.6,13966,4.6,0,"3D Modeling, Deep Learning",2,Yes,Beginner,0.0,3219,2025-12-22,2025,12,False,False
+CRS10650,UX/UI Design: Zero to Hero,Design,Ux/Ui Design,Japanese,Isabella Rossi,6.2,11796,3.5,163,"Financial Modeling, Piano",2,No,Intermediate,49.99,599,2024-07-05,2024,7,False,False
+CRS10723,Advanced Music Theory Masterclass,Music,Music Theory,Japanese,Carlos Mueller,6.9,14885,4.9,294,"Unreal Engine, JavaScript, Cybersecurity Basics, Git",4,No,Beginner,24.99,1239,2024-01-06,2024,1,False,False
+CRS10101,Complete Career Development Bootcamp,Personal Development,Career Development,German,Yusuf Patel,5.6,5585,3.9,315,"AWS, Deep Learning, Video Editing",3,No,Advanced,0.0,901,2024-08-27,2024,8,False,False
+CRS10444,Instruments: Zero to Hero,Music,Instruments,French,Hiro Zhang,8.9,9157,4.4,506,"Python, Piano",2,No,Advanced,0.0,480,2023-03-22,2023,3,False,False
+CRS10592,Mastering Productivity in 2025,Personal Development,Productivity,Mandarin,Kenji Singh,1.2,61087,4.5,1066,"After Effects, Docker, Video Editing, HTML/CSS, Scrum",5,No,All Levels,19.99,6330,2023-03-23,2023,3,True,False
+CRS10779,The Ultimate Cybersecurity Course,It & Software,Cybersecurity,Arabic,Ahmed Silva,12.4,4313,4.5,0,"SEO, Public Speaking, After Effects, Unreal Engine",4,Yes,Beginner,12.99,634,2025-04-11,2025,4,False,False
+CRS10624,Personal Finance for Beginners,Personal Development,Personal Finance,Portuguese,Yusuf Ito,3.0,18502,4.5,522,"Copywriting, Azure",2,Yes,Beginner,9.99,3296,2026-01-11,2026,1,False,False
+CRS10170,Practical Design Tools Projects,Design,Design Tools,Japanese,Thomas Smith,8.0,13623,4.5,706,"Video Editing, Deep Learning, Java",3,No,Beginner,9.99,2581,2024-01-30,2024,1,False,False
+CRS10180,Social Media Marketing: Zero to Hero,Marketing,Social Media Marketing,English,Ahmed Chen,6.7,2488,4.2,142,"Java, Negotiation, Networking, Financial Modeling",4,No,Intermediate,34.99,333,2023-02-09,2023,2,False,False
+CRS10305,Instruments: Zero to Hero,Music,Instruments,English,Fatima Garcia,7.7,6377,4.3,235,Tableau,1,No,All Levels,79.99,953,2024-10-29,2024,10,False,False
+CRS10616,Advanced Videography Masterclass,Photography & Video,Videography,French,Grace Kim,4.1,14367,3.3,771,"Public Speaking, Agile, Copywriting",3,No,All Levels,34.99,3579,2023-01-12,2023,1,False,False
+CRS10058,The Ultimate Career Development Course,Personal Development,Career Development,Spanish,Grace Johnson,12.1,1293,4.2,61,"JavaScript, Accounting, Java, Piano",4,Yes,Advanced,99.99,273,2023-09-08,2023,9,False,False
+CRS10836,Complete Digital Marketing Bootcamp,Marketing,Digital Marketing,Mandarin,Hiro Johnson,5.8,2786,4.6,117,"AWS, Kubernetes, Piano, Scrum",4,Yes,Intermediate,49.99,314,2025-04-07,2025,4,False,False
+CRS10150,Mastering Entrepreneurship in 2025,Business,Entrepreneurship,German,Yusuf Petrov,5.6,8760,4.7,408,"C++, Machine Learning, Photoshop",3,No,All Levels,59.99,1851,2023-04-11,2023,4,False,False
+CRS10125,Complete Cybersecurity Bootcamp,It & Software,Cybersecurity,Arabic,Lucia Johnson,5.0,269,4.3,14,"Financial Modeling, Copywriting",2,Yes,Intermediate,59.99,32,2025-09-16,2025,9,False,False
+CRS10731,Cloud Computing Crash Course,It & Software,Cloud Computing,German,Sofia Johnson,7.6,15879,4.0,541,"Google Ads, Piano",2,No,All Levels,9.99,1480,2024-04-28,2024,4,False,False
+CRS10753,The Ultimate Game Development Course,Development,Game Development,English,Michael Johnson,4.8,32691,4.6,793,"Unreal Engine, 3D Modeling, Figma, Public Speaking",4,Yes,Intermediate,49.99,5758,2024-06-26,2024,6,True,False
+CRS10186,Instruments Crash Course,Music,Instruments,Portuguese,Wanjiru Singh,6.3,1141,4.0,37,"Cybersecurity Basics, Networking",2,Yes,All Levels,49.99,59,2023-04-05,2023,4,False,False
+CRS10580,Practical Finance Projects,Business,Finance,English,Yusuf Novak,1.9,3989,4.5,185,Copywriting,1,Yes,Advanced,0.0,475,2024-11-30,2024,11,False,False
+CRS10051,The Ultimate Videography Course,Photography & Video,Videography,Hindi,Aarav Mueller,11.1,1385,4.2,20,"Unity, Statistics, Node.js",3,No,Beginner,99.99,205,2024-04-23,2024,4,False,False
+CRS10342,Practical Data Science Projects,It & Software,Data Science,English,David Petrov,3.8,989,4.6,45,"Accounting, Machine Learning, Deep Learning, Java",4,Yes,Beginner,59.99,169,2025-12-11,2025,12,False,False
+CRS10447,Practical Network & Security Projects,It & Software,Network & Security,Hindi,Sara Silva,4.3,799,4.1,22,"Tableau, Node.js",2,Yes,Intermediate,24.99,190,2025-11-13,2025,11,False,False
+CRS10523,Social Media Marketing Crash Course,Marketing,Social Media Marketing,Japanese,John Kim,4.5,2707,4.2,61,"Azure, Statistics, Git, JavaScript, Java",5,No,Advanced,59.99,327,2025-01-02,2025,1,False,False
+CRS10322,Personal Finance Crash Course,Personal Development,Personal Finance,German,Grace Weber,8.2,10910,4.4,414,"SQL, After Effects, AWS, Unity, Power BI",5,Yes,All Levels,9.99,787,2025-01-01,2025,1,False,False
+CRS10354,Network & Security Crash Course,It & Software,Network & Security,Hindi,Lucia Kumar,4.9,12332,4.3,516,"Networking, Scrum, React, C++, Financial Modeling",5,Yes,Advanced,9.99,1456,2023-12-11,2023,12,False,False
+CRS10803,The Ultimate UX/UI Design Course,Design,Ux/Ui Design,Hindi,Rahul Petrov,10.8,750,4.1,16,"Docker, JavaScript",2,Yes,Intermediate,19.99,69,2023-10-17,2023,10,False,False
+CRS10143,The Ultimate Social Media Marketing Course,Marketing,Social Media Marketing,Spanish,Wanjiru Mueller,12.8,610,3.8,21,Negotiation,1,No,Advanced,59.99,36,2023-05-11,2023,5,False,False
+CRS10471,Practical Music Theory Projects,Music,Music Theory,Hindi,Wei Patel,4.8,1231,4.3,45,"React, SQL, Excel, JavaScript, Guitar",5,Yes,All Levels,9.99,149,2023-01-03,2023,1,False,False
+CRS10371,The Ultimate Entrepreneurship Course,Business,Entrepreneurship,Portuguese,Daniel Garcia,5.2,3747,4.8,204,C++,1,No,Beginner,99.99,234,2025-11-30,2025,11,False,False
+CRS10568,Mastering Graphic Design in 2025,Design,Graphic Design,Mandarin,Grace Novak,1.4,4961,4.5,181,"Power BI, Networking",2,Yes,Advanced,24.99,280,2023-11-05,2023,11,False,False
+CRS10142,Sales Crash Course,Business,Sales,French,Lucia Silva,10.0,7444,4.3,321,Copywriting,1,Yes,Intermediate,0.0,633,2023-01-26,2023,1,False,False
+CRS10400,Mastering Entrepreneurship in 2025,Business,Entrepreneurship,Mandarin,Hiro Zhang,6.6,7169,4.3,116,"Photoshop, Accounting, AWS, Music Theory",4,No,All Levels,0.0,382,2023-08-31,2023,8,False,False
+CRS10494,Complete Entrepreneurship Bootcamp,Business,Entrepreneurship,Mandarin,Michael Ali,4.5,2611,4.4,125,"Data Visualization, Kubernetes, Figma",3,No,All Levels,0.0,442,2024-02-05,2024,2,False,False
+CRS10264,Data Science: Zero to Hero,It & Software,Data Science,Hindi,Michael Nguyen,4.7,6409,4.0,159,"HTML/CSS, AWS, Statistics, Piano, Excel",5,No,Advanced,79.99,768,2023-11-04,2023,11,False,False
+CRS10321,Practical Content Marketing Projects,Marketing,Content Marketing,French,Wei Mueller,6.3,8144,4.4,0,"React, Google Ads, Data Visualization, Azure",4,No,Intermediate,0.0,1654,2023-09-02,2023,9,False,False
+CRS10020,Digital Marketing Crash Course,Marketing,Digital Marketing,English,Neha Costa,8.3,6409,4.4,66,"Accounting, Git",2,No,Advanced,79.99,975,2024-10-04,2024,10,False,False
+CRS10173,Advanced Mobile Development Masterclass,Development,Mobile Development,German,Yusuf Diaz,7.6,6951,4.3,289,"Scrum, After Effects, Kubernetes",3,No,All Levels,24.99,708,2023-07-29,2023,7,False,False
+CRS10705,Practical Social Media Marketing Projects,Marketing,Social Media Marketing,Japanese,Olga Johnson,3.7,2006,4.4,49,"Financial Modeling, Scrum, Agile",3,No,Intermediate,0.0,267,2024-12-04,2024,12,False,False
+CRS10313,Practical Finance Projects,Business,Finance,Hindi,Aisha Johnson,5.0,8374,4.4,116,"Networking, C++",2,Yes,Beginner,19.99,1643,2025-05-03,2025,5,False,False
+CRS10391,Complete Programming Languages Bootcamp,Development,Programming Languages,Portuguese,Olga Mueller,8.1,21178,4.5,741,"Accounting, Music Theory, Excel, Figma",4,Yes,All Levels,59.99,2891,2025-07-08,2025,7,True,False
+CRS10688,The Ultimate UX/UI Design Course,Design,Ux/Ui Design,French,Hiro Rossi,14.2,7235,4.6,110,"SEO, Piano, Negotiation, 3D Modeling",4,No,Intermediate,9.99,1575,2024-10-21,2024,10,False,True
+CRS10810,Mastering Content Marketing in 2025,Marketing,Content Marketing,English,Ahmed Khan,12.7,13030,4.4,501,"Java, Unreal Engine, Financial Modeling, SQL",4,No,Beginner,49.99,2297,2025-08-29,2025,8,False,False
+CRS10013,Data Science: Zero to Hero,It & Software,Data Science,Spanish,Sara Patel,4.4,4264,4.8,178,"Photoshop, Unity, Unreal Engine, Excel, HTML/CSS",5,Yes,Advanced,19.99,969,2024-02-23,2024,2,False,False
+CRS10408,Mastering Mobile Development in 2025,Development,Mobile Development,Portuguese,Neha Petrov,9.1,16689,4.3,757,"Statistics, Kubernetes, Deep Learning, Tableau",4,No,Intermediate,49.99,1042,2023-08-11,2023,8,False,False
+CRS10544,Content Marketing Crash Course,Marketing,Content Marketing,Japanese,Ahmed Chen,4.9,872,4.4,16,SEO,1,No,Advanced,0.0,109,2024-05-26,2024,5,False,False
+CRS10039,Digital Marketing: Zero to Hero,Marketing,Digital Marketing,French,Thomas Ito,6.6,1175,4.6,17,"3D Modeling, Excel, Azure",3,No,All Levels,19.99,203,2024-01-07,2024,1,False,False
+CRS10176,Cybersecurity: Zero to Hero,It & Software,Cybersecurity,Arabic,Anastasia Costa,4.5,6476,4.2,253,"Machine Learning, Figma, Financial Modeling",3,Yes,Advanced,34.99,771,2024-11-09,2024,11,False,False
+CRS10246,Mastering Finance in 2025,Business,Finance,Japanese,David Singh,6.1,3970,4.5,100,"Financial Modeling, Public Speaking, Piano, Accounting",4,No,All Levels,24.99,262,2024-05-07,2024,5,False,False
+CRS10721,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,French,Maria Weber,4.7,3406,4.1,47,"Unity, Music Theory, Azure, React",4,Yes,Advanced,99.99,270,2024-05-20,2024,5,False,False
+CRS10590,The Ultimate Photography Basics Course,Photography & Video,Photography Basics,Mandarin,Olga Khan,8.3,2672,3.9,71,"Excel, After Effects, Data Visualization, Azure",4,Yes,Beginner,49.99,598,2023-06-19,2023,6,False,False
+CRS10658,Music Theory: Zero to Hero,Music,Music Theory,Japanese,Lucia Novak,4.7,4197,3.3,251,"Deep Learning, Guitar, Docker, Google Ads, Public Speaking",5,Yes,Intermediate,19.99,323,2025-05-23,2025,5,False,False
+CRS10744,Complete Video Editing Bootcamp,Photography & Video,Video Editing,Portuguese,Emily Kim,7.9,1651,4.2,70,"Deep Learning, Unity, Kubernetes, Git",4,Yes,Advanced,12.99,227,2023-12-04,2023,12,False,False
+CRS10155,Mastering Leadership in 2025,Personal Development,Leadership,Hindi,Liam Costa,7.6,12812,4.2,169,Figma,1,No,All Levels,24.99,1448,2023-12-22,2023,12,False,False
+CRS10288,Complete SEO Bootcamp,Marketing,Seo,Arabic,Rahul Smith,5.1,1610,4.8,63,"SQL, Google Ads, Networking, Machine Learning, Java",5,No,Advanced,19.99,139,2023-09-29,2023,9,False,False
+CRS10527,Photography Basics: Zero to Hero,Photography & Video,Photography Basics,German,Fatima Patel,5.9,2761,4.0,69,"Agile, HTML/CSS, React, Git, C++",5,No,Intermediate,9.99,592,2024-05-07,2024,5,False,False
+CRS10018,Videography for Beginners,Photography & Video,Videography,German,Kenji Smith,4.6,8260,4.4,414,"Financial Modeling, Copywriting, Figma, SQL",4,Yes,All Levels,24.99,721,2024-07-24,2024,7,False,False
+CRS10128,The Ultimate Content Marketing Course,Marketing,Content Marketing,Mandarin,Rahul Zhang,6.5,3948,5.0,52,"Azure, Copywriting, HTML/CSS, Unity, Machine Learning",5,Yes,Advanced,0.0,809,2024-05-03,2024,5,False,False
+CRS10323,Advanced Productivity Masterclass,Personal Development,Productivity,German,Lucia Johnson,8.3,10879,4.3,406,"JavaScript, Unreal Engine",2,No,Advanced,24.99,1371,2024-09-08,2024,9,False,False
+CRS10256,Web Development for Beginners,Development,Web Development,Japanese,Kenji Chen,7.8,12984,4.3,442,"Financial Modeling, Node.js, Copywriting",3,Yes,Advanced,0.0,699,2024-06-11,2024,6,False,False
+CRS10577,The Ultimate Design Tools Course,Design,Design Tools,Japanese,David Zhang,3.8,29728,4.2,1535,"Python, Unreal Engine, SEO, Excel, Cybersecurity Basics",5,No,Advanced,19.99,4698,2023-04-28,2023,4,True,False
+CRS10834,Advanced Data Science Masterclass,It & Software,Data Science,German,Kenji Ito,8.2,13325,4.5,774,"Networking, Figma",2,No,All Levels,19.99,2340,2025-04-26,2025,4,False,False
+CRS10191,Advanced Photography Basics Masterclass,Photography & Video,Photography Basics,French,Carlos Ali,6.0,1002,4.2,38,"JavaScript, Data Visualization, Excel",3,No,Beginner,49.99,188,2025-07-25,2025,7,False,False
+CRS10116,Complete Sales Bootcamp,Business,Sales,Spanish,David Sharma,5.0,1508,4.1,69,"Tableau, Copywriting, AWS, 3D Modeling",4,Yes,All Levels,99.99,292,2026-01-12,2026,1,False,False
+CRS10540,Mastering 3D & Animation in 2025,Design,3D & Animation,Mandarin,Emily Singh,1.4,390,4.3,12,"Kubernetes, Networking, Financial Modeling, Figma, Agile",5,Yes,Advanced,59.99,66,2024-08-22,2024,8,False,False
+CRS10181,The Ultimate Data Science Course,It & Software,Data Science,English,Michael Mueller,2.9,976,4.0,57,"Power BI, JavaScript, SQL, React, Data Visualization",5,No,Beginner,59.99,128,2024-06-01,2024,6,False,False
+CRS10302,Mastering Cybersecurity in 2025,It & Software,Cybersecurity,Arabic,Wei Zhang,8.1,50292,4.9,1657,"AWS, SQL, Networking, Machine Learning",4,Yes,Intermediate,0.0,3037,2024-08-04,2024,8,True,False
+CRS10663,Mastering Programming Languages in 2025,Development,Programming Languages,French,Emily Garcia,3.0,5415,5.0,193,"Guitar, Public Speaking",2,Yes,Advanced,99.99,582,2025-03-26,2025,3,False,False
+CRS10622,Productivity: Zero to Hero,Personal Development,Productivity,Hindi,Daniel Zhang,6.1,585,4.4,24,3D Modeling,1,No,Intermediate,0.0,125,2025-06-01,2025,6,False,False
+CRS10679,Mastering Entrepreneurship in 2025,Business,Entrepreneurship,Hindi,Maria Johnson,5.1,10035,3.7,131,Tableau,1,Yes,Beginner,24.99,1477,2023-05-25,2023,5,False,False
+CRS10811,Complete Sales Bootcamp,Business,Sales,Mandarin,Sara Costa,4.0,4561,3.5,87,"Docker, Scrum",2,Yes,Intermediate,24.99,687,2025-01-02,2025,1,False,False
+CRS10581,Instruments: Zero to Hero,Music,Instruments,Hindi,Fatima Rossi,10.0,4587,4.8,106,"Python, Kubernetes",2,No,All Levels,0.0,1137,2024-05-20,2024,5,False,False
+CRS10518,The Ultimate Music Production Course,Music,Music Production,Arabic,Aisha Weber,5.6,1469,4.7,79,"Cybersecurity Basics, React, SEO, Music Theory, Node.js",5,Yes,All Levels,12.99,267,2023-10-18,2023,10,False,False
+CRS10046,Graphic Design Crash Course,Design,Graphic Design,Hindi,Yusuf Zhang,3.8,5105,5.0,213,Excel,1,Yes,Beginner,19.99,996,2025-01-04,2025,1,False,False
+CRS10787,Mastering Database Design in 2025,Development,Database Design,Spanish,Neha Smith,5.0,13549,3.6,751,"Music Theory, React, Piano",3,No,Beginner,19.99,694,2024-06-13,2024,6,False,False
+CRS10158,Practical Videography Projects,Photography & Video,Videography,Portuguese,Sofia Singh,4.3,14222,4.7,842,"Google Ads, Java, Azure",3,Yes,All Levels,79.99,2896,2023-03-08,2023,3,False,False
+CRS10673,Complete Entrepreneurship Bootcamp,Business,Entrepreneurship,English,David Nguyen,3.2,13401,4.2,281,"Copywriting, Tableau",2,No,Advanced,79.99,1040,2025-07-03,2025,7,False,False
+CRS10172,Advanced Digital Marketing Masterclass,Marketing,Digital Marketing,English,Fatima Ito,5.3,5437,4.0,276,"Figma, Kubernetes",2,Yes,All Levels,59.99,1176,2023-02-11,2023,2,False,False
+CRS10017,The Ultimate Game Development Course,Development,Game Development,English,Carlos Singh,12.3,3185,4.2,57,"Data Visualization, HTML/CSS, C++, Photoshop, AWS",5,No,Intermediate,34.99,751,2023-02-20,2023,2,False,False
+CRS10512,Advanced Photography Basics Masterclass,Photography & Video,Photography Basics,Hindi,Anastasia Zhang,15.1,1730,4.5,31,"SEO, SQL",2,No,All Levels,24.99,259,2024-06-27,2024,6,False,True
+CRS10049,The Ultimate Social Media Marketing Course,Marketing,Social Media Marketing,French,Elena Mueller,4.4,2255,4.7,54,"Node.js, JavaScript",2,No,Beginner,19.99,543,2025-06-21,2025,6,False,False
+CRS10840,Career Development for Beginners,Personal Development,Career Development,Hindi,Liam Silva,3.4,295,4.2,17,"Networking, Figma, AWS, Deep Learning",4,Yes,Beginner,79.99,31,2024-11-12,2024,11,False,False
+CRS10729,Practical Graphic Design Projects,Design,Graphic Design,English,Maria Nguyen,7.9,2182,4.2,0,"Git, Machine Learning, After Effects, Financial Modeling",4,Yes,Advanced,19.99,403,2025-09-07,2025,9,False,False
+CRS10516,Mastering Personal Finance in 2025,Personal Development,Personal Finance,English,Olga Rossi,6.0,5947,3.9,229,AWS,1,Yes,Beginner,79.99,626,2024-12-22,2024,12,False,False
+CRS10602,IT Certifications: Zero to Hero,It & Software,It Certifications,Mandarin,David Petrov,13.5,845,4.1,40,"Machine Learning, Accounting, SQL, Unreal Engine",4,No,All Levels,59.99,80,2025-11-13,2025,11,False,False
+CRS10481,Social Media Marketing for Beginners,Marketing,Social Media Marketing,English,Rahul Ito,5.8,1516,4.4,61,"Excel, Power BI, Public Speaking, Machine Learning",4,No,Beginner,24.99,111,2024-08-01,2024,8,False,False
+CRS10284,Practical UX/UI Design Projects,Design,Ux/Ui Design,Spanish,Thomas Nguyen,9.9,7721,4.3,106,"Java, Python",2,Yes,Beginner,9.99,476,2025-09-23,2025,9,False,False
+CRS10715,The Ultimate Music Theory Course,Music,Music Theory,Japanese,Neha Singh,4.6,3246,4.3,88,"Excel, Figma, Docker, C++, Copywriting",5,Yes,All Levels,0.0,569,2025-01-31,2025,1,False,False
+CRS10226,The Ultimate Sales Course,Business,Sales,German,Sofia Mueller,9.4,786,4.1,12,"Azure, Networking, Git",3,Yes,Advanced,24.99,67,2025-03-31,2025,3,False,False
+CRS10027,Instruments Crash Course,Music,Instruments,Portuguese,Neha Brown,2.2,2603,4.5,76,"HTML/CSS, Guitar",2,Yes,All Levels,79.99,617,2023-02-25,2023,2,False,False
+CRS10680,The Ultimate Music Theory Course,Music,Music Theory,Hindi,Priya Weber,2.9,989,3.9,49,Azure,1,Yes,Beginner,0.0,222,2025-06-05,2025,6,False,False
+CRS10438,IT Certifications for Beginners,It & Software,It Certifications,Hindi,Isabella Ali,7.8,8482,4.6,393,"Figma, Networking, Scrum",3,Yes,Advanced,9.99,1377,2023-03-12,2023,3,False,False
+CRS10365,Practical Instruments Projects,Music,Instruments,Portuguese,Olga Sharma,4.5,2148,3.7,125,"Financial Modeling, Agile, Figma, Video Editing",4,Yes,Advanced,79.99,498,2025-08-17,2025,8,False,False
+CRS10230,Mastering Entrepreneurship in 2025,Business,Entrepreneurship,Hindi,Michael Kim,3.9,2134,4.8,117,"SEO, Agile, Accounting, Unity",4,No,All Levels,34.99,257,2023-12-09,2023,12,False,False
+CRS10038,Social Media Marketing: Zero to Hero,Marketing,Social Media Marketing,English,Elena Chen,8.6,1823,3.7,95,"React, Scrum, Copywriting, Deep Learning",4,No,All Levels,49.99,206,2023-06-14,2023,6,False,False
+CRS10835,Career Development for Beginners,Personal Development,Career Development,Hindi,Neha Garcia,7.0,13214,4.6,683,Java,1,Yes,Beginner,9.99,809,2024-02-14,2024,2,False,False
+CRS10375,Network & Security for Beginners,It & Software,Network & Security,Hindi,Thomas Reddy,9.6,9198,4.5,157,"Data Visualization, Machine Learning, Power BI, Git",4,No,All Levels,12.99,1845,2025-07-02,2025,7,False,False
+CRS10470,Business Strategy Crash Course,Business,Business Strategy,English,Daniel Diaz,4.4,10558,4.4,535,SEO,1,Yes,Beginner,0.0,1974,2023-08-06,2023,8,False,False
+CRS10837,Practical Personal Finance Projects,Personal Development,Personal Finance,Portuguese,Isabella Diaz,2.8,4408,4.1,153,"3D Modeling, Excel",2,Yes,Beginner,59.99,1026,2025-07-17,2025,7,False,False
+CRS10738,Web Development for Beginners,Development,Web Development,Japanese,Ahmed Brown,7.7,2250,3.8,46,"HTML/CSS, Public Speaking, Google Ads",3,No,Beginner,49.99,131,2025-09-25,2025,9,False,False
+CRS10635,Practical SEO Projects,Marketing,Seo,Japanese,Emily Singh,5.6,4257,4.0,242,"Tableau, Accounting, Git",3,No,Intermediate,0.0,855,2024-04-10,2024,4,False,False
+CRS10195,Mastering SEO in 2025,Marketing,Seo,English,Aisha Fernandez,9.6,31235,4.4,439,"JavaScript, HTML/CSS, Piano, Figma",4,Yes,All Levels,12.99,1938,2025-11-12,2025,11,True,False
+CRS10740,Design Tools for Beginners,Design,Design Tools,Mandarin,Hiro Khan,6.0,9374,4.2,343,"Python, Tableau",2,Yes,Beginner,19.99,1526,2025-09-15,2025,9,False,False
+CRS10846,Business Strategy Crash Course,Business,Business Strategy,Arabic,Wei Smith,2.7,961,4.6,11,React,1,Yes,All Levels,0.0,135,2023-09-23,2023,9,False,False
+CRS10504,Complete Productivity Bootcamp,Personal Development,Productivity,Portuguese,Yusuf Rossi,7.0,4557,4.2,67,"Figma, Piano, Tableau",3,No,Intermediate,59.99,1138,2024-03-21,2024,3,False,False
+CRS10839,Mastering Leadership in 2025,Personal Development,Leadership,Spanish,Rahul Petrov,7.2,1122,4.5,44,"JavaScript, Git",2,No,Beginner,99.99,225,2024-09-12,2024,9,False,False
+CRS10722,Practical Leadership Projects,Personal Development,Leadership,Portuguese,Yusuf Mueller,2.5,3194,4.2,51,"C++, After Effects, Unreal Engine",3,Yes,Beginner,34.99,356,2025-03-16,2025,3,False,False
+CRS10838,Complete Business Strategy Bootcamp,Business,Business Strategy,Japanese,Yusuf Ali,4.0,7030,4.1,246,"Tableau, Scrum",2,Yes,Intermediate,49.99,1633,2024-03-20,2024,3,False,False
+CRS10163,Instruments: Zero to Hero,Music,Instruments,English,John Kumar,13.1,1216,4.1,59,"Cybersecurity Basics, Networking, After Effects, Machine Learning",4,No,All Levels,9.99,145,2025-01-29,2025,1,False,False
+CRS10614,Content Marketing: Zero to Hero,Marketing,Content Marketing,Spanish,David Novak,3.7,5050,4.5,180,Git,1,Yes,Beginner,24.99,338,2024-12-02,2024,12,False,False
+CRS10153,Mastering Leadership in 2025,Personal Development,Leadership,German,Priya Petrov,6.3,3082,4.6,163,"Networking, Data Visualization, Piano",3,No,Beginner,19.99,674,2025-02-23,2025,2,False,False
+CRS10597,Productivity for Beginners,Personal Development,Productivity,French,Sofia Johnson,9.3,24087,4.2,986,"Scrum, Unity, Data Visualization, Node.js, Unreal Engine",5,Yes,All Levels,49.99,3185,2023-01-26,2023,1,True,False
+CRS10708,Social Media Marketing Crash Course,Marketing,Social Media Marketing,German,Isabella Diaz,4.4,5647,4.8,78,SQL,1,Yes,Beginner,12.99,1361,2024-01-16,2024,1,False,False
+CRS10659,The Ultimate Instruments Course,Music,Instruments,Japanese,Kenji Kim,3.3,14490,4.8,495,"Power BI, Music Theory, Excel",3,Yes,Beginner,19.99,1936,2026-01-16,2026,1,False,False
+CRS10112,3D & Animation for Beginners,Design,3D & Animation,Mandarin,Sofia Kumar,9.0,353,3.9,20,"After Effects, Networking, Scrum",3,Yes,Advanced,9.99,61,2023-10-14,2023,10,False,False
+CRS10227,Advanced Graphic Design Masterclass,Design,Graphic Design,French,Wanjiru Brown,2.1,4518,3.8,205,"Cybersecurity Basics, Python",2,Yes,All Levels,9.99,322,2025-11-24,2025,11,False,False
+CRS10603,Practical UX/UI Design Projects,Design,Ux/Ui Design,French,John Sharma,3.1,9258,4.0,120,"Unreal Engine, Agile",2,No,Intermediate,49.99,705,2025-10-21,2025,10,False,False
+CRS10104,Mobile Development: Zero to Hero,Development,Mobile Development,English,Yusuf Johnson,5.6,1486,4.2,24,Cybersecurity Basics,1,Yes,All Levels,9.99,93,2023-10-05,2023,10,False,False
+CRS10422,UX/UI Design Crash Course,Design,Ux/Ui Design,Japanese,Michael Sharma,4.1,2571,4.6,147,"Power BI, Node.js",2,No,Intermediate,9.99,427,2023-07-07,2023,7,False,False
+CRS10420,Music Production for Beginners,Music,Music Production,Japanese,Aarav Patel,5.8,309,4.7,15,Copywriting,1,Yes,All Levels,12.99,30,2023-06-12,2023,6,False,False
+CRS10587,Advanced Web Development Masterclass,Development,Web Development,Spanish,Ahmed Brown,5.5,102695,4.4,3821,"Azure, Copywriting",2,Yes,Intermediate,12.99,10787,2024-02-21,2024,2,True,False
+CRS10120,UX/UI Design Crash Course,Design,Ux/Ui Design,Spanish,Liam Kumar,3.6,6758,3.8,316,"Data Visualization, Copywriting, Cybersecurity Basics",3,No,Advanced,19.99,1600,2024-05-20,2024,5,False,False
+CRS10054,Instruments for Beginners,Music,Instruments,English,Sofia Khan,17.8,3005,4.1,34,"Kubernetes, Unity, Figma, Negotiation, C++",5,No,Beginner,19.99,502,2023-10-24,2023,10,False,True
+CRS10152,Advanced Project Management Masterclass,Business,Project Management,Hindi,Carlos Diaz,7.4,5562,4.6,65,"React, Excel, Scrum",3,Yes,All Levels,34.99,1053,2025-10-13,2025,10,False,False
+CRS10404,Music Production Crash Course,Music,Music Production,Mandarin,Grace Rossi,3.3,2155,3.6,102,"Figma, After Effects, Tableau, Financial Modeling",4,No,Advanced,59.99,311,2025-11-16,2025,11,False,False
+CRS10818,The Ultimate Productivity Course,Personal Development,Productivity,Japanese,Lucia Zhang,7.1,1650,4.1,37,"Tableau, Music Theory",2,Yes,Intermediate,0.0,209,2023-10-12,2023,10,False,False
+CRS10208,Mastering 3D & Animation in 2025,Design,3D & Animation,Arabic,John Brown,4.9,39514,4.4,2110,"HTML/CSS, AWS",2,No,Intermediate,49.99,3602,2023-11-23,2023,11,True,False
+CRS10732,Advanced Entrepreneurship Masterclass,Business,Entrepreneurship,Spanish,Daniel Ali,5.6,8090,4.3,366,"C++, Guitar",2,No,Intermediate,0.0,812,2024-10-28,2024,10,False,False
+CRS10665,The Ultimate Design Tools Course,Design,Design Tools,Arabic,Ahmed Petrov,8.2,4600,3.9,190,"Docker, Kubernetes, Public Speaking, Excel, 3D Modeling",5,Yes,Intermediate,24.99,737,2024-05-28,2024,5,False,False
+CRS10009,Complete UX/UI Design Bootcamp,Design,Ux/Ui Design,Hindi,Priya Patel,8.6,4858,3.9,114,"Tableau, Video Editing, Photoshop",3,Yes,All Levels,12.99,1048,2026-01-09,2026,1,False,False
+CRS10786,Cybersecurity for Beginners,It & Software,Cybersecurity,Portuguese,Priya Nguyen,7.6,226,4.1,5,"Statistics, Excel, Piano, Node.js, Cybersecurity Basics",5,No,Intermediate,12.99,54,2025-04-20,2025,4,False,False
+CRS10037,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,Hindi,Isabella Johnson,3.0,6841,4.3,399,"Cybersecurity Basics, Google Ads, Excel, Figma, Scrum",5,Yes,Intermediate,19.99,1660,2024-02-10,2024,2,False,False
+CRS10453,IT Certifications for Beginners,It & Software,It Certifications,Spanish,Noah Nguyen,4.2,3879,4.9,90,"AWS, Accounting, React, Negotiation",4,No,Intermediate,59.99,205,2023-08-30,2023,8,False,False
+CRS10254,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,Hindi,Anastasia Khan,7.4,14908,4.5,466,"Unity, Music Theory, Excel, After Effects",4,Yes,Advanced,12.99,1135,2024-07-09,2024,7,False,False
+CRS10304,Practical Leadership Projects,Personal Development,Leadership,French,Emily Khan,6.2,19225,4.2,626,"Networking, Azure, AWS, Excel",4,Yes,Advanced,19.99,4748,2024-03-05,2024,3,False,False
+CRS10651,Mastering Photography Basics in 2025,Photography & Video,Photography Basics,English,Isabella Diaz,10.6,13867,3.2,155,"Tableau, Financial Modeling",2,Yes,Advanced,79.99,1623,2024-05-31,2024,5,False,False
+CRS10572,Advanced Entrepreneurship Masterclass,Business,Entrepreneurship,French,Isabella Ali,10.5,978,4.0,14,"Unreal Engine, AWS, Tableau, Financial Modeling",4,No,Intermediate,24.99,118,2023-01-29,2023,1,False,False
+CRS10693,The Ultimate Videography Course,Photography & Video,Videography,Mandarin,Michael Kim,9.9,2536,3.8,149,Video Editing,1,Yes,Intermediate,49.99,253,2023-05-11,2023,5,False,False
+CRS10629,SEO Crash Course,Marketing,Seo,Spanish,Fatima Novak,2.9,723,4.2,21,"Accounting, React",2,No,Beginner,49.99,131,2024-02-22,2024,2,False,False
+CRS10263,Practical Network & Security Projects,It & Software,Network & Security,Hindi,Emily Garcia,8.9,8676,4.0,308,"Java, Deep Learning, Data Visualization, Public Speaking, Agile",5,Yes,All Levels,79.99,1614,2024-02-18,2024,2,False,False
+CRS10298,Mastering Social Media Marketing in 2025,Marketing,Social Media Marketing,Japanese,Sara Fernandez,7.5,4449,4.0,78,Node.js,1,Yes,All Levels,0.0,422,2025-06-15,2025,6,False,False
+CRS10415,Practical Instruments Projects,Music,Instruments,German,Fatima Sharma,14.2,1957,4.3,35,Guitar,1,Yes,Intermediate,0.0,319,2023-01-23,2023,1,False,True
+CRS10151,Practical Programming Languages Projects,Development,Programming Languages,Japanese,Sofia Zhang,6.2,14097,4.5,316,"React, Python",2,Yes,Intermediate,9.99,2084,2024-02-10,2024,2,False,False
+CRS10686,Advanced Cybersecurity Masterclass,It & Software,Cybersecurity,French,Olga Silva,4.7,19404,4.3,566,Financial Modeling,1,No,Beginner,24.99,1623,2025-09-03,2025,9,False,False
+CRS10769,Mastering Video Editing in 2025,Photography & Video,Video Editing,English,Thomas Smith,3.0,18122,4.2,388,"Data Visualization, React",2,No,Intermediate,19.99,1117,2024-07-26,2024,7,False,False
+CRS10551,Practical Finance Projects,Business,Finance,Mandarin,Maria Costa,4.1,3438,4.0,177,"Unreal Engine, Figma, Agile, Data Visualization",4,Yes,Intermediate,59.99,815,2024-05-16,2024,5,False,False
+CRS10489,Advanced Programming Languages Masterclass,Development,Programming Languages,German,John Khan,4.2,714,4.5,14,"Agile, Data Visualization, Music Theory",3,Yes,Advanced,9.99,85,2023-04-21,2023,4,False,False
+CRS10148,Cybersecurity: Zero to Hero,It & Software,Cybersecurity,English,Hiro Novak,5.7,36689,3.7,1869,"Machine Learning, Unity, JavaScript, Video Editing",4,Yes,All Levels,0.0,7700,2023-05-08,2023,5,True,False
+CRS10147,Complete UX/UI Design Bootcamp,Design,Ux/Ui Design,Mandarin,Michael Weber,2.3,14245,4.0,218,Statistics,1,Yes,Advanced,0.0,926,2024-02-25,2024,2,False,False
+CRS10630,Complete SEO Bootcamp,Marketing,Seo,English,Priya Chen,9.6,2594,4.4,131,Guitar,1,No,Intermediate,9.99,617,2023-07-25,2023,7,False,False
+CRS10842,IT Certifications for Beginners,It & Software,It Certifications,Spanish,Wei Nguyen,5.2,11180,4.4,206,Piano,1,Yes,Beginner,0.0,2724,2024-06-27,2024,6,False,False
+CRS10645,Practical Leadership Projects,Personal Development,Leadership,Hindi,David Kim,5.5,1327,4.1,38,"Public Speaking, HTML/CSS, Networking, Node.js",4,Yes,All Levels,12.99,79,2024-06-26,2024,6,False,False
+CRS10349,Programming Languages Crash Course,Development,Programming Languages,German,Fatima Ito,4.0,6700,3.9,182,"Scrum, Networking, React, Figma",4,Yes,Intermediate,19.99,1315,2024-08-12,2024,8,False,False
+CRS10464,Practical Career Development Projects,Personal Development,Career Development,Hindi,John Kumar,6.5,1390,4.3,39,"SQL, AWS, Unreal Engine, SEO, Java",5,Yes,Beginner,12.99,325,2025-03-25,2025,3,False,False
+CRS10326,UX/UI Design: Zero to Hero,Design,Ux/Ui Design,Mandarin,Neha Zhang,3.3,13287,4.6,207,"Excel, Docker, JavaScript, Video Editing",4,No,All Levels,0.0,2534,2024-06-02,2024,6,False,False
+CRS10187,3D & Animation: Zero to Hero,Design,3D & Animation,Mandarin,Sofia Kumar,9.8,2446,3.3,97,"C++, Piano, HTML/CSS, Power BI",4,Yes,Intermediate,59.99,264,2025-08-19,2025,8,False,False
+CRS10124,Entrepreneurship for Beginners,Business,Entrepreneurship,Portuguese,Rahul Diaz,2.6,1064,3.7,34,"Git, JavaScript, Python",3,Yes,Intermediate,59.99,83,2025-11-28,2025,11,False,False
+CRS10739,The Ultimate Network & Security Course,It & Software,Network & Security,Arabic,Michael Mueller,7.7,17870,4.4,0,"Machine Learning, HTML/CSS",2,No,All Levels,12.99,2449,2023-03-27,2023,3,False,False
+CRS10609,Career Development Crash Course,Personal Development,Career Development,Arabic,Wanjiru Novak,6.6,417,4.3,18,"Python, Tableau, Negotiation, Figma",4,Yes,Intermediate,9.99,77,2024-07-23,2024,7,False,False
+CRS10144,Practical Business Strategy Projects,Business,Business Strategy,Japanese,Grace Ito,7.7,1992,3.7,58,3D Modeling,1,Yes,Beginner,12.99,214,2025-11-08,2025,11,False,False
+CRS10829,Finance Crash Course,Business,Finance,Arabic,Priya Sharma,7.8,9354,4.2,253,"JavaScript, Google Ads",2,No,Beginner,0.0,1490,2024-12-25,2024,12,False,False
+CRS10198,The Ultimate Productivity Course,Personal Development,Productivity,Japanese,Noah Johnson,6.0,3673,4.1,42,"Guitar, Deep Learning, Machine Learning, Financial Modeling, Figma",5,No,Advanced,24.99,372,2025-01-08,2025,1,False,False
+CRS10610,Complete Music Theory Bootcamp,Music,Music Theory,Japanese,Anastasia Fernandez,6.3,900,4.0,39,Negotiation,1,No,Advanced,59.99,161,2025-12-31,2025,12,False,False
+CRS10280,Videography Crash Course,Photography & Video,Videography,French,Isabella Garcia,3.4,1865,4.0,85,"Kubernetes, Unity, Git",3,No,All Levels,79.99,423,2024-12-01,2024,12,False,False
+CRS10294,Mastering Data Science in 2025,It & Software,Data Science,German,Michael Ali,5.1,7835,4.2,382,"Public Speaking, After Effects, AWS, Tableau",4,Yes,Beginner,34.99,494,2025-03-06,2025,3,False,False
+CRS10401,The Ultimate Design Tools Course,Design,Design Tools,Portuguese,Michael Patel,8.3,7715,4.7,276,"Docker, Guitar, Google Ads, C++, Public Speaking",5,Yes,Advanced,9.99,922,2025-11-06,2025,11,False,False
+CRS10123,Practical Videography Projects,Photography & Video,Videography,Spanish,Sofia Mueller,5.4,991,3.6,36,"Tableau, Agile, Unreal Engine, Cybersecurity Basics",4,No,All Levels,59.99,231,2023-03-17,2023,3,False,False
+CRS10184,Advanced Design Tools Masterclass,Design,Design Tools,German,Emily Garcia,8.2,17362,4.8,591,"Public Speaking, Git, React",3,Yes,Beginner,0.0,1275,2023-10-11,2023,10,False,False
+CRS10203,Advanced Social Media Marketing Masterclass,Marketing,Social Media Marketing,Portuguese,Aarav Costa,5.8,4499,4.8,100,Python,1,No,All Levels,59.99,1008,2026-01-26,2026,1,False,False
+CRS10439,Practical Sales Projects,Business,Sales,French,Yusuf Brown,5.8,9236,4.5,431,"Kubernetes, Figma",2,Yes,Beginner,9.99,1171,2025-09-25,2025,9,False,False
+CRS10247,Practical SEO Projects,Marketing,Seo,Arabic,Aarav Chen,8.0,8349,3.9,227,Music Theory,1,Yes,Advanced,0.0,2046,2024-09-07,2024,9,False,False
+CRS10416,Complete Design Tools Bootcamp,Design,Design Tools,Japanese,Yusuf Singh,10.7,2851,4.3,29,"Agile, Power BI, Unreal Engine",3,Yes,All Levels,12.99,346,2024-05-26,2024,5,False,False
+CRS10768,Career Development Crash Course,Personal Development,Career Development,Mandarin,Sara Mueller,4.9,14315,4.0,684,"Kubernetes, Statistics",2,No,Intermediate,49.99,1843,2025-09-28,2025,9,False,False
+CRS10130,Mastering Programming Languages in 2025,Development,Programming Languages,French,Isabella Novak,4.8,3743,4.2,88,"Data Visualization, Agile, Networking, AWS",4,Yes,Beginner,12.99,669,2024-08-21,2024,8,False,False
+CRS10638,Practical Video Editing Projects,Photography & Video,Video Editing,Portuguese,Aarav Johnson,3.6,6390,4.4,278,"Kubernetes, HTML/CSS, Unreal Engine",3,No,Beginner,34.99,934,2023-10-15,2023,10,False,False
+CRS10403,Content Marketing Crash Course,Marketing,Content Marketing,Spanish,Maria Mueller,6.4,6051,3.4,152,Google Ads,1,No,Advanced,12.99,382,2023-03-26,2023,3,False,False
+CRS10698,Mastering Photography Basics in 2025,Photography & Video,Photography Basics,Hindi,Anastasia Fernandez,4.6,1374,4.5,22,"Kubernetes, Unity, Copywriting",3,No,Beginner,99.99,87,2024-04-15,2024,4,False,False
+CRS10671,Advanced Video Editing Masterclass,Photography & Video,Video Editing,French,Grace Zhang,11.0,1951,4.8,97,"Data Visualization, Power BI, Docker, Kubernetes, Negotiation",5,No,Intermediate,99.99,461,2025-02-26,2025,2,False,False
+CRS10790,Mastering Digital Marketing in 2025,Marketing,Digital Marketing,Mandarin,Anastasia Singh,4.8,1021,4.5,37,"Google Ads, Docker",2,No,Beginner,99.99,192,2023-06-23,2023,6,False,False
+CRS10220,Advanced Data Science Masterclass,It & Software,Data Science,Mandarin,Kenji Brown,3.2,489,3.8,6,Machine Learning,1,No,Advanced,24.99,83,2024-07-20,2024,7,False,False
+CRS10642,SEO: Zero to Hero,Marketing,Seo,English,Sofia Ito,4.2,7700,4.8,237,"JavaScript, Networking, Piano",3,No,All Levels,79.99,1867,2025-11-28,2025,11,False,False
+CRS10792,Social Media Marketing for Beginners,Marketing,Social Media Marketing,French,Carlos Novak,4.1,22434,4.2,767,Deep Learning,1,Yes,Intermediate,0.0,4684,2023-07-04,2023,7,True,False
+CRS10656,The Ultimate Finance Course,Business,Finance,Spanish,Yusuf Reddy,2.0,16953,3.9,525,"SQL, HTML/CSS, Excel, Guitar",4,No,Beginner,19.99,2808,2024-08-19,2024,8,False,False
+CRS10795,Mobile Development Crash Course,Development,Mobile Development,Portuguese,Yusuf Kumar,10.2,7102,4.7,278,"React, Data Visualization, Python, HTML/CSS, Kubernetes",5,No,Advanced,9.99,1374,2023-04-29,2023,4,False,False
+CRS10625,Leadership for Beginners,Personal Development,Leadership,French,Liam Patel,2.5,2732,3.5,151,"SQL, Java, Agile",3,Yes,All Levels,0.0,148,2025-06-28,2025,6,False,False
+CRS10733,Complete Database Design Bootcamp,Development,Database Design,Mandarin,Grace Khan,9.6,4219,4.2,42,"Accounting, 3D Modeling, SEO, Scrum, Photoshop",5,No,Beginner,12.99,244,2023-11-28,2023,11,False,False
+CRS10669,Mastering Cybersecurity in 2025,It & Software,Cybersecurity,Mandarin,Hiro Garcia,3.6,1618,3.7,65,"C++, Excel, Scrum",3,No,Intermediate,34.99,107,2023-09-14,2023,9,False,False
+CRS10387,Career Development for Beginners,Personal Development,Career Development,Arabic,David Sharma,2.5,1307,4.7,71,Unreal Engine,1,No,Beginner,99.99,178,2023-12-22,2023,12,False,False
+CRS10841,Music Theory: Zero to Hero,Music,Music Theory,Spanish,Elena Ito,3.3,545,4.4,12,"Agile, Tableau",2,Yes,Advanced,12.99,124,2025-08-17,2025,8,False,False
+CRS10510,Advanced Graphic Design Masterclass,Design,Graphic Design,German,Maria Costa,7.6,863,4.2,31,"Tableau, Networking",2,Yes,Beginner,99.99,79,2024-03-18,2024,3,False,False
+CRS10268,Business Strategy: Zero to Hero,Business,Business Strategy,German,Emily Weber,4.0,12282,4.9,582,"Music Theory, Kubernetes, HTML/CSS, Power BI",4,Yes,Beginner,49.99,2608,2024-08-11,2024,8,False,False
+CRS10713,Complete Network & Security Bootcamp,It & Software,Network & Security,German,Wanjiru Singh,3.5,5824,4.1,138,"React, JavaScript, AWS, Java",4,Yes,Beginner,49.99,1404,2025-10-13,2025,10,False,False
+CRS10442,Photography Basics Crash Course,Photography & Video,Photography Basics,French,Kenji Kumar,6.0,282,4.7,4,"Statistics, Machine Learning",2,No,All Levels,19.99,62,2025-06-30,2025,6,False,False
+CRS10497,Advanced Videography Masterclass,Photography & Video,Videography,Japanese,Carlos Johnson,3.2,3070,4.7,59,"C++, SQL, HTML/CSS, Guitar, Machine Learning",5,No,Beginner,9.99,200,2025-07-18,2025,7,False,False
+CRS10113,Complete Entrepreneurship Bootcamp,Business,Entrepreneurship,Mandarin,John Weber,6.8,6423,4.1,263,"Accounting, Power BI, HTML/CSS, Node.js",4,Yes,All Levels,99.99,1006,2025-09-26,2025,9,False,False
+CRS10233,Advanced Videography Masterclass,Photography & Video,Videography,Portuguese,Sofia Johnson,2.7,2461,4.2,27,"C++, Copywriting, Python",3,Yes,Intermediate,24.99,439,2024-08-10,2024,8,False,False
+CRS10754,3D & Animation Crash Course,Design,3D & Animation,German,Priya Patel,2.9,177,3.9,9,"Python, Git, Power BI, Tableau",4,No,Advanced,59.99,10,2026-01-24,2026,1,False,False
+CRS10608,Advanced IT Certifications Masterclass,It & Software,It Certifications,Mandarin,Aarav Fernandez,5.8,4325,4.6,74,After Effects,1,No,All Levels,49.99,834,2023-12-15,2023,12,False,False
+CRS10374,SEO: Zero to Hero,Marketing,Seo,English,Emily Ali,10.3,2322,4.4,47,"Negotiation, Photoshop, Unity, 3D Modeling",4,Yes,Intermediate,24.99,560,2024-09-04,2024,9,False,False
+CRS10850,The Ultimate Career Development Course,Personal Development,Career Development,Mandarin,Carlos Sharma,7.1,6121,4.2,340,"SQL, C++",2,No,Beginner,34.99,1081,2023-09-10,2023,9,False,False
+CRS10234,Advanced Music Production Masterclass,Music,Music Production,English,Neha Kim,9.6,27467,4.9,956,"Accounting, Docker, Data Visualization, Piano, Git",5,No,Intermediate,99.99,6799,2025-03-09,2025,3,True,False
+CRS10683,Mastering SEO in 2025,Marketing,Seo,Hindi,Maria Chen,4.7,2077,4.2,89,"Machine Learning, Agile, Python, Public Speaking",4,No,Advanced,99.99,416,2023-05-15,2023,5,False,False
+CRS10318,Advanced UX/UI Design Masterclass,Design,Ux/Ui Design,French,Sara Singh,7.3,3918,4.4,102,"Docker, Networking, Public Speaking, Unreal Engine",4,No,Beginner,99.99,733,2025-01-09,2025,1,False,False
+CRS10649,Mastering Design Tools in 2025,Design,Design Tools,Japanese,Michael Ito,4.5,3163,3.6,88,"Accounting, After Effects, Git",3,No,Intermediate,24.99,784,2026-01-11,2026,1,False,False
+CRS10411,Advanced Instruments Masterclass,Music,Instruments,French,Sara Ali,1.4,247798,4.2,5069,"Tableau, Deep Learning, Unreal Engine, Photoshop",4,No,All Levels,49.99,14866,2025-08-05,2025,8,True,False
+CRS10778,Network & Security Crash Course,It & Software,Network & Security,English,Isabella Garcia,4.9,3989,4.2,85,Machine Learning,1,No,Intermediate,0.0,332,2023-11-11,2023,11,False,False
+CRS10359,Network & Security: Zero to Hero,It & Software,Network & Security,German,John Kumar,4.8,11260,4.2,452,"Photoshop, Music Theory, Git",3,Yes,Beginner,59.99,2424,2023-06-06,2023,6,False,False
+CRS10259,Advanced Video Editing Masterclass,Photography & Video,Video Editing,Arabic,Thomas Diaz,15.8,1853,3.9,86,"JavaScript, Java",2,Yes,Advanced,79.99,269,2024-04-17,2024,4,False,True
+CRS10628,Complete Video Editing Bootcamp,Photography & Video,Video Editing,German,Hiro Rossi,3.2,3290,3.4,59,"3D Modeling, Python",2,Yes,Intermediate,9.99,597,2025-08-20,2025,8,False,False
+CRS10633,Advanced Music Theory Masterclass,Music,Music Theory,Spanish,Sara Khan,16.5,8944,3.6,448,Statistics,1,No,Intermediate,9.99,1413,2023-01-30,2023,1,False,True
+CRS10283,Complete Game Development Bootcamp,Development,Game Development,English,Thomas Nguyen,3.5,30723,5.0,1168,Photoshop,1,No,All Levels,99.99,5244,2024-10-13,2024,10,True,False
+CRS10377,The Ultimate Mobile Development Course,Development,Mobile Development,Hindi,Olga Zhang,5.7,2135,3.6,28,Music Theory,1,No,Advanced,19.99,255,2025-02-05,2025,2,False,False
+CRS10385,Mastering Cybersecurity in 2025,It & Software,Cybersecurity,French,Olga Costa,3.9,96686,4.0,2301,"Google Ads, AWS, Python, Power BI, Cybersecurity Basics",5,Yes,Advanced,99.99,18505,2025-02-17,2025,2,True,False
+CRS10225,Data Science Crash Course,It & Software,Data Science,Arabic,Priya Novak,7.9,1763,3.9,88,"Scrum, React",2,Yes,All Levels,24.99,278,2023-01-18,2023,1,False,False
+CRS10824,Advanced Career Development Masterclass,Personal Development,Career Development,Spanish,Kenji Ali,4.0,4294,3.5,57,"HTML/CSS, Google Ads, Azure",3,No,Intermediate,99.99,1049,2025-12-26,2025,12,False,False
+CRS10709,Video Editing Crash Course,Photography & Video,Video Editing,Hindi,Aisha Rossi,8.0,1917,4.9,108,"HTML/CSS, Unity, Cybersecurity Basics, Node.js",4,No,Beginner,99.99,444,2025-10-03,2025,10,False,False
+CRS10473,The Ultimate Network & Security Course,It & Software,Network & Security,Spanish,Wei Singh,5.4,7502,4.6,403,"Financial Modeling, JavaScript, SEO",3,No,Advanced,19.99,528,2023-06-06,2023,6,False,False
+CRS10348,Mastering Cybersecurity in 2025,It & Software,Cybersecurity,Portuguese,Carlos Johnson,2.9,5894,3.6,202,"3D Modeling, Figma, SQL, Piano",4,No,Intermediate,0.0,975,2025-08-05,2025,8,False,False
+CRS10506,Complete Digital Marketing Bootcamp,Marketing,Digital Marketing,Arabic,Priya Costa,3.2,3537,4.8,135,Tableau,1,No,All Levels,19.99,398,2024-07-16,2024,7,False,False
+CRS10640,Advanced Web Development Masterclass,Development,Web Development,Japanese,Sofia Singh,12.5,1359,4.1,43,"HTML/CSS, Scrum, C++, Tableau, Negotiation",5,Yes,Beginner,34.99,81,2024-06-07,2024,6,False,False
+CRS10804,Complete Programming Languages Bootcamp,Development,Programming Languages,Japanese,Kenji Diaz,3.9,1929,4.3,54,Agile,1,Yes,Intermediate,19.99,247,2024-04-12,2024,4,False,False
+CRS10825,UX/UI Design: Zero to Hero,Design,Ux/Ui Design,Portuguese,Liam Johnson,4.8,350,4.7,16,"Guitar, Negotiation",2,Yes,All Levels,9.99,36,2024-12-04,2024,12,False,False
+CRS10620,Complete SEO Bootcamp,Marketing,Seo,Spanish,John Weber,10.2,45908,3.9,2410,"Agile, Kubernetes, Azure",3,Yes,Intermediate,49.99,4097,2025-01-11,2025,1,True,False
+CRS10741,Instruments: Zero to Hero,Music,Instruments,Arabic,David Petrov,3.8,1559,3.9,63,"After Effects, 3D Modeling, Piano, Negotiation",4,No,Advanced,59.99,380,2023-11-15,2023,11,False,False
+CRS10646,Mastering Leadership in 2025,Personal Development,Leadership,Portuguese,Rahul Kim,4.2,128,5.0,3,"Google Ads, Piano, Guitar, Azure, Deep Learning",5,No,Beginner,12.99,27,2023-07-11,2023,7,False,False
+CRS10734,Practical Music Theory Projects,Music,Music Theory,Mandarin,Anastasia Brown,9.6,4015,4.5,160,"Financial Modeling, Unreal Engine, 3D Modeling, Deep Learning, After Effects",5,No,All Levels,9.99,787,2025-10-27,2025,10,False,False
+CRS10557,Practical Content Marketing Projects,Marketing,Content Marketing,Japanese,Aisha Zhang,7.1,2470,4.3,61,Agile,1,No,All Levels,19.99,417,2023-06-27,2023,6,False,False
+CRS10828,The Ultimate Web Development Course,Development,Web Development,French,John Rossi,7.8,3873,4.5,145,"Docker, JavaScript, Kubernetes",3,Yes,Advanced,79.99,342,2024-03-15,2024,3,False,False
+CRS10578,Mastering Music Production in 2025,Music,Music Production,Arabic,Michael Reddy,6.8,277,4.3,15,"SQL, HTML/CSS, C++",3,Yes,Intermediate,9.99,27,2023-06-19,2023,6,False,False
+CRS10086,Sales for Beginners,Business,Sales,Japanese,Elena Costa,1.5,4012,4.3,0,"Unity, C++, AWS, HTML/CSS, Unreal Engine",5,Yes,Beginner,0.0,303,2023-06-16,2023,6,False,False
+CRS10243,Productivity: Zero to Hero,Personal Development,Productivity,Japanese,Priya Khan,6.6,7014,4.7,82,Networking,1,Yes,Beginner,79.99,775,2025-03-06,2025,3,False,False
+CRS10699,The Ultimate UX/UI Design Course,Design,Ux/Ui Design,French,Anastasia Brown,7.0,4840,4.3,132,"Unreal Engine, AWS, Networking, Cybersecurity Basics",4,No,Advanced,99.99,604,2024-05-23,2024,5,False,False
+CRS10160,Complete Entrepreneurship Bootcamp,Business,Entrepreneurship,Mandarin,Olga Garcia,2.5,1611,3.5,70,"Financial Modeling, Guitar, Statistics, JavaScript",4,No,Intermediate,9.99,150,2025-07-13,2025,7,False,False
+CRS10525,Complete Web Development Bootcamp,Development,Web Development,German,Michael Zhang,7.0,5441,4.0,136,"3D Modeling, Cybersecurity Basics, Negotiation",3,Yes,Beginner,79.99,885,2025-11-12,2025,11,False,False
+CRS10036,Complete Project Management Bootcamp,Business,Project Management,Spanish,John Patel,5.1,3308,5.0,65,"Unreal Engine, HTML/CSS, Figma, Music Theory, Statistics",5,No,All Levels,19.99,643,2025-05-28,2025,5,False,False
+CRS10541,The Ultimate Entrepreneurship Course,Business,Entrepreneurship,Mandarin,Elena Kumar,4.3,20383,4.1,0,"Music Theory, Figma",2,Yes,Intermediate,0.0,3526,2025-02-01,2025,2,True,False
+CRS10171,Game Development for Beginners,Development,Game Development,German,Ahmed Novak,8.5,25766,4.6,461,Photoshop,1,No,All Levels,9.99,5827,2025-08-29,2025,8,True,False
+CRS10655,Mastering Productivity in 2025,Personal Development,Productivity,Hindi,Noah Sharma,6.0,3405,3.7,0,3D Modeling,1,No,Beginner,9.99,293,2024-01-22,2024,1,False,False
+CRS10743,The Ultimate Project Management Course,Business,Project Management,Mandarin,Olga Ito,7.2,141856,3.9,3790,"HTML/CSS, Cybersecurity Basics",2,No,Beginner,24.99,21826,2023-04-27,2023,4,True,False
+CRS10735,Digital Marketing Crash Course,Marketing,Digital Marketing,Mandarin,Maria Sharma,3.8,4943,4.5,133,Kubernetes,1,No,Intermediate,49.99,888,2023-10-14,2023,10,False,False
+CRS10817,Mastering Design Tools in 2025,Design,Design Tools,English,Aarav Brown,1.2,38035,4.7,1955,"Azure, Figma",2,No,Advanced,99.99,6664,2023-11-23,2023,11,True,False
+CRS10096,Mastering Video Editing in 2025,Photography & Video,Video Editing,German,Maria Ali,13.5,7959,4.0,293,"Docker, Guitar",2,Yes,Advanced,9.99,1332,2023-08-12,2023,8,False,False
+CRS10564,Videography for Beginners,Photography & Video,Videography,German,Lucia Nguyen,4.9,5151,3.7,144,"Python, Excel",2,Yes,Beginner,59.99,1105,2025-03-25,2025,3,False,False
+CRS10241,Mastering Instruments in 2025,Music,Instruments,Japanese,Liam Petrov,4.9,726,4.2,43,Music Theory,1,Yes,Advanced,19.99,170,2026-01-14,2026,1,False,False
+CRS10575,Advanced Music Production Masterclass,Music,Music Production,Japanese,Sofia Costa,2.3,3438,4.4,194,"Financial Modeling, Copywriting, Music Theory, Public Speaking",4,No,Intermediate,9.99,802,2024-07-22,2024,7,False,False
+CRS10691,Social Media Marketing Crash Course,Marketing,Social Media Marketing,Mandarin,Wanjiru Sharma,5.4,6490,3.9,68,"SQL, Data Visualization, Machine Learning",3,No,Intermediate,49.99,1030,2025-02-21,2025,2,False,False
+CRS10461,SEO Crash Course,Marketing,Seo,French,Fatima Smith,6.9,3575,4.0,80,"Kubernetes, Google Ads, Cybersecurity Basics",3,Yes,Beginner,34.99,223,2024-01-14,2024,1,False,False
+CRS10554,Music Theory Crash Course,Music,Music Theory,German,Yusuf Khan,7.6,9097,4.6,433,"Video Editing, Machine Learning, C++, Python, Unity",5,No,All Levels,34.99,1506,2024-10-18,2024,10,False,False
+CRS10760,Complete Personal Finance Bootcamp,Personal Development,Personal Finance,Portuguese,John Khan,6.5,4464,3.9,213,"React, Unity, Java, Cybersecurity Basics, Networking",5,No,Advanced,0.0,646,2023-03-08,2023,3,False,False
+CRS10207,IT Certifications for Beginners,It & Software,It Certifications,German,Michael Johnson,6.7,27260,4.6,500,"Node.js, SQL, Unity, Deep Learning, Kubernetes",5,No,Advanced,59.99,2276,2026-01-10,2026,1,True,False
+CRS10393,Game Development for Beginners,Development,Game Development,Hindi,Elena Ali,4.5,27838,4.1,1193,"React, Machine Learning, Power BI, Excel, Statistics",5,Yes,Beginner,9.99,4021,2023-05-07,2023,5,True,False
+CRS10398,Programming Languages for Beginners,Development,Programming Languages,English,Yusuf Patel,2.9,336,4.2,12,"Negotiation, Statistics, Kubernetes, Deep Learning",4,Yes,Beginner,24.99,56,2023-01-21,2023,1,False,False
+CRS10736,Practical Music Production Projects,Music,Music Production,Mandarin,Ahmed Nguyen,4.8,1032,3.6,34,"Power BI, Photoshop, C++, Node.js",4,No,Advanced,24.99,227,2023-04-19,2023,4,False,False
+CRS10218,Mobile Development Crash Course,Development,Mobile Development,English,Thomas Khan,8.0,12182,4.8,195,Tableau,1,Yes,Advanced,0.0,1935,2023-03-19,2023,3,False,False
+CRS10005,Advanced Instruments Masterclass,Music,Instruments,Spanish,Anastasia Ito,12.2,1883,5.0,23,"Figma, Java, Video Editing",3,No,Beginner,0.0,322,2023-11-10,2023,11,False,False
+CRS10643,Project Management: Zero to Hero,Business,Project Management,Hindi,Sofia Nguyen,17.2,11769,4.7,226,"Data Visualization, Deep Learning, Excel, Financial Modeling, Agile",5,Yes,Beginner,34.99,728,2025-06-03,2025,6,False,True
+CRS10807,Career Development: Zero to Hero,Personal Development,Career Development,German,Daniel Mueller,6.4,2223,3.6,0,"Copywriting, Video Editing, SEO, Node.js, Excel",5,Yes,Intermediate,49.99,451,2024-04-03,2024,4,False,False
+CRS10613,Business Strategy for Beginners,Business,Business Strategy,Arabic,Liam Reddy,9.3,9784,3.8,104,"Negotiation, Video Editing",2,No,Advanced,99.99,1546,2024-09-05,2024,9,False,False
+CRS10547,Productivity for Beginners,Personal Development,Productivity,English,Liam Mueller,6.2,13390,4.0,154,"Guitar, Excel, Unreal Engine",3,Yes,Beginner,0.0,3244,2025-11-04,2025,11,False,False
+CRS10726,Practical UX/UI Design Projects,Design,Ux/Ui Design,Spanish,Lucia Patel,2.0,19044,3.9,1106,"Git, Unity, Unreal Engine",3,Yes,All Levels,12.99,2646,2024-04-20,2024,4,False,False
+CRS10684,The Ultimate Personal Finance Course,Personal Development,Personal Finance,Arabic,David Costa,7.0,2753,4.4,145,"AWS, Excel, Financial Modeling, Data Visualization, Scrum",5,Yes,Advanced,34.99,210,2025-08-07,2025,8,False,False
+CRS10099,Practical Career Development Projects,Personal Development,Career Development,Japanese,Hiro Khan,6.3,1573,4.1,30,"React, Negotiation",2,Yes,All Levels,99.99,168,2024-06-10,2024,6,False,False
+CRS10728,Music Theory for Beginners,Music,Music Theory,Portuguese,Elena Weber,4.6,7266,4.4,342,"Kubernetes, Public Speaking, Financial Modeling, Deep Learning",4,Yes,Advanced,12.99,1533,2025-02-16,2025,2,False,False
+CRS10574,Practical Career Development Projects,Personal Development,Career Development,French,Carlos Johnson,3.9,2904,4.1,53,"AWS, Cybersecurity Basics",2,Yes,Advanced,0.0,655,2023-04-17,2023,4,False,False
+CRS10407,Practical Design Tools Projects,Design,Design Tools,Japanese,Rahul Khan,7.6,14103,3.8,384,"Financial Modeling, Negotiation, Figma, Data Visualization",4,No,All Levels,24.99,3293,2024-09-05,2024,9,False,False
+CRS10503,Mastering Business Strategy in 2025,Business,Business Strategy,English,Liam Ito,7.6,9342,4.2,508,"Financial Modeling, Deep Learning, SQL, React, Azure",5,No,All Levels,9.99,1074,2025-01-02,2025,1,False,False
+CRS10048,Advanced Content Marketing Masterclass,Marketing,Content Marketing,Arabic,Carlos Brown,2.0,8064,4.6,245,"3D Modeling, Financial Modeling, Google Ads, SQL",4,No,All Levels,19.99,682,2023-01-17,2023,1,False,False
+CRS10033,Practical Music Theory Projects,Music,Music Theory,Arabic,John Kim,14.5,4065,4.3,88,"Unity, Accounting, Cybersecurity Basics",3,No,Advanced,34.99,467,2024-11-08,2024,11,False,True
+CRS10201,Productivity: Zero to Hero,Personal Development,Productivity,Hindi,Isabella Johnson,15.4,2662,4.7,63,"Data Visualization, Statistics, Agile",3,No,All Levels,24.99,448,2023-02-04,2023,2,False,True
+CRS10135,The Ultimate Music Theory Course,Music,Music Theory,Hindi,Kenji Fernandez,3.3,3456,3.8,107,"SEO, Public Speaking, Google Ads, Negotiation",4,No,Intermediate,79.99,789,2025-09-20,2025,9,False,False
+CRS10028,Advanced Data Science Masterclass,It & Software,Data Science,Mandarin,David Rossi,3.4,2210,4.2,124,"After Effects, Machine Learning, Cybersecurity Basics, SQL",4,Yes,Beginner,24.99,498,2024-04-04,2024,4,False,False
+CRS10762,Finance: Zero to Hero,Business,Finance,Portuguese,Daniel Rossi,4.7,3162,4.1,121,"Kubernetes, Unity, Machine Learning, Figma, Power BI",5,No,Beginner,59.99,171,2026-01-23,2026,1,False,False
+CRS10231,Digital Marketing for Beginners,Marketing,Digital Marketing,Spanish,Emily Johnson,4.9,2099,4.7,107,SQL,1,No,Beginner,0.0,282,2024-06-21,2024,6,False,False
+CRS10490,Social Media Marketing for Beginners,Marketing,Social Media Marketing,Hindi,Grace Kumar,4.0,3777,5.0,161,"Financial Modeling, 3D Modeling, Statistics, Python",4,No,Intermediate,0.0,724,2023-10-24,2023,10,False,False
+CRS10379,Mastering Video Editing in 2025,Photography & Video,Video Editing,Spanish,Ahmed Reddy,8.3,8464,4.2,209,"Machine Learning, HTML/CSS, Data Visualization",3,No,All Levels,24.99,816,2026-01-12,2026,1,False,False
+CRS10289,Mastering Project Management in 2025,Business,Project Management,Spanish,Maria Garcia,1.7,5168,3.6,128,"Azure, Music Theory, Excel, Negotiation",4,No,Intermediate,79.99,1230,2023-11-12,2023,11,False,False
+CRS10419,Mastering Instruments in 2025,Music,Instruments,German,Elena Rossi,8.7,1977,3.8,94,"Negotiation, Azure",2,No,Advanced,99.99,461,2025-09-14,2025,9,False,False
+CRS10675,The Ultimate Database Design Course,Development,Database Design,Hindi,Fatima Ali,3.7,18520,4.5,466,"Financial Modeling, Negotiation, Machine Learning, Accounting, Tableau",5,Yes,Advanced,99.99,3822,2025-03-17,2025,3,False,False
+CRS10392,Mobile Development Crash Course,Development,Mobile Development,Hindi,Carlos Garcia,5.4,3074,3.8,87,SQL,1,No,Beginner,79.99,185,2024-11-15,2024,11,False,False
+CRS10593,The Ultimate Database Design Course,Development,Database Design,German,Sara Kim,2.9,820,4.9,16,"Azure, Google Ads, Financial Modeling",3,No,All Levels,24.99,146,2024-09-01,2024,9,False,False
+CRS10499,Music Production for Beginners,Music,Music Production,Mandarin,Olga Johnson,8.0,2916,4.5,76,"Data Visualization, Statistics",2,No,All Levels,9.99,302,2024-01-04,2024,1,False,False
+CRS10139,Video Editing Crash Course,Photography & Video,Video Editing,Portuguese,Sofia Mueller,5.7,4233,3.6,176,"Unreal Engine, Google Ads, SQL, Copywriting, Kubernetes",5,No,Intermediate,34.99,429,2024-08-28,2024,8,False,False
+CRS10063,Network & Security for Beginners,It & Software,Network & Security,Japanese,Sara Nguyen,3.6,52260,4.8,2488,Git,1,Yes,Beginner,24.99,10886,2025-05-29,2025,5,True,False
+CRS10472,Career Development for Beginners,Personal Development,Career Development,Mandarin,Yusuf Zhang,2.0,5469,4.5,138,"JavaScript, Google Ads",2,No,Advanced,0.0,1272,2025-01-08,2025,1,False,False
+CRS10648,Practical Digital Marketing Projects,Marketing,Digital Marketing,French,Sofia Patel,3.8,5611,4.4,237,"C++, Python",2,Yes,Beginner,79.99,331,2025-09-16,2025,9,False,False
+CRS10129,Mastering Video Editing in 2025,Photography & Video,Video Editing,Mandarin,Grace Diaz,3.0,200,4.7,4,"Piano, AWS",2,No,Intermediate,9.99,26,2024-10-06,2024,10,False,False
+CRS10845,Graphic Design for Beginners,Design,Graphic Design,English,Grace Johnson,7.1,1498,4.8,55,Unreal Engine,1,No,Intermediate,34.99,277,2023-04-10,2023,4,False,False
+CRS10521,Practical Entrepreneurship Projects,Business,Entrepreneurship,Hindi,Sara Sharma,5.5,3529,4.0,47,"Video Editing, Piano, C++",3,No,Advanced,9.99,325,2024-02-07,2024,2,False,False
+CRS10065,Mastering 3D & Animation in 2025,Design,3D & Animation,Hindi,Emily Novak,9.7,3422,4.5,51,"Financial Modeling, C++, Photoshop",3,No,Advanced,12.99,228,2023-12-22,2023,12,False,False
+CRS10015,Advanced Database Design Masterclass,Development,Database Design,Hindi,Wei Mueller,5.7,31494,4.1,0,"C++, SEO, Google Ads, Unreal Engine, Kubernetes",5,Yes,Intermediate,99.99,1772,2024-06-24,2024,6,True,False
+CRS10157,The Ultimate Leadership Course,Personal Development,Leadership,English,Yusuf Khan,6.8,3524,4.7,200,"Tableau, Accounting, Deep Learning",3,No,Advanced,19.99,739,2024-10-22,2024,10,False,False
+CRS10041,Practical Database Design Projects,Development,Database Design,Mandarin,Elena Reddy,5.8,9926,4.5,529,Kubernetes,1,Yes,Intermediate,19.99,2309,2025-06-16,2025,6,False,False
+CRS10493,The Ultimate Videography Course,Photography & Video,Videography,Hindi,Ahmed Silva,7.3,4736,4.0,194,"Guitar, Git",2,No,All Levels,99.99,939,2024-08-03,2024,8,False,False
+CRS10380,Mastering Digital Marketing in 2025,Marketing,Digital Marketing,English,Neha Reddy,3.8,11523,4.2,300,Piano,1,Yes,Beginner,79.99,1674,2025-12-04,2025,12,False,False
+CRS10188,The Ultimate Leadership Course,Personal Development,Leadership,German,Isabella Diaz,8.8,5140,4.3,78,Scrum,1,No,All Levels,0.0,505,2025-10-17,2025,10,False,False
+CRS10764,Mastering Sales in 2025,Business,Sales,Japanese,Sofia Johnson,9.2,4832,4.2,274,"JavaScript, Node.js, SQL, Cybersecurity Basics, Kubernetes",5,Yes,Intermediate,9.99,967,2025-11-09,2025,11,False,False
+CRS10217,The Ultimate Instruments Course,Music,Instruments,Japanese,Liam Kim,5.1,1845,4.7,48,"Java, React, Figma, Agile",4,No,Intermediate,24.99,338,2024-03-15,2024,3,False,False
+CRS10053,Videography: Zero to Hero,Photography & Video,Videography,Arabic,Liam Smith,4.5,3484,4.3,184,"Photoshop, Accounting, JavaScript, Guitar",4,No,Advanced,0.0,633,2025-03-26,2025,3,False,False
+CRS10338,Practical Photography Basics Projects,Photography & Video,Photography Basics,Hindi,Isabella Fernandez,2.4,2754,3.9,98,"Deep Learning, Figma, HTML/CSS, Machine Learning, Unity",5,Yes,Advanced,19.99,140,2023-05-18,2023,5,False,False
+CRS10749,Career Development for Beginners,Personal Development,Career Development,Arabic,Emily Diaz,2.1,1881,4.6,37,"Copywriting, Kubernetes, Cybersecurity Basics, Excel, Accounting",5,Yes,Intermediate,24.99,283,2023-05-16,2023,5,False,False
+CRS10720,Advanced Sales Masterclass,Business,Sales,German,Elena Novak,7.8,18416,3.9,207,"Photoshop, 3D Modeling, Docker",3,Yes,Advanced,12.99,3462,2024-11-17,2024,11,False,False
+CRS10725,Mastering Leadership in 2025,Personal Development,Leadership,English,David Reddy,9.6,4205,4.2,89,"Kubernetes, Guitar, HTML/CSS, SQL",4,No,Beginner,79.99,835,2024-07-06,2024,7,False,False
+CRS10296,Complete Content Marketing Bootcamp,Marketing,Content Marketing,Arabic,Lucia Smith,6.1,8162,4.3,187,"Deep Learning, 3D Modeling, Python",3,No,All Levels,49.99,1601,2025-06-12,2025,6,False,False
+CRS10702,Complete SEO Bootcamp,Marketing,Seo,Arabic,Carlos Johnson,4.1,6278,4.3,214,Networking,1,No,All Levels,34.99,1553,2023-12-25,2023,12,False,False
+CRS10252,Entrepreneurship Crash Course,Business,Entrepreneurship,Mandarin,Carlos Rossi,5.2,22813,4.1,366,"AWS, Financial Modeling, HTML/CSS",3,No,All Levels,79.99,2524,2023-10-26,2023,10,True,False
+CRS10727,Mastering Music Production in 2025,Music,Music Production,Mandarin,Daniel Brown,5.3,5173,4.5,140,"Networking, Git",2,No,Advanced,24.99,707,2023-02-12,2023,2,False,False
+CRS10462,Digital Marketing: Zero to Hero,Marketing,Digital Marketing,Hindi,Daniel Khan,3.5,9798,4.9,427,"Unity, Music Theory, Unreal Engine",3,No,Advanced,12.99,648,2025-02-25,2025,2,False,False
+CRS10456,Advanced IT Certifications Masterclass,It & Software,It Certifications,Hindi,Sara Ali,6.8,4064,4.3,159,"Python, Financial Modeling, Docker, React",4,Yes,Beginner,9.99,408,2025-03-19,2025,3,False,False
+CRS10270,The Ultimate Photography Basics Course,Photography & Video,Photography Basics,Portuguese,Michael Fernandez,3.1,347,4.5,7,"After Effects, Tableau, Copywriting",3,Yes,Advanced,0.0,25,2023-08-22,2023,8,False,False
+CRS10202,Complete Project Management Bootcamp,Business,Project Management,Hindi,Noah Zhang,12.3,20199,4.5,1120,"Machine Learning, Google Ads, Agile, Statistics, Deep Learning",5,No,Beginner,49.99,1735,2023-11-17,2023,11,True,False
+CRS10162,The Ultimate Web Development Course,Development,Web Development,French,Olga Weber,2.9,8579,4.8,305,"After Effects, Google Ads, Copywriting, Photoshop, JavaScript",5,Yes,All Levels,9.99,824,2023-04-22,2023,4,False,False
+CRS10556,Practical Content Marketing Projects,Marketing,Content Marketing,French,Aisha Mueller,8.0,2586,3.9,81,"SEO, C++",2,Yes,Intermediate,0.0,559,2023-03-23,2023,3,False,False
+CRS10730,Complete Video Editing Bootcamp,Photography & Video,Video Editing,French,John Petrov,13.0,2117,3.8,100,Music Theory,1,No,All Levels,9.99,336,2024-08-23,2024,8,False,False
+CRS10402,Finance Crash Course,Business,Finance,Japanese,Noah Ali,3.8,5305,4.3,277,"Cybersecurity Basics, Networking, SEO, Unity, Deep Learning",5,No,Beginner,12.99,290,2024-03-25,2024,3,False,False
+CRS10703,Practical SEO Projects,Marketing,Seo,French,Aarav Singh,3.6,11445,4.4,312,"Agile, Python",2,No,Beginner,79.99,588,2025-06-10,2025,6,False,False
+CRS10477,Complete Videography Bootcamp,Photography & Video,Videography,Mandarin,Yusuf Zhang,9.7,8288,4.2,229,"AWS, SQL, C++, Accounting, Machine Learning",5,Yes,Beginner,79.99,589,2025-05-02,2025,5,False,False
+CRS10772,Complete Network & Security Bootcamp,It & Software,Network & Security,Spanish,David Reddy,3.8,32344,4.2,918,"Negotiation, Python, Cybersecurity Basics, Docker, Azure",5,Yes,Advanced,34.99,7950,2024-05-29,2024,5,True,False
+CRS10106,Content Marketing Crash Course,Marketing,Content Marketing,Japanese,Sofia Patel,7.8,22595,3.6,1276,"React, Excel",2,No,All Levels,79.99,4883,2023-02-02,2023,2,True,False
+CRS10566,Complete Personal Finance Bootcamp,Personal Development,Personal Finance,German,Emily Mueller,4.3,605,3.2,31,"Google Ads, Git, Machine Learning, Figma",4,No,Advanced,49.99,57,2024-08-05,2024,8,False,False
+CRS10390,Instruments for Beginners,Music,Instruments,Spanish,Anastasia Johnson,3.6,2661,4.4,66,"Music Theory, SEO",2,Yes,Beginner,99.99,189,2025-12-27,2025,12,False,False
+CRS10002,Mobile Development Crash Course,Development,Mobile Development,Portuguese,Daniel Rossi,6.9,32003,4.6,352,"Financial Modeling, Unreal Engine, After Effects",3,No,All Levels,59.99,7808,2023-09-13,2023,9,True,False
+CRS10812,Instruments for Beginners,Music,Instruments,Spanish,John Petrov,5.6,1835,3.6,30,"Git, Photoshop",2,No,Advanced,9.99,432,2025-08-15,2025,8,False,False
+CRS10562,Complete Design Tools Bootcamp,Design,Design Tools,Japanese,Liam Singh,15.9,5811,4.2,295,"Git, Deep Learning, After Effects, Power BI",4,Yes,Intermediate,24.99,1433,2023-04-04,2023,4,False,True
+CRS10081,Web Development Crash Course,Development,Web Development,Portuguese,Anastasia Singh,12.7,4283,4.7,71,"Agile, Excel, Java, Tableau, Photoshop",5,No,Advanced,24.99,238,2025-02-23,2025,2,False,False
+CRS10206,The Ultimate Data Science Course,It & Software,Data Science,French,Yusuf Chen,5.7,8840,3.5,454,"Java, Negotiation, Cybersecurity Basics",3,No,Advanced,19.99,1203,2025-09-24,2025,9,False,False
+CRS10035,Advanced Database Design Masterclass,Development,Database Design,Spanish,Daniel Kumar,5.1,2458,4.7,102,"Cybersecurity Basics, Agile, Negotiation",3,Yes,Beginner,19.99,513,2025-09-05,2025,9,False,False
+CRS10776,Productivity: Zero to Hero,Personal Development,Productivity,Japanese,Lucia Ito,9.8,2535,4.4,32,"Financial Modeling, Agile, Piano",3,Yes,Beginner,0.0,619,2023-02-13,2023,2,False,False
+CRS10509,Mastering Video Editing in 2025,Photography & Video,Video Editing,Spanish,Emily Khan,7.0,2050,4.9,93,"Data Visualization, Node.js, Agile, React, Music Theory",5,No,All Levels,24.99,262,2025-09-30,2025,9,False,False
+CRS10428,Cybersecurity for Beginners,It & Software,Cybersecurity,Spanish,Michael Weber,7.3,3004,4.3,49,"Machine Learning, Music Theory, Docker, Git, AWS",5,No,Advanced,19.99,610,2025-10-22,2025,10,False,False
+CRS10455,The Ultimate Network & Security Course,It & Software,Network & Security,English,Carlos Johnson,2.9,1906,4.2,75,"React, Networking, Python, C++",4,No,Advanced,12.99,362,2025-08-21,2025,8,False,False
+CRS10367,Music Production for Beginners,Music,Music Production,French,Aarav Nguyen,6.8,1655,4.3,97,"Azure, Video Editing",2,Yes,Beginner,24.99,242,2025-05-31,2025,5,False,False
+CRS10092,Mastering Instruments in 2025,Music,Instruments,Portuguese,David Garcia,4.3,1281,5.0,36,"Unity, Negotiation, Video Editing",3,No,All Levels,79.99,182,2024-09-05,2024,9,False,False
+CRS10340,Music Production Crash Course,Music,Music Production,English,Maria Ali,1.8,2739,4.0,111,"Git, Data Visualization, Public Speaking",3,Yes,Beginner,99.99,199,2024-02-21,2024,2,False,False
+CRS10565,Complete UX/UI Design Bootcamp,Design,Ux/Ui Design,German,Thomas Brown,5.5,17298,4.8,456,"Machine Learning, Tableau, Video Editing",3,Yes,All Levels,0.0,1588,2023-01-31,2023,1,False,False
+CRS10346,Practical Business Strategy Projects,Business,Business Strategy,Mandarin,David Weber,6.4,7197,4.8,75,AWS,1,Yes,Beginner,24.99,1275,2025-05-11,2025,5,False,False
+CRS10777,Cloud Computing for Beginners,It & Software,Cloud Computing,French,Priya Singh,11.1,3892,3.6,205,React,1,Yes,Intermediate,24.99,431,2024-09-05,2024,9,False,False
+CRS10242,Mastering Videography in 2025,Photography & Video,Videography,English,Maria Reddy,10.9,3527,4.0,168,Guitar,1,No,Intermediate,59.99,266,2025-10-15,2025,10,False,False
+CRS10014,Music Production: Zero to Hero,Music,Music Production,English,Rahul Zhang,3.4,3593,4.0,172,"Java, Financial Modeling, Tableau",3,Yes,Advanced,19.99,582,2023-11-20,2023,11,False,False
+CRS10316,Advanced Network & Security Masterclass,It & Software,Network & Security,Portuguese,Sara Rossi,3.2,3002,4.1,82,"Guitar, AWS, Copywriting, React",4,No,All Levels,49.99,420,2023-10-25,2023,10,False,False
+CRS10601,Practical Music Production Projects,Music,Music Production,Spanish,Fatima Brown,9.3,3966,4.7,159,"Scrum, Azure, JavaScript",3,No,All Levels,34.99,739,2025-04-20,2025,4,False,False
+CRS10388,Music Production: Zero to Hero,Music,Music Production,Hindi,Hiro Singh,3.9,3709,4.3,53,"Unreal Engine, Financial Modeling, Statistics, Azure",4,Yes,Beginner,0.0,695,2025-08-05,2025,8,False,False
+CRS10274,The Ultimate Cloud Computing Course,It & Software,Cloud Computing,Arabic,Noah Kim,7.2,2555,4.3,132,Music Theory,1,Yes,Intermediate,12.99,502,2023-03-16,2023,3,False,False
+CRS10167,Database Design Crash Course,Development,Database Design,Hindi,Wei Ito,10.2,1235,4.0,57,JavaScript,1,No,Beginner,19.99,184,2026-01-01,2026,1,False,False
+CRS10647,Mastering Video Editing in 2025,Photography & Video,Video Editing,Portuguese,Kenji Khan,5.9,831,4.4,31,"HTML/CSS, 3D Modeling, Machine Learning",3,Yes,Intermediate,49.99,187,2023-03-25,2023,3,False,False
+CRS10485,Advanced Data Science Masterclass,It & Software,Data Science,Portuguese,John Garcia,9.1,7876,4.3,410,"After Effects, Agile, Java, React",4,No,All Levels,0.0,1157,2025-01-14,2025,1,False,False
+CRS10849,Career Development Crash Course,Personal Development,Career Development,Hindi,Anastasia Diaz,5.1,7478,3.6,190,"Unreal Engine, Financial Modeling, Java, Unity, Networking",5,No,Beginner,12.99,1513,2025-07-18,2025,7,False,False
+CRS10505,Project Management Crash Course,Business,Project Management,Mandarin,Carlos Fernandez,6.3,10175,4.5,538,SEO,1,No,Beginner,49.99,2538,2023-12-17,2023,12,False,False
+CRS10244,The Ultimate Digital Marketing Course,Marketing,Digital Marketing,French,John Sharma,5.8,1069,4.3,27,"Machine Learning, Scrum, Node.js, Power BI",4,No,All Levels,24.99,138,2023-04-30,2023,4,False,False
+CRS10567,Video Editing: Zero to Hero,Photography & Video,Video Editing,Arabic,Kenji Reddy,10.8,1813,4.0,45,"JavaScript, Copywriting, Negotiation, C++, Node.js",5,No,Beginner,59.99,428,2023-12-13,2023,12,False,False
+CRS10563,The Ultimate Graphic Design Course,Design,Graphic Design,Spanish,Aarav Chen,1.7,1561,4.4,51,"Financial Modeling, Piano, Tableau",3,Yes,Intermediate,24.99,148,2026-01-01,2026,1,False,False
+CRS10687,Complete Video Editing Bootcamp,Photography & Video,Video Editing,German,David Diaz,6.4,11666,4.3,469,"React, Unreal Engine, Java, Music Theory, Google Ads",5,Yes,Advanced,9.99,1658,2025-01-26,2025,1,False,False
+CRS10190,The Ultimate Personal Finance Course,Personal Development,Personal Finance,Arabic,Aarav Rossi,5.1,3315,3.9,91,"Piano, Music Theory, Accounting",3,Yes,Beginner,9.99,187,2025-10-05,2025,10,False,False
+CRS10783,Entrepreneurship for Beginners,Business,Entrepreneurship,Arabic,Emily Ali,4.4,14799,3.7,833,"Power BI, Node.js, Unreal Engine",3,Yes,Intermediate,24.99,3587,2024-10-02,2024,10,False,False
+CRS10700,Complete Database Design Bootcamp,Development,Database Design,English,Lucia Sharma,3.1,2957,4.4,34,"AWS, JavaScript, Power BI, Accounting, Kubernetes",5,No,All Levels,24.99,735,2023-06-05,2023,6,False,False
+CRS10476,Mastering Personal Finance in 2025,Personal Development,Personal Finance,Hindi,Maria Reddy,12.9,5930,3.9,127,"Piano, Data Visualization",2,Yes,Intermediate,0.0,435,2023-10-10,2023,10,False,False
+CRS10682,Graphic Design: Zero to Hero,Design,Graphic Design,French,Daniel Patel,7.3,4055,3.5,171,"Google Ads, Unreal Engine, Data Visualization, Video Editing, Node.js",5,Yes,All Levels,19.99,616,2024-12-07,2024,12,False,False
+CRS10511,The Ultimate Leadership Course,Personal Development,Leadership,German,Michael Khan,7.9,6405,4.7,254,"Figma, Accounting",2,No,All Levels,79.99,388,2025-11-17,2025,11,False,False
+CRS10059,Complete Videography Bootcamp,Photography & Video,Videography,German,Maria Zhang,5.8,3433,4.0,0,"Figma, JavaScript, Financial Modeling, Piano",4,No,Advanced,79.99,761,2024-04-08,2024,4,False,False
+CRS10475,The Ultimate Videography Course,Photography & Video,Videography,Spanish,Michael Patel,9.4,5132,4.1,207,"Guitar, Networking, Figma, Statistics, Machine Learning",5,No,All Levels,59.99,421,2024-03-25,2024,3,False,False
+CRS10561,The Ultimate Video Editing Course,Photography & Video,Video Editing,French,Emily Garcia,12.5,5852,4.5,88,Financial Modeling,1,Yes,Intermediate,49.99,494,2025-09-28,2025,9,False,False
+CRS10748,SEO Crash Course,Marketing,Seo,Mandarin,Sofia Kim,5.9,7782,4.3,244,"C++, Excel, Machine Learning, Power BI",4,No,Beginner,9.99,505,2023-08-09,2023,8,False,False
+CRS10253,Data Science: Zero to Hero,It & Software,Data Science,English,Lucia Khan,4.6,3400,4.4,121,Negotiation,1,Yes,Beginner,19.99,850,2025-07-10,2025,7,False,False
+CRS10022,Practical Personal Finance Projects,Personal Development,Personal Finance,Arabic,Noah Kumar,5.3,4273,4.3,248,"Machine Learning, Google Ads",2,No,Advanced,0.0,428,2024-04-26,2024,4,False,False
+CRS10314,Game Development for Beginners,Development,Game Development,Hindi,Thomas Novak,7.0,4070,5.0,104,"Public Speaking, Networking, Unity",3,Yes,All Levels,49.99,587,2024-09-14,2024,9,False,False
+CRS10460,UX/UI Design Crash Course,Design,Ux/Ui Design,English,John Smith,4.4,971,4.6,44,"Figma, Negotiation",2,No,Beginner,59.99,66,2025-05-24,2025,5,False,False
+CRS10161,Career Development: Zero to Hero,Personal Development,Career Development,Hindi,Fatima Chen,2.8,9505,4.2,544,Negotiation,1,No,All Levels,0.0,1363,2025-06-02,2025,6,False,False
+CRS10277,Complete Personal Finance Bootcamp,Personal Development,Personal Finance,Spanish,Emily Brown,7.6,2557,4.0,127,"Unreal Engine, Unity",2,No,All Levels,79.99,232,2024-12-29,2024,12,False,False
+CRS10192,Practical Videography Projects,Photography & Video,Videography,Japanese,Lucia Garcia,4.2,5700,4.4,256,"JavaScript, Statistics",2,Yes,Advanced,59.99,319,2025-02-26,2025,2,False,False
+CRS10386,Mobile Development: Zero to Hero,Development,Mobile Development,German,Thomas Khan,5.9,13961,4.0,360,"Kubernetes, HTML/CSS, Video Editing, Public Speaking",4,No,Advanced,99.99,982,2024-06-19,2024,6,False,False
+CRS10806,Advanced Network & Security Masterclass,It & Software,Network & Security,Hindi,Kenji Ito,3.4,3334,4.7,147,Kubernetes,1,Yes,All Levels,34.99,375,2023-07-21,2023,7,False,False
+CRS10414,Instruments: Zero to Hero,Music,Instruments,Arabic,Anastasia Brown,6.4,3857,4.3,184,After Effects,1,Yes,Intermediate,24.99,317,2025-08-08,2025,8,False,False
+CRS10492,IT Certifications Crash Course,It & Software,It Certifications,French,Sara Ito,8.0,10911,4.9,519,"SQL, Copywriting, Video Editing",3,No,Beginner,49.99,2297,2025-07-22,2025,7,False,False
+CRS10344,Music Theory for Beginners,Music,Music Theory,German,Lucia Khan,13.0,6474,4.3,184,"SQL, Unreal Engine, Excel",3,Yes,Beginner,99.99,480,2024-05-05,2024,5,False,False
+CRS10770,Advanced Music Production Masterclass,Music,Music Production,French,Yusuf Mueller,5.1,301,3.8,3,"AWS, Cybersecurity Basics, Figma",3,No,Intermediate,0.0,50,2024-04-25,2024,4,False,False
+CRS10309,Programming Languages Crash Course,Development,Programming Languages,Arabic,Yusuf Zhang,6.2,3898,4.1,74,"Python, Data Visualization, Kubernetes, Java, Financial Modeling",5,Yes,Beginner,0.0,891,2025-09-09,2025,9,False,False
+CRS10662,Advanced Content Marketing Masterclass,Marketing,Content Marketing,French,Michael Chen,4.0,21034,4.4,983,Data Visualization,1,No,All Levels,19.99,3618,2024-01-24,2024,1,True,False
+CRS10131,Practical Network & Security Projects,It & Software,Network & Security,Japanese,Rahul Zhang,7.7,14641,4.8,166,"Guitar, Excel, Agile",3,No,All Levels,0.0,1382,2024-05-21,2024,5,False,False
+CRS10664,Digital Marketing: Zero to Hero,Marketing,Digital Marketing,Mandarin,Hiro Fernandez,2.3,611,4.3,28,"Docker, Java, Music Theory, Excel",4,No,Beginner,0.0,33,2024-04-13,2024,4,False,False
+CRS10100,UX/UI Design Crash Course,Design,Ux/Ui Design,Mandarin,John Brown,6.0,1613,4.5,85,"Cybersecurity Basics, Public Speaking",2,No,Beginner,19.99,344,2025-02-24,2025,2,False,False
+CRS10373,Mastering Videography in 2025,Photography & Video,Videography,Japanese,Aisha Fernandez,5.8,1968,4.7,0,"Negotiation, Node.js, AWS, SQL, Guitar",5,No,Intermediate,19.99,216,2025-05-15,2025,5,False,False
+CRS10088,The Ultimate Career Development Course,Personal Development,Career Development,Mandarin,Noah Costa,5.6,9205,4.1,110,SEO,1,No,Intermediate,0.0,771,2023-04-14,2023,4,False,False
+CRS10459,Design Tools for Beginners,Design,Design Tools,Arabic,Neha Zhang,5.4,9983,5.0,104,"Docker, Unity",2,No,Intermediate,12.99,1676,2023-09-04,2023,9,False,False
+CRS10331,Finance: Zero to Hero,Business,Finance,Portuguese,David Fernandez,4.4,1595,4.4,23,Figma,1,Yes,All Levels,19.99,369,2024-07-13,2024,7,False,False
+CRS10215,Design Tools Crash Course,Design,Design Tools,Portuguese,Anastasia Reddy,15.4,13576,4.8,282,"Java, After Effects, Cybersecurity Basics, Figma",4,No,Beginner,19.99,2467,2026-01-18,2026,1,False,True
+CRS10467,Career Development: Zero to Hero,Personal Development,Career Development,Japanese,Olga Petrov,15.3,1385,4.1,15,Financial Modeling,1,Yes,Advanced,9.99,152,2024-06-08,2024,6,False,True
+CRS10122,3D & Animation Crash Course,Design,3D & Animation,German,Kenji Nguyen,6.0,13400,4.1,358,"Guitar, Azure, Piano, SQL, Scrum",5,No,Intermediate,49.99,2823,2024-08-19,2024,8,False,False
+CRS10615,Advanced 3D & Animation Masterclass,Design,3D & Animation,Portuguese,Grace Zhang,1.4,10552,3.7,155,"3D Modeling, C++",2,Yes,Intermediate,34.99,1192,2023-12-18,2023,12,False,False
+CRS10021,The Ultimate Content Marketing Course,Marketing,Content Marketing,Mandarin,Isabella Khan,2.4,2913,4.5,76,"Azure, HTML/CSS, 3D Modeling, Copywriting",4,No,Beginner,19.99,447,2024-08-10,2024,8,False,False
+CRS10701,Mastering Sales in 2025,Business,Sales,German,Lucia Fernandez,11.1,2703,5.0,95,Cybersecurity Basics,1,Yes,Beginner,0.0,600,2024-04-25,2024,4,False,False
+CRS10072,Complete Network & Security Bootcamp,It & Software,Network & Security,Mandarin,Anastasia Patel,6.0,55874,4.0,2191,"Figma, Guitar, Photoshop, Copywriting",4,No,All Levels,12.99,12863,2025-01-23,2025,1,True,False
+CRS10107,Complete Music Theory Bootcamp,Music,Music Theory,French,Kenji Ali,3.1,3631,4.1,206,Java,1,No,Advanced,12.99,313,2024-10-15,2024,10,False,False
+CRS10271,Mobile Development for Beginners,Development,Mobile Development,Portuguese,Lucia Singh,6.3,7900,4.3,191,Java,1,No,All Levels,59.99,1684,2024-11-17,2024,11,False,False
+CRS10436,Music Theory: Zero to Hero,Music,Music Theory,Spanish,Michael Chen,6.4,1696,5.0,95,"Figma, 3D Modeling, Unreal Engine",3,Yes,Advanced,34.99,320,2025-02-20,2025,2,False,False
+CRS10103,The Ultimate Cloud Computing Course,It & Software,Cloud Computing,Japanese,Sara Fernandez,3.2,6960,3.9,170,"Agile, Power BI, Scrum, Java, Video Editing",5,No,Beginner,59.99,1157,2025-08-04,2025,8,False,False
